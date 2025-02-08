@@ -1,0 +1,34 @@
+R
+Version
+R version 4.3.3 (2024-02-29 ucrt) – “Angel Food Cake”
+Copyright (C) 2024 The R Foundation for Statistical Computing Platform: x86_64-w64-mingw32/x64 (64-bit)
+
+License
+This software is distributed under the terms of the GNU General Public License, either Version 2, June 1991 or Version 3, June 2007.
+The terms of version 2 of the license are in a file called COPYING which you should have received with this software and which can be displayed by RShowDoc (“COPYING”).
+Version 3 of the license can be displayed by RShowDoc (“GPL-3”).
+
+Copies of both versions 2 and 3 of the licenses can be found at https://www.R-project.org/Licenses/.
+
+A small number of files (the API header files listed in R_DOC_DIR/COPYRIGHTS) are distributed under the LESSER GNU GENERAL PUBLIC LICENSE, version 2.1 or later. This can be displayed by RShowDoc (“LGPL-2.1”), or obtained at the URI given. Version 3 of the license can be displayed by RShowDoc (“LGPL-3”).
+
+‘Share and Enjoy.’
+
+The following licenses are in use for R or associated software such as packages.
+
+The “GNU Affero General Public License” version 3
+The “Artistic License” version 2.0
+The “BSD 2-clause License”
+The “BSD 3-clause License”
+The “GNU General Public License” version 2
+The “GNU General Public License” version 3
+The “GNU Library General Public License” version 2
+The “GNU Lesser General Public License” version 2.1
+The “GNU Lesser General Public License” version 3
+The “MIT License”
+The “Creative Commons Attribution-ShareAlike International License” version 4.0
+R as a package is licensed under GPL-2 | GPL-3. File doc/COPYING is the same as GPL-2.
+
+Some files are licensed under ‘GPL (version 2 or later)’, which includes GPL-3. See the comments in the files to see if this applies.
+
+Some header files are distributed under LGPL-2.1: see file COPYRIGHTS (on the SVN server).
