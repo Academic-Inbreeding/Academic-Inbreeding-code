@@ -12,3 +12,15 @@ System Requirements
 ---
 This project runs on the Windows operating system. Below are the required software and details:
 R Version: R 4.3.3 (2024-02-29 ucrt) License: R is distributed under the GNU General Public License (GPL-2 | GPL-3). For more details on licensing, visit: https://www.R-project.org/Licenses/.
+
+Demo
+---
+To run the demo: Load the provided dataset (/demo/demo.csv) into R
+
+License
+---
+This repository follows the license of R  for its respective code and dependencies. Refer to the official documentation for details.
+
+Issues
+---
+For any issues or questions, please create an issue in this repository or contact the authors.
