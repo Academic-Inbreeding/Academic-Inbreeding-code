@@ -1,0 +1,3073 @@
+domain,year,gender,variable,value
+Applied Sciences,1975,Male,inbreeding1,0.133333333
+Applied Sciences,1975,Male,inbreeding2,0.177777778
+Applied Sciences,1975,Male,inbreeding3,0.155555556
+Applied Sciences,1975,Male,inbreeding4,0.2
+Applied Sciences,1975,Female,inbreeding1,0.055555556
+Applied Sciences,1975,Female,inbreeding2,0.111111111
+Applied Sciences,1975,Female,inbreeding3,0.166666667
+Applied Sciences,1975,Female,inbreeding4,0.222222222
+Applied Sciences,1976,Male,inbreeding1,0.093023256
+Applied Sciences,1976,Male,inbreeding2,0.162790698
+Applied Sciences,1976,Male,inbreeding3,0.23255814
+Applied Sciences,1976,Male,inbreeding4,0.302325581
+Applied Sciences,1976,Female,inbreeding1,0.086956522
+Applied Sciences,1976,Female,inbreeding2,0.173913043
+Applied Sciences,1976,Female,inbreeding3,0.304347826
+Applied Sciences,1976,Female,inbreeding4,0.391304348
+Applied Sciences,1977,Male,inbreeding1,0.040816327
+Applied Sciences,1977,Male,inbreeding2,0.163265306
+Applied Sciences,1977,Male,inbreeding3,0.142857143
+Applied Sciences,1977,Male,inbreeding4,0.265306122
+Applied Sciences,1977,Female,inbreeding1,0.153846154
+Applied Sciences,1977,Female,inbreeding2,0.269230769
+Applied Sciences,1977,Female,inbreeding3,0.269230769
+Applied Sciences,1977,Female,inbreeding4,0.384615385
+Applied Sciences,1978,Male,inbreeding1,0.05
+Applied Sciences,1978,Male,inbreeding2,0.133333333
+Applied Sciences,1978,Male,inbreeding3,0.166666667
+Applied Sciences,1978,Male,inbreeding4,0.25
+Applied Sciences,1978,Female,inbreeding1,0.111111111
+Applied Sciences,1978,Female,inbreeding2,0.111111111
+Applied Sciences,1978,Female,inbreeding3,0.166666667
+Applied Sciences,1978,Female,inbreeding4,0.166666667
+Applied Sciences,1979,Male,inbreeding1,0.054794521
+Applied Sciences,1979,Male,inbreeding2,0.136986301
+Applied Sciences,1979,Male,inbreeding3,0.136986301
+Applied Sciences,1979,Male,inbreeding4,0.219178082
+Applied Sciences,1979,Female,inbreeding1,0
+Applied Sciences,1979,Female,inbreeding2,0.136363636
+Applied Sciences,1979,Female,inbreeding3,0.090909091
+Applied Sciences,1979,Female,inbreeding4,0.227272727
+Applied Sciences,1980,Male,inbreeding1,0.010752688
+Applied Sciences,1980,Male,inbreeding2,0.064516129
+Applied Sciences,1980,Male,inbreeding3,0.107526882
+Applied Sciences,1980,Male,inbreeding4,0.161290323
+Applied Sciences,1980,Female,inbreeding1,0.151515152
+Applied Sciences,1980,Female,inbreeding2,0.272727273
+Applied Sciences,1980,Female,inbreeding3,0.242424242
+Applied Sciences,1980,Female,inbreeding4,0.363636364
+Applied Sciences,1981,Male,inbreeding1,0.06097561
+Applied Sciences,1981,Male,inbreeding2,0.12195122
+Applied Sciences,1981,Male,inbreeding3,0.146341463
+Applied Sciences,1981,Male,inbreeding4,0.207317073
+Applied Sciences,1981,Female,inbreeding1,0.1
+Applied Sciences,1981,Female,inbreeding2,0.15
+Applied Sciences,1981,Female,inbreeding3,0.2
+Applied Sciences,1981,Female,inbreeding4,0.25
+Applied Sciences,1982,Male,inbreeding1,0.05
+Applied Sciences,1982,Male,inbreeding2,0.125
+Applied Sciences,1982,Male,inbreeding3,0.1625
+Applied Sciences,1982,Male,inbreeding4,0.2375
+Applied Sciences,1982,Female,inbreeding1,0.105263158
+Applied Sciences,1982,Female,inbreeding2,0.236842105
+Applied Sciences,1982,Female,inbreeding3,0.210526316
+Applied Sciences,1982,Female,inbreeding4,0.342105263
+Applied Sciences,1983,Male,inbreeding1,0.071428571
+Applied Sciences,1983,Male,inbreeding2,0.163265306
+Applied Sciences,1983,Male,inbreeding3,0.153061224
+Applied Sciences,1983,Male,inbreeding4,0.244897959
+Applied Sciences,1983,Female,inbreeding1,0.046511628
+Applied Sciences,1983,Female,inbreeding2,0.11627907
+Applied Sciences,1983,Female,inbreeding3,0.139534884
+Applied Sciences,1983,Female,inbreeding4,0.209302326
+Applied Sciences,1984,Male,inbreeding1,0.063063063
+Applied Sciences,1984,Male,inbreeding2,0.108108108
+Applied Sciences,1984,Male,inbreeding3,0.126126126
+Applied Sciences,1984,Male,inbreeding4,0.171171171
+Applied Sciences,1984,Female,inbreeding1,0.158730159
+Applied Sciences,1984,Female,inbreeding2,0.26984127
+Applied Sciences,1984,Female,inbreeding3,0.26984127
+Applied Sciences,1984,Female,inbreeding4,0.380952381
+Applied Sciences,1985,Male,inbreeding1,0.079365079
+Applied Sciences,1985,Male,inbreeding2,0.142857143
+Applied Sciences,1985,Male,inbreeding3,0.150793651
+Applied Sciences,1985,Male,inbreeding4,0.214285714
+Applied Sciences,1985,Female,inbreeding1,0.112676056
+Applied Sciences,1985,Female,inbreeding2,0.253521127
+Applied Sciences,1985,Female,inbreeding3,0.211267606
+Applied Sciences,1985,Female,inbreeding4,0.352112676
+Applied Sciences,1986,Male,inbreeding1,0.06626506
+Applied Sciences,1986,Male,inbreeding2,0.180722892
+Applied Sciences,1986,Male,inbreeding3,0.156626506
+Applied Sciences,1986,Male,inbreeding4,0.271084337
+Applied Sciences,1986,Female,inbreeding1,0.148514851
+Applied Sciences,1986,Female,inbreeding2,0.198019802
+Applied Sciences,1986,Female,inbreeding3,0.227722772
+Applied Sciences,1986,Female,inbreeding4,0.277227723
+Applied Sciences,1987,Male,inbreeding1,0.06547619
+Applied Sciences,1987,Male,inbreeding2,0.178571429
+Applied Sciences,1987,Male,inbreeding3,0.125
+Applied Sciences,1987,Male,inbreeding4,0.238095238
+Applied Sciences,1987,Female,inbreeding1,0.104166667
+Applied Sciences,1987,Female,inbreeding2,0.177083333
+Applied Sciences,1987,Female,inbreeding3,0.208333333
+Applied Sciences,1987,Female,inbreeding4,0.28125
+Applied Sciences,1988,Male,inbreeding1,0.070175439
+Applied Sciences,1988,Male,inbreeding2,0.157894737
+Applied Sciences,1988,Male,inbreeding3,0.187134503
+Applied Sciences,1988,Male,inbreeding4,0.274853801
+Applied Sciences,1988,Female,inbreeding1,0.074074074
+Applied Sciences,1988,Female,inbreeding2,0.148148148
+Applied Sciences,1988,Female,inbreeding3,0.166666667
+Applied Sciences,1988,Female,inbreeding4,0.240740741
+Applied Sciences,1989,Male,inbreeding1,0.069518717
+Applied Sciences,1989,Male,inbreeding2,0.139037433
+Applied Sciences,1989,Male,inbreeding3,0.144385027
+Applied Sciences,1989,Male,inbreeding4,0.213903743
+Applied Sciences,1989,Female,inbreeding1,0.104347826
+Applied Sciences,1989,Female,inbreeding2,0.208695652
+Applied Sciences,1989,Female,inbreeding3,0.2
+Applied Sciences,1989,Female,inbreeding4,0.304347826
+Applied Sciences,1990,Male,inbreeding1,0.052401747
+Applied Sciences,1990,Male,inbreeding2,0.096069869
+Applied Sciences,1990,Male,inbreeding3,0.170305677
+Applied Sciences,1990,Male,inbreeding4,0.213973799
+Applied Sciences,1990,Female,inbreeding1,0.053846154
+Applied Sciences,1990,Female,inbreeding2,0.138461538
+Applied Sciences,1990,Female,inbreeding3,0.169230769
+Applied Sciences,1990,Female,inbreeding4,0.253846154
+Applied Sciences,1991,Male,inbreeding1,0.055776892
+Applied Sciences,1991,Male,inbreeding2,0.12749004
+Applied Sciences,1991,Male,inbreeding3,0.12749004
+Applied Sciences,1991,Male,inbreeding4,0.199203187
+Applied Sciences,1991,Female,inbreeding1,0.083916084
+Applied Sciences,1991,Female,inbreeding2,0.188811189
+Applied Sciences,1991,Female,inbreeding3,0.195804196
+Applied Sciences,1991,Female,inbreeding4,0.300699301
+Applied Sciences,1992,Male,inbreeding1,0.071729958
+Applied Sciences,1992,Male,inbreeding2,0.17721519
+Applied Sciences,1992,Male,inbreeding3,0.168776371
+Applied Sciences,1992,Male,inbreeding4,0.274261603
+Applied Sciences,1992,Female,inbreeding1,0.080882353
+Applied Sciences,1992,Female,inbreeding2,0.183823529
+Applied Sciences,1992,Female,inbreeding3,0.205882353
+Applied Sciences,1992,Female,inbreeding4,0.308823529
+Applied Sciences,1993,Male,inbreeding1,0.087719298
+Applied Sciences,1993,Male,inbreeding2,0.171052632
+Applied Sciences,1993,Male,inbreeding3,0.162280702
+Applied Sciences,1993,Male,inbreeding4,0.245614035
+Applied Sciences,1993,Female,inbreeding1,0.067567568
+Applied Sciences,1993,Female,inbreeding2,0.141891892
+Applied Sciences,1993,Female,inbreeding3,0.182432432
+Applied Sciences,1993,Female,inbreeding4,0.256756757
+Applied Sciences,1994,Male,inbreeding1,0.071186441
+Applied Sciences,1994,Male,inbreeding2,0.118644068
+Applied Sciences,1994,Male,inbreeding3,0.152542373
+Applied Sciences,1994,Male,inbreeding4,0.2
+Applied Sciences,1994,Female,inbreeding1,0.104972376
+Applied Sciences,1994,Female,inbreeding2,0.193370166
+Applied Sciences,1994,Female,inbreeding3,0.187845304
+Applied Sciences,1994,Female,inbreeding4,0.276243094
+Applied Sciences,1995,Male,inbreeding1,0.079027356
+Applied Sciences,1995,Male,inbreeding2,0.164133739
+Applied Sciences,1995,Male,inbreeding3,0.158054711
+Applied Sciences,1995,Male,inbreeding4,0.243161094
+Applied Sciences,1995,Female,inbreeding1,0.087628866
+Applied Sciences,1995,Female,inbreeding2,0.180412371
+Applied Sciences,1995,Female,inbreeding3,0.216494845
+Applied Sciences,1995,Female,inbreeding4,0.309278351
+Applied Sciences,1996,Male,inbreeding1,0.052785924
+Applied Sciences,1996,Male,inbreeding2,0.152492669
+Applied Sciences,1996,Male,inbreeding3,0.129032258
+Applied Sciences,1996,Male,inbreeding4,0.228739003
+Applied Sciences,1996,Female,inbreeding1,0.111607143
+Applied Sciences,1996,Female,inbreeding2,0.200892857
+Applied Sciences,1996,Female,inbreeding3,0.200892857
+Applied Sciences,1996,Female,inbreeding4,0.290178571
+Applied Sciences,1997,Male,inbreeding1,0.103797468
+Applied Sciences,1997,Male,inbreeding2,0.197468354
+Applied Sciences,1997,Male,inbreeding3,0.174683544
+Applied Sciences,1997,Male,inbreeding4,0.26835443
+Applied Sciences,1997,Female,inbreeding1,0.085020243
+Applied Sciences,1997,Female,inbreeding2,0.174089069
+Applied Sciences,1997,Female,inbreeding3,0.206477733
+Applied Sciences,1997,Female,inbreeding4,0.295546559
+Applied Sciences,1998,Male,inbreeding1,0.063348416
+Applied Sciences,1998,Male,inbreeding2,0.128959276
+Applied Sciences,1998,Male,inbreeding3,0.156108597
+Applied Sciences,1998,Male,inbreeding4,0.221719457
+Applied Sciences,1998,Female,inbreeding1,0.069230769
+Applied Sciences,1998,Female,inbreeding2,0.161538462
+Applied Sciences,1998,Female,inbreeding3,0.184615385
+Applied Sciences,1998,Female,inbreeding4,0.276923077
+Applied Sciences,1999,Male,inbreeding1,0.073496659
+Applied Sciences,1999,Male,inbreeding2,0.135857461
+Applied Sciences,1999,Male,inbreeding3,0.14922049
+Applied Sciences,1999,Male,inbreeding4,0.211581292
+Applied Sciences,1999,Female,inbreeding1,0.079422383
+Applied Sciences,1999,Female,inbreeding2,0.166064982
+Applied Sciences,1999,Female,inbreeding3,0.184115523
+Applied Sciences,1999,Female,inbreeding4,0.270758123
+Applied Sciences,2000,Male,inbreeding1,0.083798883
+Applied Sciences,2000,Male,inbreeding2,0.154562384
+Applied Sciences,2000,Male,inbreeding3,0.176908752
+Applied Sciences,2000,Male,inbreeding4,0.247672253
+Applied Sciences,2000,Female,inbreeding1,0.071428571
+Applied Sciences,2000,Female,inbreeding2,0.164021164
+Applied Sciences,2000,Female,inbreeding3,0.177248677
+Applied Sciences,2000,Female,inbreeding4,0.26984127
+Applied Sciences,2001,Male,inbreeding1,0.064285714
+Applied Sciences,2001,Male,inbreeding2,0.158928571
+Applied Sciences,2001,Male,inbreeding3,0.151785714
+Applied Sciences,2001,Male,inbreeding4,0.246428571
+Applied Sciences,2001,Female,inbreeding1,0.109289617
+Applied Sciences,2001,Female,inbreeding2,0.193989071
+Applied Sciences,2001,Female,inbreeding3,0.229508197
+Applied Sciences,2001,Female,inbreeding4,0.31420765
+Applied Sciences,2002,Male,inbreeding1,0.079617834
+Applied Sciences,2002,Male,inbreeding2,0.171974522
+Applied Sciences,2002,Male,inbreeding3,0.160828025
+Applied Sciences,2002,Male,inbreeding4,0.253184713
+Applied Sciences,2002,Female,inbreeding1,0.092009685
+Applied Sciences,2002,Female,inbreeding2,0.186440678
+Applied Sciences,2002,Female,inbreeding3,0.18401937
+Applied Sciences,2002,Female,inbreeding4,0.278450363
+Applied Sciences,2003,Male,inbreeding1,0.065318818
+Applied Sciences,2003,Male,inbreeding2,0.136858476
+Applied Sciences,2003,Male,inbreeding3,0.167962675
+Applied Sciences,2003,Male,inbreeding4,0.239502333
+Applied Sciences,2003,Female,inbreeding1,0.089285714
+Applied Sciences,2003,Female,inbreeding2,0.176339286
+Applied Sciences,2003,Female,inbreeding3,0.180803571
+Applied Sciences,2003,Female,inbreeding4,0.267857143
+Applied Sciences,2004,Male,inbreeding1,0.083707025
+Applied Sciences,2004,Male,inbreeding2,0.168908819
+Applied Sciences,2004,Male,inbreeding3,0.170403587
+Applied Sciences,2004,Male,inbreeding4,0.255605381
+Applied Sciences,2004,Female,inbreeding1,0.079268293
+Applied Sciences,2004,Female,inbreeding2,0.152439024
+Applied Sciences,2004,Female,inbreeding3,0.166666667
+Applied Sciences,2004,Female,inbreeding4,0.239837398
+Applied Sciences,2005,Male,inbreeding1,0.087281796
+Applied Sciences,2005,Male,inbreeding2,0.162094763
+Applied Sciences,2005,Male,inbreeding3,0.187032419
+Applied Sciences,2005,Male,inbreeding4,0.261845387
+Applied Sciences,2005,Female,inbreeding1,0.094594595
+Applied Sciences,2005,Female,inbreeding2,0.170608108
+Applied Sciences,2005,Female,inbreeding3,0.202702703
+Applied Sciences,2005,Female,inbreeding4,0.278716216
+Applied Sciences,2006,Male,inbreeding1,0.054626533
+Applied Sciences,2006,Male,inbreeding2,0.140468227
+Applied Sciences,2006,Male,inbreeding3,0.153846154
+Applied Sciences,2006,Male,inbreeding4,0.239687848
+Applied Sciences,2006,Female,inbreeding1,0.086124402
+Applied Sciences,2006,Female,inbreeding2,0.185007974
+Applied Sciences,2006,Female,inbreeding3,0.175438596
+Applied Sciences,2006,Female,inbreeding4,0.274322169
+Applied Sciences,2007,Male,inbreeding1,0.064285714
+Applied Sciences,2007,Male,inbreeding2,0.146938776
+Applied Sciences,2007,Male,inbreeding3,0.170408163
+Applied Sciences,2007,Male,inbreeding4,0.253061224
+Applied Sciences,2007,Female,inbreeding1,0.070950469
+Applied Sciences,2007,Female,inbreeding2,0.140562249
+Applied Sciences,2007,Female,inbreeding3,0.157965194
+Applied Sciences,2007,Female,inbreeding4,0.227576975
+Applied Sciences,2008,Male,inbreeding1,0.0684803
+Applied Sciences,2008,Male,inbreeding2,0.157598499
+Applied Sciences,2008,Male,inbreeding3,0.165103189
+Applied Sciences,2008,Male,inbreeding4,0.254221388
+Applied Sciences,2008,Female,inbreeding1,0.093480935
+Applied Sciences,2008,Female,inbreeding2,0.185731857
+Applied Sciences,2008,Female,inbreeding3,0.18696187
+Applied Sciences,2008,Female,inbreeding4,0.279212792
+Applied Sciences,2009,Male,inbreeding1,0.059915612
+Applied Sciences,2009,Male,inbreeding2,0.134177215
+Applied Sciences,2009,Male,inbreeding3,0.157805907
+Applied Sciences,2009,Male,inbreeding4,0.232067511
+Applied Sciences,2009,Female,inbreeding1,0.078674948
+Applied Sciences,2009,Female,inbreeding2,0.141821946
+Applied Sciences,2009,Female,inbreeding3,0.183229814
+Applied Sciences,2009,Female,inbreeding4,0.246376812
+Applied Sciences,2010,Male,inbreeding1,0.065340909
+Applied Sciences,2010,Male,inbreeding2,0.144886364
+Applied Sciences,2010,Male,inbreeding3,0.1640625
+Applied Sciences,2010,Male,inbreeding4,0.243607955
+Applied Sciences,2010,Female,inbreeding1,0.085841695
+Applied Sciences,2010,Female,inbreeding2,0.149386845
+Applied Sciences,2010,Female,inbreeding3,0.182831661
+Applied Sciences,2010,Female,inbreeding4,0.246376812
+Applied Sciences,2011,Male,inbreeding1,0.075144509
+Applied Sciences,2011,Male,inbreeding2,0.138728324
+Applied Sciences,2011,Male,inbreeding3,0.158236994
+Applied Sciences,2011,Male,inbreeding4,0.221820809
+Applied Sciences,2011,Female,inbreeding1,0.076210093
+Applied Sciences,2011,Female,inbreeding2,0.140061792
+Applied Sciences,2011,Female,inbreeding3,0.169927909
+Applied Sciences,2011,Female,inbreeding4,0.233779609
+Applied Sciences,2012,Male,inbreeding1,0.077238551
+Applied Sciences,2012,Male,inbreeding2,0.146958305
+Applied Sciences,2012,Male,inbreeding3,0.173615858
+Applied Sciences,2012,Male,inbreeding4,0.243335612
+Applied Sciences,2012,Female,inbreeding1,0.070733864
+Applied Sciences,2012,Female,inbreeding2,0.142351901
+Applied Sciences,2012,Female,inbreeding3,0.16091954
+Applied Sciences,2012,Female,inbreeding4,0.232537577
+Applied Sciences,2013,Male,inbreeding1,0.060585885
+Applied Sciences,2013,Male,inbreeding2,0.119174434
+Applied Sciences,2013,Male,inbreeding3,0.161784288
+Applied Sciences,2013,Male,inbreeding4,0.220372836
+Applied Sciences,2013,Female,inbreeding1,0.079378775
+Applied Sciences,2013,Female,inbreeding2,0.151855047
+Applied Sciences,2013,Female,inbreeding3,0.18377912
+Applied Sciences,2013,Female,inbreeding4,0.256255393
+Applied Sciences,2014,Male,inbreeding1,0.069809069
+Applied Sciences,2014,Male,inbreeding2,0.131264916
+Applied Sciences,2014,Male,inbreeding3,0.168854415
+Applied Sciences,2014,Male,inbreeding4,0.230310263
+Applied Sciences,2014,Female,inbreeding1,0.069354839
+Applied Sciences,2014,Female,inbreeding2,0.130645161
+Applied Sciences,2014,Female,inbreeding3,0.179032258
+Applied Sciences,2014,Female,inbreeding4,0.240322581
+Applied Sciences,2015,Male,inbreeding1,0.078869923
+Applied Sciences,2015,Male,inbreeding2,0.136550912
+Applied Sciences,2015,Male,inbreeding3,0.171865803
+Applied Sciences,2015,Male,inbreeding4,0.229546792
+Applied Sciences,2015,Female,inbreeding1,0.073959938
+Applied Sciences,2015,Female,inbreeding2,0.133281972
+Applied Sciences,2015,Female,inbreeding3,0.177195686
+Applied Sciences,2015,Female,inbreeding4,0.23651772
+Applied Sciences,2016,Male,inbreeding1,0.066523605
+Applied Sciences,2016,Male,inbreeding2,0.123927039
+Applied Sciences,2016,Male,inbreeding3,0.177575107
+Applied Sciences,2016,Male,inbreeding4,0.234978541
+Applied Sciences,2016,Female,inbreeding1,0.079342387
+Applied Sciences,2016,Female,inbreeding2,0.140814868
+Applied Sciences,2016,Female,inbreeding3,0.190850608
+Applied Sciences,2016,Female,inbreeding4,0.252323088
+Applied Sciences,2017,Male,inbreeding1,0.070080863
+Applied Sciences,2017,Male,inbreeding2,0.120215633
+Applied Sciences,2017,Male,inbreeding3,0.173045822
+Applied Sciences,2017,Male,inbreeding4,0.223180593
+Applied Sciences,2017,Female,inbreeding1,0.073170732
+Applied Sciences,2017,Female,inbreeding2,0.1276901
+Applied Sciences,2017,Female,inbreeding3,0.184361549
+Applied Sciences,2017,Female,inbreeding4,0.238880918
+Applied Sciences,2018,Male,inbreeding1,0.055735931
+Applied Sciences,2018,Male,inbreeding2,0.100649351
+Applied Sciences,2018,Male,inbreeding3,0.15530303
+Applied Sciences,2018,Male,inbreeding4,0.20021645
+Applied Sciences,2018,Female,inbreeding1,0.07310149
+Applied Sciences,2018,Female,inbreeding2,0.114265436
+Applied Sciences,2018,Female,inbreeding3,0.180269695
+Applied Sciences,2018,Female,inbreeding4,0.221433641
+Applied Sciences,2019,Male,inbreeding1,0.059250978
+Applied Sciences,2019,Male,inbreeding2,0.099496926
+Applied Sciences,2019,Male,inbreeding3,0.161542761
+Applied Sciences,2019,Male,inbreeding4,0.201788709
+Applied Sciences,2019,Female,inbreeding1,0.063157895
+Applied Sciences,2019,Female,inbreeding2,0.101754386
+Applied Sciences,2019,Female,inbreeding3,0.17754386
+Applied Sciences,2019,Female,inbreeding4,0.216140351
+Applied Sciences,2020,Male,inbreeding1,0.067314365
+Applied Sciences,2020,Male,inbreeding2,0.101318529
+Applied Sciences,2020,Male,inbreeding3,0.173490632
+Applied Sciences,2020,Male,inbreeding4,0.207494795
+Applied Sciences,2020,Female,inbreeding1,0.069128788
+Applied Sciences,2020,Female,inbreeding2,0.106060606
+Applied Sciences,2020,Female,inbreeding3,0.181818182
+Applied Sciences,2020,Female,inbreeding4,0.21875
+Applied Sciences,2021,Male,inbreeding1,0.044591247
+Applied Sciences,2021,Male,inbreeding2,0.066061107
+Applied Sciences,2021,Male,inbreeding3,0.170933113
+Applied Sciences,2021,Male,inbreeding4,0.192402973
+Applied Sciences,2021,Female,inbreeding1,0.057546145
+Applied Sciences,2021,Female,inbreeding2,0.084690554
+Applied Sciences,2021,Female,inbreeding3,0.153094463
+Applied Sciences,2021,Female,inbreeding4,0.180238871
+Applied Sciences,2022,Male,inbreeding1,0.043841336
+Applied Sciences,2022,Male,inbreeding2,0.070981211
+Applied Sciences,2022,Male,inbreeding3,0.146137787
+Applied Sciences,2022,Male,inbreeding4,0.173277662
+Applied Sciences,2022,Female,inbreeding1,0.054263566
+Applied Sciences,2022,Female,inbreeding2,0.082687339
+Applied Sciences,2022,Female,inbreeding3,0.157622739
+Applied Sciences,2022,Female,inbreeding4,0.186046512
+Education,1975,Male,inbreeding1,0.090909091
+Education,1975,Male,inbreeding2,0.090909091
+Education,1975,Male,inbreeding3,0.090909091
+Education,1975,Male,inbreeding4,0.090909091
+Education,1975,Female,inbreeding1,0
+Education,1975,Female,inbreeding2,0.25
+Education,1975,Female,inbreeding3,0.25
+Education,1975,Female,inbreeding4,0.5
+Education,1976,Male,inbreeding1,0.076923077
+Education,1976,Male,inbreeding2,0.307692308
+Education,1976,Male,inbreeding3,0.076923077
+Education,1976,Male,inbreeding4,0.307692308
+Education,1976,Female,inbreeding1,0
+Education,1976,Female,inbreeding2,0
+Education,1976,Female,inbreeding3,0.4
+Education,1976,Female,inbreeding4,0.4
+Education,1977,Male,inbreeding1,0
+Education,1977,Male,inbreeding2,0
+Education,1977,Male,inbreeding3,0.142857143
+Education,1977,Male,inbreeding4,0.142857143
+Education,1977,Female,inbreeding1,0
+Education,1977,Female,inbreeding2,0
+Education,1977,Female,inbreeding3,0
+Education,1977,Female,inbreeding4,0
+Education,1978,Male,inbreeding1,0
+Education,1978,Male,inbreeding2,0.111111111
+Education,1978,Male,inbreeding3,0.111111111
+Education,1978,Male,inbreeding4,0.222222222
+Education,1978,Female,inbreeding1,0.25
+Education,1978,Female,inbreeding2,0.5
+Education,1978,Female,inbreeding3,0.25
+Education,1978,Female,inbreeding4,0.5
+Education,1979,Male,inbreeding1,0
+Education,1979,Male,inbreeding2,0
+Education,1979,Male,inbreeding3,0.125
+Education,1979,Male,inbreeding4,0.125
+Education,1979,Female,inbreeding1,0.111111111
+Education,1979,Female,inbreeding2,0.222222222
+Education,1979,Female,inbreeding3,0.111111111
+Education,1979,Female,inbreeding4,0.222222222
+Education,1980,Male,inbreeding1,0
+Education,1980,Male,inbreeding2,0.1
+Education,1980,Male,inbreeding3,0.3
+Education,1980,Male,inbreeding4,0.4
+Education,1980,Female,inbreeding1,0.142857143
+Education,1980,Female,inbreeding2,0.285714286
+Education,1980,Female,inbreeding3,0.285714286
+Education,1980,Female,inbreeding4,0.428571429
+Education,1981,Male,inbreeding1,0.111111111
+Education,1981,Male,inbreeding2,0.222222222
+Education,1981,Male,inbreeding3,0.333333333
+Education,1981,Male,inbreeding4,0.444444444
+Education,1981,Female,inbreeding1,0
+Education,1981,Female,inbreeding2,0.25
+Education,1981,Female,inbreeding3,0.375
+Education,1981,Female,inbreeding4,0.625
+Education,1982,Male,inbreeding1,0.3
+Education,1982,Male,inbreeding2,0.3
+Education,1982,Male,inbreeding3,0.3
+Education,1982,Male,inbreeding4,0.3
+Education,1982,Female,inbreeding1,0.181818182
+Education,1982,Female,inbreeding2,0.454545455
+Education,1982,Female,inbreeding3,0.363636364
+Education,1982,Female,inbreeding4,0.636363636
+Education,1983,Male,inbreeding1,0.230769231
+Education,1983,Male,inbreeding2,0.384615385
+Education,1983,Male,inbreeding3,0.384615385
+Education,1983,Male,inbreeding4,0.538461538
+Education,1983,Female,inbreeding1,0
+Education,1983,Female,inbreeding2,0
+Education,1983,Female,inbreeding3,0.5
+Education,1983,Female,inbreeding4,0.5
+Education,1984,Male,inbreeding1,0.2
+Education,1984,Male,inbreeding2,0.3
+Education,1984,Male,inbreeding3,0.3
+Education,1984,Male,inbreeding4,0.4
+Education,1984,Female,inbreeding1,0.111111111
+Education,1984,Female,inbreeding2,0.333333333
+Education,1984,Female,inbreeding3,0.111111111
+Education,1984,Female,inbreeding4,0.333333333
+Education,1985,Male,inbreeding1,0.117647059
+Education,1985,Male,inbreeding2,0.235294118
+Education,1985,Male,inbreeding3,0.117647059
+Education,1985,Male,inbreeding4,0.235294118
+Education,1985,Female,inbreeding1,0.111111111
+Education,1985,Female,inbreeding2,0.166666667
+Education,1985,Female,inbreeding3,0.333333333
+Education,1985,Female,inbreeding4,0.388888889
+Education,1986,Male,inbreeding1,0.083333333
+Education,1986,Male,inbreeding2,0.416666667
+Education,1986,Male,inbreeding3,0.166666667
+Education,1986,Male,inbreeding4,0.5
+Education,1986,Female,inbreeding1,0.076923077
+Education,1986,Female,inbreeding2,0.153846154
+Education,1986,Female,inbreeding3,0.153846154
+Education,1986,Female,inbreeding4,0.230769231
+Education,1987,Male,inbreeding1,0
+Education,1987,Male,inbreeding2,0.066666667
+Education,1987,Male,inbreeding3,0.066666667
+Education,1987,Male,inbreeding4,0.133333333
+Education,1987,Female,inbreeding1,0.047619048
+Education,1987,Female,inbreeding2,0.238095238
+Education,1987,Female,inbreeding3,0.19047619
+Education,1987,Female,inbreeding4,0.380952381
+Education,1988,Male,inbreeding1,0.071428571
+Education,1988,Male,inbreeding2,0.214285714
+Education,1988,Male,inbreeding3,0.142857143
+Education,1988,Male,inbreeding4,0.285714286
+Education,1988,Female,inbreeding1,0.083333333
+Education,1988,Female,inbreeding2,0.125
+Education,1988,Female,inbreeding3,0.166666667
+Education,1988,Female,inbreeding4,0.208333333
+Education,1989,Male,inbreeding1,0.129032258
+Education,1989,Male,inbreeding2,0.258064516
+Education,1989,Male,inbreeding3,0.290322581
+Education,1989,Male,inbreeding4,0.419354839
+Education,1989,Female,inbreeding1,0.045454545
+Education,1989,Female,inbreeding2,0.272727273
+Education,1989,Female,inbreeding3,0.136363636
+Education,1989,Female,inbreeding4,0.363636364
+Education,1990,Male,inbreeding1,0.235294118
+Education,1990,Male,inbreeding2,0.352941176
+Education,1990,Male,inbreeding3,0.294117647
+Education,1990,Male,inbreeding4,0.411764706
+Education,1990,Female,inbreeding1,0.153846154
+Education,1990,Female,inbreeding2,0.230769231
+Education,1990,Female,inbreeding3,0.192307692
+Education,1990,Female,inbreeding4,0.269230769
+Education,1991,Male,inbreeding1,0.130434783
+Education,1991,Male,inbreeding2,0.130434783
+Education,1991,Male,inbreeding3,0.304347826
+Education,1991,Male,inbreeding4,0.304347826
+Education,1991,Female,inbreeding1,0
+Education,1991,Female,inbreeding2,0.125
+Education,1991,Female,inbreeding3,0.125
+Education,1991,Female,inbreeding4,0.25
+Education,1992,Male,inbreeding1,0.086956522
+Education,1992,Male,inbreeding2,0.304347826
+Education,1992,Male,inbreeding3,0.217391304
+Education,1992,Male,inbreeding4,0.434782609
+Education,1992,Female,inbreeding1,0.041666667
+Education,1992,Female,inbreeding2,0.125
+Education,1992,Female,inbreeding3,0.166666667
+Education,1992,Female,inbreeding4,0.25
+Education,1993,Male,inbreeding1,0.153846154
+Education,1993,Male,inbreeding2,0.205128205
+Education,1993,Male,inbreeding3,0.282051282
+Education,1993,Male,inbreeding4,0.333333333
+Education,1993,Female,inbreeding1,0.142857143
+Education,1993,Female,inbreeding2,0.357142857
+Education,1993,Female,inbreeding3,0.214285714
+Education,1993,Female,inbreeding4,0.428571429
+Education,1994,Male,inbreeding1,0.088235294
+Education,1994,Male,inbreeding2,0.176470588
+Education,1994,Male,inbreeding3,0.176470588
+Education,1994,Male,inbreeding4,0.264705882
+Education,1994,Female,inbreeding1,0.066666667
+Education,1994,Female,inbreeding2,0.3
+Education,1994,Female,inbreeding3,0.2
+Education,1994,Female,inbreeding4,0.433333333
+Education,1995,Male,inbreeding1,0.073170732
+Education,1995,Male,inbreeding2,0.243902439
+Education,1995,Male,inbreeding3,0.170731707
+Education,1995,Male,inbreeding4,0.341463415
+Education,1995,Female,inbreeding1,0.085714286
+Education,1995,Female,inbreeding2,0.257142857
+Education,1995,Female,inbreeding3,0.114285714
+Education,1995,Female,inbreeding4,0.285714286
+Education,1996,Male,inbreeding1,0.12244898
+Education,1996,Male,inbreeding2,0.204081633
+Education,1996,Male,inbreeding3,0.183673469
+Education,1996,Male,inbreeding4,0.265306122
+Education,1996,Female,inbreeding1,0.113636364
+Education,1996,Female,inbreeding2,0.295454545
+Education,1996,Female,inbreeding3,0.204545455
+Education,1996,Female,inbreeding4,0.386363636
+Education,1997,Male,inbreeding1,0.044444444
+Education,1997,Male,inbreeding2,0.2
+Education,1997,Male,inbreeding3,0.222222222
+Education,1997,Male,inbreeding4,0.377777778
+Education,1997,Female,inbreeding1,0.071428571
+Education,1997,Female,inbreeding2,0.166666667
+Education,1997,Female,inbreeding3,0.214285714
+Education,1997,Female,inbreeding4,0.30952381
+Education,1998,Male,inbreeding1,0.035714286
+Education,1998,Male,inbreeding2,0.160714286
+Education,1998,Male,inbreeding3,0.142857143
+Education,1998,Male,inbreeding4,0.267857143
+Education,1998,Female,inbreeding1,0.15
+Education,1998,Female,inbreeding2,0.3
+Education,1998,Female,inbreeding3,0.275
+Education,1998,Female,inbreeding4,0.425
+Education,1999,Male,inbreeding1,0.048387097
+Education,1999,Male,inbreeding2,0.177419355
+Education,1999,Male,inbreeding3,0.14516129
+Education,1999,Male,inbreeding4,0.274193548
+Education,1999,Female,inbreeding1,0.083333333
+Education,1999,Female,inbreeding2,0.166666667
+Education,1999,Female,inbreeding3,0.1875
+Education,1999,Female,inbreeding4,0.270833333
+Education,2000,Male,inbreeding1,0.111111111
+Education,2000,Male,inbreeding2,0.209876543
+Education,2000,Male,inbreeding3,0.172839506
+Education,2000,Male,inbreeding4,0.271604938
+Education,2000,Female,inbreeding1,0.076923077
+Education,2000,Female,inbreeding2,0.215384615
+Education,2000,Female,inbreeding3,0.123076923
+Education,2000,Female,inbreeding4,0.261538462
+Education,2001,Male,inbreeding1,0.090909091
+Education,2001,Male,inbreeding2,0.181818182
+Education,2001,Male,inbreeding3,0.238636364
+Education,2001,Male,inbreeding4,0.329545455
+Education,2001,Female,inbreeding1,0.08
+Education,2001,Female,inbreeding2,0.18
+Education,2001,Female,inbreeding3,0.2
+Education,2001,Female,inbreeding4,0.3
+Education,2002,Male,inbreeding1,0.054054054
+Education,2002,Male,inbreeding2,0.135135135
+Education,2002,Male,inbreeding3,0.162162162
+Education,2002,Male,inbreeding4,0.243243243
+Education,2002,Female,inbreeding1,0.093333333
+Education,2002,Female,inbreeding2,0.266666667
+Education,2002,Female,inbreeding3,0.253333333
+Education,2002,Female,inbreeding4,0.426666667
+Education,2003,Male,inbreeding1,0.054054054
+Education,2003,Male,inbreeding2,0.216216216
+Education,2003,Male,inbreeding3,0.148648649
+Education,2003,Male,inbreeding4,0.310810811
+Education,2003,Female,inbreeding1,0.138461538
+Education,2003,Female,inbreeding2,0.276923077
+Education,2003,Female,inbreeding3,0.246153846
+Education,2003,Female,inbreeding4,0.384615385
+Education,2004,Male,inbreeding1,0.106796117
+Education,2004,Male,inbreeding2,0.194174757
+Education,2004,Male,inbreeding3,0.203883495
+Education,2004,Male,inbreeding4,0.291262136
+Education,2004,Female,inbreeding1,0.054054054
+Education,2004,Female,inbreeding2,0.175675676
+Education,2004,Female,inbreeding3,0.22972973
+Education,2004,Female,inbreeding4,0.351351351
+Education,2005,Male,inbreeding1,0.107142857
+Education,2005,Male,inbreeding2,0.207142857
+Education,2005,Male,inbreeding3,0.164285714
+Education,2005,Male,inbreeding4,0.264285714
+Education,2005,Female,inbreeding1,0.055555556
+Education,2005,Female,inbreeding2,0.255555556
+Education,2005,Female,inbreeding3,0.133333333
+Education,2005,Female,inbreeding4,0.333333333
+Education,2006,Male,inbreeding1,0.098484848
+Education,2006,Male,inbreeding2,0.181818182
+Education,2006,Male,inbreeding3,0.227272727
+Education,2006,Male,inbreeding4,0.310606061
+Education,2006,Female,inbreeding1,0.027777778
+Education,2006,Female,inbreeding2,0.111111111
+Education,2006,Female,inbreeding3,0.157407407
+Education,2006,Female,inbreeding4,0.240740741
+Education,2007,Male,inbreeding1,0.077922078
+Education,2007,Male,inbreeding2,0.162337662
+Education,2007,Male,inbreeding3,0.168831169
+Education,2007,Male,inbreeding4,0.253246753
+Education,2007,Female,inbreeding1,0.147540984
+Education,2007,Female,inbreeding2,0.229508197
+Education,2007,Female,inbreeding3,0.262295082
+Education,2007,Female,inbreeding4,0.344262295
+Education,2008,Male,inbreeding1,0.044025157
+Education,2008,Male,inbreeding2,0.157232704
+Education,2008,Male,inbreeding3,0.119496855
+Education,2008,Male,inbreeding4,0.232704403
+Education,2008,Female,inbreeding1,0.040322581
+Education,2008,Female,inbreeding2,0.201612903
+Education,2008,Female,inbreeding3,0.193548387
+Education,2008,Female,inbreeding4,0.35483871
+Education,2009,Male,inbreeding1,0.091463415
+Education,2009,Male,inbreeding2,0.195121951
+Education,2009,Male,inbreeding3,0.201219512
+Education,2009,Male,inbreeding4,0.304878049
+Education,2009,Female,inbreeding1,0.103896104
+Education,2009,Female,inbreeding2,0.201298701
+Education,2009,Female,inbreeding3,0.246753247
+Education,2009,Female,inbreeding4,0.344155844
+Education,2010,Male,inbreeding1,0.046783626
+Education,2010,Male,inbreeding2,0.140350877
+Education,2010,Male,inbreeding3,0.122807018
+Education,2010,Male,inbreeding4,0.216374269
+Education,2010,Female,inbreeding1,0.087248322
+Education,2010,Female,inbreeding2,0.201342282
+Education,2010,Female,inbreeding3,0.194630872
+Education,2010,Female,inbreeding4,0.308724832
+Education,2011,Male,inbreeding1,0.074626866
+Education,2011,Male,inbreeding2,0.134328358
+Education,2011,Male,inbreeding3,0.149253731
+Education,2011,Male,inbreeding4,0.208955224
+Education,2011,Female,inbreeding1,0.062937063
+Education,2011,Female,inbreeding2,0.153846154
+Education,2011,Female,inbreeding3,0.181818182
+Education,2011,Female,inbreeding4,0.272727273
+Education,2012,Male,inbreeding1,0.067307692
+Education,2012,Male,inbreeding2,0.149038462
+Education,2012,Male,inbreeding3,0.158653846
+Education,2012,Male,inbreeding4,0.240384615
+Education,2012,Female,inbreeding1,0.075
+Education,2012,Female,inbreeding2,0.18125
+Education,2012,Female,inbreeding3,0.1875
+Education,2012,Female,inbreeding4,0.29375
+Education,2013,Male,inbreeding1,0.085201794
+Education,2013,Male,inbreeding2,0.170403587
+Education,2013,Male,inbreeding3,0.233183857
+Education,2013,Male,inbreeding4,0.31838565
+Education,2013,Female,inbreeding1,0.082278481
+Education,2013,Female,inbreeding2,0.202531646
+Education,2013,Female,inbreeding3,0.208860759
+Education,2013,Female,inbreeding4,0.329113924
+Education,2014,Male,inbreeding1,0.080508475
+Education,2014,Male,inbreeding2,0.152542373
+Education,2014,Male,inbreeding3,0.228813559
+Education,2014,Male,inbreeding4,0.300847458
+Education,2014,Female,inbreeding1,0.076086957
+Education,2014,Female,inbreeding2,0.173913043
+Education,2014,Female,inbreeding3,0.157608696
+Education,2014,Female,inbreeding4,0.255434783
+Education,2015,Male,inbreeding1,0.094420601
+Education,2015,Male,inbreeding2,0.184549356
+Education,2015,Male,inbreeding3,0.188841202
+Education,2015,Male,inbreeding4,0.278969957
+Education,2015,Female,inbreeding1,0.102702703
+Education,2015,Female,inbreeding2,0.167567568
+Education,2015,Female,inbreeding3,0.232432432
+Education,2015,Female,inbreeding4,0.297297297
+Education,2016,Male,inbreeding1,0.089068826
+Education,2016,Male,inbreeding2,0.157894737
+Education,2016,Male,inbreeding3,0.246963563
+Education,2016,Male,inbreeding4,0.315789474
+Education,2016,Female,inbreeding1,0.078313253
+Education,2016,Female,inbreeding2,0.168674699
+Education,2016,Female,inbreeding3,0.222891566
+Education,2016,Female,inbreeding4,0.313253012
+Education,2017,Male,inbreeding1,0.087301587
+Education,2017,Male,inbreeding2,0.126984127
+Education,2017,Male,inbreeding3,0.23015873
+Education,2017,Male,inbreeding4,0.26984127
+Education,2017,Female,inbreeding1,0.086757991
+Education,2017,Female,inbreeding2,0.141552511
+Education,2017,Female,inbreeding3,0.210045662
+Education,2017,Female,inbreeding4,0.264840183
+Education,2018,Male,inbreeding1,0.111627907
+Education,2018,Male,inbreeding2,0.186046512
+Education,2018,Male,inbreeding3,0.246511628
+Education,2018,Male,inbreeding4,0.320930233
+Education,2018,Female,inbreeding1,0.127777778
+Education,2018,Female,inbreeding2,0.188888889
+Education,2018,Female,inbreeding3,0.238888889
+Education,2018,Female,inbreeding4,0.3
+Education,2019,Male,inbreeding1,0.093457944
+Education,2019,Male,inbreeding2,0.182242991
+Education,2019,Male,inbreeding3,0.210280374
+Education,2019,Male,inbreeding4,0.299065421
+Education,2019,Female,inbreeding1,0.124352332
+Education,2019,Female,inbreeding2,0.18134715
+Education,2019,Female,inbreeding3,0.248704663
+Education,2019,Female,inbreeding4,0.305699482
+Education,2020,Male,inbreeding1,0.098591549
+Education,2020,Male,inbreeding2,0.147887324
+Education,2020,Male,inbreeding3,0.225352113
+Education,2020,Male,inbreeding4,0.274647887
+Education,2020,Female,inbreeding1,0.085714286
+Education,2020,Female,inbreeding2,0.114285714
+Education,2020,Female,inbreeding3,0.257142857
+Education,2020,Female,inbreeding4,0.285714286
+Education,2021,Male,inbreeding1,0.061068702
+Education,2021,Male,inbreeding2,0.122137405
+Education,2021,Male,inbreeding3,0.160305344
+Education,2021,Male,inbreeding4,0.221374046
+Education,2021,Female,inbreeding1,0.056074766
+Education,2021,Female,inbreeding2,0.168224299
+Education,2021,Female,inbreeding3,0.186915888
+Education,2021,Female,inbreeding4,0.299065421
+Education,2022,Male,inbreeding1,0.065789474
+Education,2022,Male,inbreeding2,0.105263158
+Education,2022,Male,inbreeding3,0.223684211
+Education,2022,Male,inbreeding4,0.263157895
+Education,2022,Female,inbreeding1,0.084745763
+Education,2022,Female,inbreeding2,0.118644068
+Education,2022,Female,inbreeding3,0.237288136
+Education,2022,Female,inbreeding4,0.271186441
+Engineering,1975,Male,inbreeding1,0.137931034
+Engineering,1975,Male,inbreeding2,0.172413793
+Engineering,1975,Male,inbreeding3,0.206896552
+Engineering,1975,Male,inbreeding4,0.24137931
+Engineering,1975,Female,inbreeding1,0
+Engineering,1975,Female,inbreeding2,0.166666667
+Engineering,1975,Female,inbreeding3,0
+Engineering,1975,Female,inbreeding4,0.166666667
+Engineering,1976,Male,inbreeding1,0.060606061
+Engineering,1976,Male,inbreeding2,0.121212121
+Engineering,1976,Male,inbreeding3,0.151515152
+Engineering,1976,Male,inbreeding4,0.212121212
+Engineering,1976,Female,inbreeding1,0.1
+Engineering,1976,Female,inbreeding2,0.1
+Engineering,1976,Female,inbreeding3,0.2
+Engineering,1976,Female,inbreeding4,0.2
+Engineering,1977,Male,inbreeding1,0.111111111
+Engineering,1977,Male,inbreeding2,0.222222222
+Engineering,1977,Male,inbreeding3,0.177777778
+Engineering,1977,Male,inbreeding4,0.288888889
+Engineering,1977,Female,inbreeding1,0
+Engineering,1977,Female,inbreeding2,0.1
+Engineering,1977,Female,inbreeding3,0.2
+Engineering,1977,Female,inbreeding4,0.3
+Engineering,1978,Male,inbreeding1,0.03030303
+Engineering,1978,Male,inbreeding2,0.181818182
+Engineering,1978,Male,inbreeding3,0.060606061
+Engineering,1978,Male,inbreeding4,0.212121212
+Engineering,1978,Female,inbreeding1,0.066666667
+Engineering,1978,Female,inbreeding2,0.133333333
+Engineering,1978,Female,inbreeding3,0.2
+Engineering,1978,Female,inbreeding4,0.266666667
+Engineering,1979,Male,inbreeding1,0.033898305
+Engineering,1979,Male,inbreeding2,0.13559322
+Engineering,1979,Male,inbreeding3,0.118644068
+Engineering,1979,Male,inbreeding4,0.220338983
+Engineering,1979,Female,inbreeding1,0.066666667
+Engineering,1979,Female,inbreeding2,0.2
+Engineering,1979,Female,inbreeding3,0.066666667
+Engineering,1979,Female,inbreeding4,0.2
+Engineering,1980,Male,inbreeding1,0.032786885
+Engineering,1980,Male,inbreeding2,0.163934426
+Engineering,1980,Male,inbreeding3,0.098360656
+Engineering,1980,Male,inbreeding4,0.229508197
+Engineering,1980,Female,inbreeding1,0.058823529
+Engineering,1980,Female,inbreeding2,0.176470588
+Engineering,1980,Female,inbreeding3,0.176470588
+Engineering,1980,Female,inbreeding4,0.294117647
+Engineering,1981,Male,inbreeding1,0.111111111
+Engineering,1981,Male,inbreeding2,0.277777778
+Engineering,1981,Male,inbreeding3,0.166666667
+Engineering,1981,Male,inbreeding4,0.333333333
+Engineering,1981,Female,inbreeding1,0.214285714
+Engineering,1981,Female,inbreeding2,0.285714286
+Engineering,1981,Female,inbreeding3,0.285714286
+Engineering,1981,Female,inbreeding4,0.357142857
+Engineering,1982,Male,inbreeding1,0.049180328
+Engineering,1982,Male,inbreeding2,0.114754098
+Engineering,1982,Male,inbreeding3,0.147540984
+Engineering,1982,Male,inbreeding4,0.213114754
+Engineering,1982,Female,inbreeding1,0.086956522
+Engineering,1982,Female,inbreeding2,0.304347826
+Engineering,1982,Female,inbreeding3,0.217391304
+Engineering,1982,Female,inbreeding4,0.434782609
+Engineering,1983,Male,inbreeding1,0.038961039
+Engineering,1983,Male,inbreeding2,0.207792208
+Engineering,1983,Male,inbreeding3,0.077922078
+Engineering,1983,Male,inbreeding4,0.246753247
+Engineering,1983,Female,inbreeding1,0.130434783
+Engineering,1983,Female,inbreeding2,0.304347826
+Engineering,1983,Female,inbreeding3,0.173913043
+Engineering,1983,Female,inbreeding4,0.347826087
+Engineering,1984,Male,inbreeding1,0.020408163
+Engineering,1984,Male,inbreeding2,0.142857143
+Engineering,1984,Male,inbreeding3,0.112244898
+Engineering,1984,Male,inbreeding4,0.234693878
+Engineering,1984,Female,inbreeding1,0.131578947
+Engineering,1984,Female,inbreeding2,0.236842105
+Engineering,1984,Female,inbreeding3,0.184210526
+Engineering,1984,Female,inbreeding4,0.289473684
+Engineering,1985,Male,inbreeding1,0.052083333
+Engineering,1985,Male,inbreeding2,0.1875
+Engineering,1985,Male,inbreeding3,0.09375
+Engineering,1985,Male,inbreeding4,0.229166667
+Engineering,1985,Female,inbreeding1,0.108695652
+Engineering,1985,Female,inbreeding2,0.282608696
+Engineering,1985,Female,inbreeding3,0.173913043
+Engineering,1985,Female,inbreeding4,0.347826087
+Engineering,1986,Male,inbreeding1,0.058823529
+Engineering,1986,Male,inbreeding2,0.176470588
+Engineering,1986,Male,inbreeding3,0.176470588
+Engineering,1986,Male,inbreeding4,0.294117647
+Engineering,1986,Female,inbreeding1,0.1
+Engineering,1986,Female,inbreeding2,0.2
+Engineering,1986,Female,inbreeding3,0.18
+Engineering,1986,Female,inbreeding4,0.28
+Engineering,1987,Male,inbreeding1,0.028037383
+Engineering,1987,Male,inbreeding2,0.130841121
+Engineering,1987,Male,inbreeding3,0.074766355
+Engineering,1987,Male,inbreeding4,0.177570093
+Engineering,1987,Female,inbreeding1,0.117647059
+Engineering,1987,Female,inbreeding2,0.215686275
+Engineering,1987,Female,inbreeding3,0.235294118
+Engineering,1987,Female,inbreeding4,0.333333333
+Engineering,1988,Male,inbreeding1,0.086956522
+Engineering,1988,Male,inbreeding2,0.152173913
+Engineering,1988,Male,inbreeding3,0.15942029
+Engineering,1988,Male,inbreeding4,0.224637681
+Engineering,1988,Female,inbreeding1,0.120689655
+Engineering,1988,Female,inbreeding2,0.206896552
+Engineering,1988,Female,inbreeding3,0.224137931
+Engineering,1988,Female,inbreeding4,0.310344828
+Engineering,1989,Male,inbreeding1,0.063694268
+Engineering,1989,Male,inbreeding2,0.210191083
+Engineering,1989,Male,inbreeding3,0.152866242
+Engineering,1989,Male,inbreeding4,0.299363057
+Engineering,1989,Female,inbreeding1,0.131147541
+Engineering,1989,Female,inbreeding2,0.245901639
+Engineering,1989,Female,inbreeding3,0.163934426
+Engineering,1989,Female,inbreeding4,0.278688525
+Engineering,1990,Male,inbreeding1,0.057324841
+Engineering,1990,Male,inbreeding2,0.121019108
+Engineering,1990,Male,inbreeding3,0.146496815
+Engineering,1990,Male,inbreeding4,0.210191083
+Engineering,1990,Female,inbreeding1,0.101123596
+Engineering,1990,Female,inbreeding2,0.269662921
+Engineering,1990,Female,inbreeding3,0.179775281
+Engineering,1990,Female,inbreeding4,0.348314607
+Engineering,1991,Male,inbreeding1,0.063583815
+Engineering,1991,Male,inbreeding2,0.184971098
+Engineering,1991,Male,inbreeding3,0.161849711
+Engineering,1991,Male,inbreeding4,0.283236994
+Engineering,1991,Female,inbreeding1,0.057971014
+Engineering,1991,Female,inbreeding2,0.231884058
+Engineering,1991,Female,inbreeding3,0.130434783
+Engineering,1991,Female,inbreeding4,0.304347826
+Engineering,1992,Male,inbreeding1,0.061797753
+Engineering,1992,Male,inbreeding2,0.168539326
+Engineering,1992,Male,inbreeding3,0.157303371
+Engineering,1992,Male,inbreeding4,0.264044944
+Engineering,1992,Female,inbreeding1,0.101265823
+Engineering,1992,Female,inbreeding2,0.227848101
+Engineering,1992,Female,inbreeding3,0.227848101
+Engineering,1992,Female,inbreeding4,0.35443038
+Engineering,1993,Male,inbreeding1,0.06547619
+Engineering,1993,Male,inbreeding2,0.232142857
+Engineering,1993,Male,inbreeding3,0.148809524
+Engineering,1993,Male,inbreeding4,0.31547619
+Engineering,1993,Female,inbreeding1,0.079207921
+Engineering,1993,Female,inbreeding2,0.207920792
+Engineering,1993,Female,inbreeding3,0.148514851
+Engineering,1993,Female,inbreeding4,0.277227723
+Engineering,1994,Male,inbreeding1,0.078534031
+Engineering,1994,Male,inbreeding2,0.193717277
+Engineering,1994,Male,inbreeding3,0.136125654
+Engineering,1994,Male,inbreeding4,0.251308901
+Engineering,1994,Female,inbreeding1,0.117647059
+Engineering,1994,Female,inbreeding2,0.245098039
+Engineering,1994,Female,inbreeding3,0.215686275
+Engineering,1994,Female,inbreeding4,0.343137255
+Engineering,1995,Male,inbreeding1,0.072815534
+Engineering,1995,Male,inbreeding2,0.208737864
+Engineering,1995,Male,inbreeding3,0.169902913
+Engineering,1995,Male,inbreeding4,0.305825243
+Engineering,1995,Female,inbreeding1,0.110091743
+Engineering,1995,Female,inbreeding2,0.256880734
+Engineering,1995,Female,inbreeding3,0.165137615
+Engineering,1995,Female,inbreeding4,0.311926606
+Engineering,1996,Male,inbreeding1,0.057692308
+Engineering,1996,Male,inbreeding2,0.184615385
+Engineering,1996,Male,inbreeding3,0.153846154
+Engineering,1996,Male,inbreeding4,0.280769231
+Engineering,1996,Female,inbreeding1,0.04587156
+Engineering,1996,Female,inbreeding2,0.211009174
+Engineering,1996,Female,inbreeding3,0.174311927
+Engineering,1996,Female,inbreeding4,0.339449541
+Engineering,1997,Male,inbreeding1,0.042801556
+Engineering,1997,Male,inbreeding2,0.178988327
+Engineering,1997,Male,inbreeding3,0.155642023
+Engineering,1997,Male,inbreeding4,0.291828794
+Engineering,1997,Female,inbreeding1,0.087301587
+Engineering,1997,Female,inbreeding2,0.238095238
+Engineering,1997,Female,inbreeding3,0.206349206
+Engineering,1997,Female,inbreeding4,0.357142857
+Engineering,1998,Male,inbreeding1,0.063333333
+Engineering,1998,Male,inbreeding2,0.16
+Engineering,1998,Male,inbreeding3,0.133333333
+Engineering,1998,Male,inbreeding4,0.23
+Engineering,1998,Female,inbreeding1,0.074324324
+Engineering,1998,Female,inbreeding2,0.162162162
+Engineering,1998,Female,inbreeding3,0.148648649
+Engineering,1998,Female,inbreeding4,0.236486486
+Engineering,1999,Male,inbreeding1,0.060790274
+Engineering,1999,Male,inbreeding2,0.185410334
+Engineering,1999,Male,inbreeding3,0.176291793
+Engineering,1999,Male,inbreeding4,0.300911854
+Engineering,1999,Female,inbreeding1,0.111111111
+Engineering,1999,Female,inbreeding2,0.222222222
+Engineering,1999,Female,inbreeding3,0.209876543
+Engineering,1999,Female,inbreeding4,0.320987654
+Engineering,2000,Male,inbreeding1,0.102150538
+Engineering,2000,Male,inbreeding2,0.166666667
+Engineering,2000,Male,inbreeding3,0.22311828
+Engineering,2000,Male,inbreeding4,0.287634409
+Engineering,2000,Female,inbreeding1,0.093023256
+Engineering,2000,Female,inbreeding2,0.195348837
+Engineering,2000,Female,inbreeding3,0.213953488
+Engineering,2000,Female,inbreeding4,0.31627907
+Engineering,2001,Male,inbreeding1,0.082706767
+Engineering,2001,Male,inbreeding2,0.180451128
+Engineering,2001,Male,inbreeding3,0.182957393
+Engineering,2001,Male,inbreeding4,0.280701754
+Engineering,2001,Female,inbreeding1,0.077586207
+Engineering,2001,Female,inbreeding2,0.185344828
+Engineering,2001,Female,inbreeding3,0.202586207
+Engineering,2001,Female,inbreeding4,0.310344828
+Engineering,2002,Male,inbreeding1,0.06768559
+Engineering,2002,Male,inbreeding2,0.194323144
+Engineering,2002,Male,inbreeding3,0.15720524
+Engineering,2002,Male,inbreeding4,0.283842795
+Engineering,2002,Female,inbreeding1,0.082969432
+Engineering,2002,Female,inbreeding2,0.179039301
+Engineering,2002,Female,inbreeding3,0.165938865
+Engineering,2002,Female,inbreeding4,0.262008734
+Engineering,2003,Male,inbreeding1,0.073319756
+Engineering,2003,Male,inbreeding2,0.181262729
+Engineering,2003,Male,inbreeding3,0.156822811
+Engineering,2003,Male,inbreeding4,0.264765784
+Engineering,2003,Female,inbreeding1,0.099137931
+Engineering,2003,Female,inbreeding2,0.215517241
+Engineering,2003,Female,inbreeding3,0.206896552
+Engineering,2003,Female,inbreeding4,0.323275862
+Engineering,2004,Male,inbreeding1,0.071969697
+Engineering,2004,Male,inbreeding2,0.185606061
+Engineering,2004,Male,inbreeding3,0.151515152
+Engineering,2004,Male,inbreeding4,0.265151515
+Engineering,2004,Female,inbreeding1,0.077821012
+Engineering,2004,Female,inbreeding2,0.155642023
+Engineering,2004,Female,inbreeding3,0.155642023
+Engineering,2004,Female,inbreeding4,0.233463035
+Engineering,2005,Male,inbreeding1,0.067880795
+Engineering,2005,Male,inbreeding2,0.180463576
+Engineering,2005,Male,inbreeding3,0.167218543
+Engineering,2005,Male,inbreeding4,0.279801325
+Engineering,2005,Female,inbreeding1,0.078313253
+Engineering,2005,Female,inbreeding2,0.15060241
+Engineering,2005,Female,inbreeding3,0.189759036
+Engineering,2005,Female,inbreeding4,0.262048193
+Engineering,2006,Male,inbreeding1,0.065522621
+Engineering,2006,Male,inbreeding2,0.173166927
+Engineering,2006,Male,inbreeding3,0.168486739
+Engineering,2006,Male,inbreeding4,0.276131045
+Engineering,2006,Female,inbreeding1,0.091863517
+Engineering,2006,Female,inbreeding2,0.212598425
+Engineering,2006,Female,inbreeding3,0.204724409
+Engineering,2006,Female,inbreeding4,0.325459318
+Engineering,2007,Male,inbreeding1,0.08
+Engineering,2007,Male,inbreeding2,0.172857143
+Engineering,2007,Male,inbreeding3,0.185714286
+Engineering,2007,Male,inbreeding4,0.278571429
+Engineering,2007,Female,inbreeding1,0.06443299
+Engineering,2007,Female,inbreeding2,0.18556701
+Engineering,2007,Female,inbreeding3,0.18814433
+Engineering,2007,Female,inbreeding4,0.309278351
+Engineering,2008,Male,inbreeding1,0.06362545
+Engineering,2008,Male,inbreeding2,0.183673469
+Engineering,2008,Male,inbreeding3,0.159663866
+Engineering,2008,Male,inbreeding4,0.279711885
+Engineering,2008,Female,inbreeding1,0.074688797
+Engineering,2008,Female,inbreeding2,0.205394191
+Engineering,2008,Female,inbreeding3,0.182572614
+Engineering,2008,Female,inbreeding4,0.313278008
+Engineering,2009,Male,inbreeding1,0.069339112
+Engineering,2009,Male,inbreeding2,0.170097508
+Engineering,2009,Male,inbreeding3,0.165763814
+Engineering,2009,Male,inbreeding4,0.26652221
+Engineering,2009,Female,inbreeding1,0.075819672
+Engineering,2009,Female,inbreeding2,0.174180328
+Engineering,2009,Female,inbreeding3,0.18442623
+Engineering,2009,Female,inbreeding4,0.282786885
+Engineering,2010,Male,inbreeding1,0.079689018
+Engineering,2010,Male,inbreeding2,0.19047619
+Engineering,2010,Male,inbreeding3,0.184645287
+Engineering,2010,Male,inbreeding4,0.295432459
+Engineering,2010,Female,inbreeding1,0.070017953
+Engineering,2010,Female,inbreeding2,0.157989228
+Engineering,2010,Female,inbreeding3,0.172351885
+Engineering,2010,Female,inbreeding4,0.26032316
+Engineering,2011,Male,inbreeding1,0.074175824
+Engineering,2011,Male,inbreeding2,0.164835165
+Engineering,2011,Male,inbreeding3,0.187728938
+Engineering,2011,Male,inbreeding4,0.278388278
+Engineering,2011,Female,inbreeding1,0.084317032
+Engineering,2011,Female,inbreeding2,0.160202361
+Engineering,2011,Female,inbreeding3,0.18549747
+Engineering,2011,Female,inbreeding4,0.261382799
+Engineering,2012,Male,inbreeding1,0.062953995
+Engineering,2012,Male,inbreeding2,0.18401937
+Engineering,2012,Male,inbreeding3,0.192897498
+Engineering,2012,Male,inbreeding4,0.313962873
+Engineering,2012,Female,inbreeding1,0.087643678
+Engineering,2012,Female,inbreeding2,0.17816092
+Engineering,2012,Female,inbreeding3,0.199712644
+Engineering,2012,Female,inbreeding4,0.290229885
+Engineering,2013,Male,inbreeding1,0.076239822
+Engineering,2013,Male,inbreeding2,0.155440415
+Engineering,2013,Male,inbreeding3,0.19022946
+Engineering,2013,Male,inbreeding4,0.269430052
+Engineering,2013,Female,inbreeding1,0.078683834
+Engineering,2013,Female,inbreeding2,0.161659514
+Engineering,2013,Female,inbreeding3,0.193133047
+Engineering,2013,Female,inbreeding4,0.276108727
+Engineering,2014,Male,inbreeding1,0.060740741
+Engineering,2014,Male,inbreeding2,0.156296296
+Engineering,2014,Male,inbreeding3,0.200740741
+Engineering,2014,Male,inbreeding4,0.296296296
+Engineering,2014,Female,inbreeding1,0.06741573
+Engineering,2014,Female,inbreeding2,0.154806492
+Engineering,2014,Female,inbreeding3,0.196004994
+Engineering,2014,Female,inbreeding4,0.283395755
+Engineering,2015,Male,inbreeding1,0.080949058
+Engineering,2015,Male,inbreeding2,0.168876483
+Engineering,2015,Male,inbreeding3,0.198883461
+Engineering,2015,Male,inbreeding4,0.286810886
+Engineering,2015,Female,inbreeding1,0.079584775
+Engineering,2015,Female,inbreeding2,0.183391003
+Engineering,2015,Female,inbreeding3,0.201845444
+Engineering,2015,Female,inbreeding4,0.305651672
+Engineering,2016,Male,inbreeding1,0.079376329
+Engineering,2016,Male,inbreeding2,0.167965982
+Engineering,2016,Male,inbreeding3,0.208362863
+Engineering,2016,Male,inbreeding4,0.296952516
+Engineering,2016,Female,inbreeding1,0.090401786
+Engineering,2016,Female,inbreeding2,0.155133929
+Engineering,2016,Female,inbreeding3,0.203125
+Engineering,2016,Female,inbreeding4,0.267857143
+Engineering,2017,Male,inbreeding1,0.077723803
+Engineering,2017,Male,inbreeding2,0.150589868
+Engineering,2017,Male,inbreeding3,0.20888272
+Engineering,2017,Male,inbreeding4,0.281748786
+Engineering,2017,Female,inbreeding1,0.08988764
+Engineering,2017,Female,inbreeding2,0.150561798
+Engineering,2017,Female,inbreeding3,0.243820225
+Engineering,2017,Female,inbreeding4,0.304494382
+Engineering,2018,Male,inbreeding1,0.084659913
+Engineering,2018,Male,inbreeding2,0.163531114
+Engineering,2018,Male,inbreeding3,0.227206946
+Engineering,2018,Male,inbreeding4,0.306078148
+Engineering,2018,Female,inbreeding1,0.084429825
+Engineering,2018,Female,inbreeding2,0.158991228
+Engineering,2018,Female,inbreeding3,0.234649123
+Engineering,2018,Female,inbreeding4,0.309210526
+Engineering,2019,Male,inbreeding1,0.084057971
+Engineering,2019,Male,inbreeding2,0.154347826
+Engineering,2019,Male,inbreeding3,0.241304348
+Engineering,2019,Male,inbreeding4,0.311594203
+Engineering,2019,Female,inbreeding1,0.089605735
+Engineering,2019,Female,inbreeding2,0.136200717
+Engineering,2019,Female,inbreeding3,0.249701314
+Engineering,2019,Female,inbreeding4,0.296296296
+Engineering,2020,Male,inbreeding1,0.098360656
+Engineering,2020,Male,inbreeding2,0.163934426
+Engineering,2020,Male,inbreeding3,0.265368852
+Engineering,2020,Male,inbreeding4,0.330942623
+Engineering,2020,Female,inbreeding1,0.090655509
+Engineering,2020,Female,inbreeding2,0.147838215
+Engineering,2020,Female,inbreeding3,0.244072524
+Engineering,2020,Female,inbreeding4,0.30125523
+Engineering,2021,Male,inbreeding1,0.067226891
+Engineering,2021,Male,inbreeding2,0.12289916
+Engineering,2021,Male,inbreeding3,0.238445378
+Engineering,2021,Male,inbreeding4,0.294117647
+Engineering,2021,Female,inbreeding1,0.077310924
+Engineering,2021,Female,inbreeding2,0.115966387
+Engineering,2021,Female,inbreeding3,0.265546218
+Engineering,2021,Female,inbreeding4,0.304201681
+Engineering,2022,Male,inbreeding1,0.0675
+Engineering,2022,Male,inbreeding2,0.1025
+Engineering,2022,Male,inbreeding3,0.255
+Engineering,2022,Male,inbreeding4,0.29
+Engineering,2022,Female,inbreeding1,0.047794118
+Engineering,2022,Female,inbreeding2,0.110294118
+Engineering,2022,Female,inbreeding3,0.257352941
+Engineering,2022,Female,inbreeding4,0.319852941
+Humanities,1975,Male,inbreeding1,0
+Humanities,1975,Male,inbreeding2,0.133333333
+Humanities,1975,Male,inbreeding3,0.066666667
+Humanities,1975,Male,inbreeding4,0.2
+Humanities,1975,Female,inbreeding1,0.2
+Humanities,1975,Female,inbreeding2,0.2
+Humanities,1975,Female,inbreeding3,0.4
+Humanities,1975,Female,inbreeding4,0.4
+Humanities,1976,Male,inbreeding1,0.055555556
+Humanities,1976,Male,inbreeding2,0.111111111
+Humanities,1976,Male,inbreeding3,0.055555556
+Humanities,1976,Male,inbreeding4,0.111111111
+Humanities,1976,Female,inbreeding1,0.153846154
+Humanities,1976,Female,inbreeding2,0.307692308
+Humanities,1976,Female,inbreeding3,0.230769231
+Humanities,1976,Female,inbreeding4,0.384615385
+Humanities,1977,Male,inbreeding1,0
+Humanities,1977,Male,inbreeding2,0.055555556
+Humanities,1977,Male,inbreeding3,0.055555556
+Humanities,1977,Male,inbreeding4,0.111111111
+Humanities,1977,Female,inbreeding1,0
+Humanities,1977,Female,inbreeding2,0
+Humanities,1977,Female,inbreeding3,0.1
+Humanities,1977,Female,inbreeding4,0.1
+Humanities,1978,Male,inbreeding1,0.068965517
+Humanities,1978,Male,inbreeding2,0.068965517
+Humanities,1978,Male,inbreeding3,0.24137931
+Humanities,1978,Male,inbreeding4,0.24137931
+Humanities,1978,Female,inbreeding1,0
+Humanities,1978,Female,inbreeding2,0.25
+Humanities,1978,Female,inbreeding3,0.125
+Humanities,1978,Female,inbreeding4,0.375
+Humanities,1979,Male,inbreeding1,0.047619048
+Humanities,1979,Male,inbreeding2,0.095238095
+Humanities,1979,Male,inbreeding3,0.047619048
+Humanities,1979,Male,inbreeding4,0.095238095
+Humanities,1979,Female,inbreeding1,0.153846154
+Humanities,1979,Female,inbreeding2,0.461538462
+Humanities,1979,Female,inbreeding3,0.230769231
+Humanities,1979,Female,inbreeding4,0.538461538
+Humanities,1980,Male,inbreeding1,0
+Humanities,1980,Male,inbreeding2,0.058823529
+Humanities,1980,Male,inbreeding3,0.088235294
+Humanities,1980,Male,inbreeding4,0.147058824
+Humanities,1980,Female,inbreeding1,0.1
+Humanities,1980,Female,inbreeding2,0.5
+Humanities,1980,Female,inbreeding3,0.1
+Humanities,1980,Female,inbreeding4,0.5
+Humanities,1981,Male,inbreeding1,0.088235294
+Humanities,1981,Male,inbreeding2,0.147058824
+Humanities,1981,Male,inbreeding3,0.147058824
+Humanities,1981,Male,inbreeding4,0.205882353
+Humanities,1981,Female,inbreeding1,0
+Humanities,1981,Female,inbreeding2,0.166666667
+Humanities,1981,Female,inbreeding3,0
+Humanities,1981,Female,inbreeding4,0.166666667
+Humanities,1982,Male,inbreeding1,0.071428571
+Humanities,1982,Male,inbreeding2,0.166666667
+Humanities,1982,Male,inbreeding3,0.166666667
+Humanities,1982,Male,inbreeding4,0.261904762
+Humanities,1982,Female,inbreeding1,0.2
+Humanities,1982,Female,inbreeding2,0.2
+Humanities,1982,Female,inbreeding3,0.3
+Humanities,1982,Female,inbreeding4,0.3
+Humanities,1983,Male,inbreeding1,0.073170732
+Humanities,1983,Male,inbreeding2,0.097560976
+Humanities,1983,Male,inbreeding3,0.170731707
+Humanities,1983,Male,inbreeding4,0.195121951
+Humanities,1983,Female,inbreeding1,0.166666667
+Humanities,1983,Female,inbreeding2,0.166666667
+Humanities,1983,Female,inbreeding3,0.277777778
+Humanities,1983,Female,inbreeding4,0.277777778
+Humanities,1984,Male,inbreeding1,0.044444444
+Humanities,1984,Male,inbreeding2,0.222222222
+Humanities,1984,Male,inbreeding3,0.088888889
+Humanities,1984,Male,inbreeding4,0.266666667
+Humanities,1984,Female,inbreeding1,0.12
+Humanities,1984,Female,inbreeding2,0.24
+Humanities,1984,Female,inbreeding3,0.12
+Humanities,1984,Female,inbreeding4,0.24
+Humanities,1985,Male,inbreeding1,0.204081633
+Humanities,1985,Male,inbreeding2,0.265306122
+Humanities,1985,Male,inbreeding3,0.285714286
+Humanities,1985,Male,inbreeding4,0.346938776
+Humanities,1985,Female,inbreeding1,0.058823529
+Humanities,1985,Female,inbreeding2,0.205882353
+Humanities,1985,Female,inbreeding3,0.176470588
+Humanities,1985,Female,inbreeding4,0.323529412
+Humanities,1986,Male,inbreeding1,0.044117647
+Humanities,1986,Male,inbreeding2,0.132352941
+Humanities,1986,Male,inbreeding3,0.117647059
+Humanities,1986,Male,inbreeding4,0.205882353
+Humanities,1986,Female,inbreeding1,0.102564103
+Humanities,1986,Female,inbreeding2,0.205128205
+Humanities,1986,Female,inbreeding3,0.153846154
+Humanities,1986,Female,inbreeding4,0.256410256
+Humanities,1987,Male,inbreeding1,0.113207547
+Humanities,1987,Male,inbreeding2,0.20754717
+Humanities,1987,Male,inbreeding3,0.188679245
+Humanities,1987,Male,inbreeding4,0.283018868
+Humanities,1987,Female,inbreeding1,0.046511628
+Humanities,1987,Female,inbreeding2,0.209302326
+Humanities,1987,Female,inbreeding3,0.162790698
+Humanities,1987,Female,inbreeding4,0.325581395
+Humanities,1988,Male,inbreeding1,0.064516129
+Humanities,1988,Male,inbreeding2,0.129032258
+Humanities,1988,Male,inbreeding3,0.14516129
+Humanities,1988,Male,inbreeding4,0.209677419
+Humanities,1988,Female,inbreeding1,0.088888889
+Humanities,1988,Female,inbreeding2,0.244444444
+Humanities,1988,Female,inbreeding3,0.177777778
+Humanities,1988,Female,inbreeding4,0.333333333
+Humanities,1989,Male,inbreeding1,0.049019608
+Humanities,1989,Male,inbreeding2,0.147058824
+Humanities,1989,Male,inbreeding3,0.117647059
+Humanities,1989,Male,inbreeding4,0.215686275
+Humanities,1989,Female,inbreeding1,0.041666667
+Humanities,1989,Female,inbreeding2,0.166666667
+Humanities,1989,Female,inbreeding3,0.145833333
+Humanities,1989,Female,inbreeding4,0.270833333
+Humanities,1990,Male,inbreeding1,0.083333333
+Humanities,1990,Male,inbreeding2,0.114583333
+Humanities,1990,Male,inbreeding3,0.145833333
+Humanities,1990,Male,inbreeding4,0.177083333
+Humanities,1990,Female,inbreeding1,0.081632653
+Humanities,1990,Female,inbreeding2,0.163265306
+Humanities,1990,Female,inbreeding3,0.204081633
+Humanities,1990,Female,inbreeding4,0.285714286
+Humanities,1991,Male,inbreeding1,0.065217391
+Humanities,1991,Male,inbreeding2,0.22826087
+Humanities,1991,Male,inbreeding3,0.152173913
+Humanities,1991,Male,inbreeding4,0.315217391
+Humanities,1991,Female,inbreeding1,0.045454545
+Humanities,1991,Female,inbreeding2,0.151515152
+Humanities,1991,Female,inbreeding3,0.196969697
+Humanities,1991,Female,inbreeding4,0.303030303
+Humanities,1992,Male,inbreeding1,0.086956522
+Humanities,1992,Male,inbreeding2,0.195652174
+Humanities,1992,Male,inbreeding3,0.173913043
+Humanities,1992,Male,inbreeding4,0.282608696
+Humanities,1992,Female,inbreeding1,0.096153846
+Humanities,1992,Female,inbreeding2,0.230769231
+Humanities,1992,Female,inbreeding3,0.173076923
+Humanities,1992,Female,inbreeding4,0.307692308
+Humanities,1993,Male,inbreeding1,0.038095238
+Humanities,1993,Male,inbreeding2,0.095238095
+Humanities,1993,Male,inbreeding3,0.133333333
+Humanities,1993,Male,inbreeding4,0.19047619
+Humanities,1993,Female,inbreeding1,0.101449275
+Humanities,1993,Female,inbreeding2,0.202898551
+Humanities,1993,Female,inbreeding3,0.217391304
+Humanities,1993,Female,inbreeding4,0.31884058
+Humanities,1994,Male,inbreeding1,0.029850746
+Humanities,1994,Male,inbreeding2,0.104477612
+Humanities,1994,Male,inbreeding3,0.089552239
+Humanities,1994,Male,inbreeding4,0.164179104
+Humanities,1994,Female,inbreeding1,0.078651685
+Humanities,1994,Female,inbreeding2,0.202247191
+Humanities,1994,Female,inbreeding3,0.191011236
+Humanities,1994,Female,inbreeding4,0.314606742
+Humanities,1995,Male,inbreeding1,0.118110236
+Humanities,1995,Male,inbreeding2,0.173228346
+Humanities,1995,Male,inbreeding3,0.220472441
+Humanities,1995,Male,inbreeding4,0.275590551
+Humanities,1995,Female,inbreeding1,0.06741573
+Humanities,1995,Female,inbreeding2,0.157303371
+Humanities,1995,Female,inbreeding3,0.112359551
+Humanities,1995,Female,inbreeding4,0.202247191
+Humanities,1996,Male,inbreeding1,0.06122449
+Humanities,1996,Male,inbreeding2,0.153061224
+Humanities,1996,Male,inbreeding3,0.173469388
+Humanities,1996,Male,inbreeding4,0.265306122
+Humanities,1996,Female,inbreeding1,0.117647059
+Humanities,1996,Female,inbreeding2,0.211764706
+Humanities,1996,Female,inbreeding3,0.2
+Humanities,1996,Female,inbreeding4,0.294117647
+Humanities,1997,Male,inbreeding1,0.059259259
+Humanities,1997,Male,inbreeding2,0.177777778
+Humanities,1997,Male,inbreeding3,0.17037037
+Humanities,1997,Male,inbreeding4,0.288888889
+Humanities,1997,Female,inbreeding1,0.088888889
+Humanities,1997,Female,inbreeding2,0.155555556
+Humanities,1997,Female,inbreeding3,0.177777778
+Humanities,1997,Female,inbreeding4,0.244444444
+Humanities,1998,Male,inbreeding1,0.075949367
+Humanities,1998,Male,inbreeding2,0.17721519
+Humanities,1998,Male,inbreeding3,0.120253165
+Humanities,1998,Male,inbreeding4,0.221518987
+Humanities,1998,Female,inbreeding1,0.110091743
+Humanities,1998,Female,inbreeding2,0.211009174
+Humanities,1998,Female,inbreeding3,0.247706422
+Humanities,1998,Female,inbreeding4,0.348623853
+Humanities,1999,Male,inbreeding1,0.06875
+Humanities,1999,Male,inbreeding2,0.14375
+Humanities,1999,Male,inbreeding3,0.18125
+Humanities,1999,Male,inbreeding4,0.25625
+Humanities,1999,Female,inbreeding1,0.063636364
+Humanities,1999,Female,inbreeding2,0.163636364
+Humanities,1999,Female,inbreeding3,0.190909091
+Humanities,1999,Female,inbreeding4,0.290909091
+Humanities,2000,Male,inbreeding1,0.076923077
+Humanities,2000,Male,inbreeding2,0.173076923
+Humanities,2000,Male,inbreeding3,0.125
+Humanities,2000,Male,inbreeding4,0.221153846
+Humanities,2000,Female,inbreeding1,0.066176471
+Humanities,2000,Female,inbreeding2,0.176470588
+Humanities,2000,Female,inbreeding3,0.161764706
+Humanities,2000,Female,inbreeding4,0.272058824
+Humanities,2001,Male,inbreeding1,0.068965517
+Humanities,2001,Male,inbreeding2,0.157635468
+Humanities,2001,Male,inbreeding3,0.192118227
+Humanities,2001,Male,inbreeding4,0.280788177
+Humanities,2001,Female,inbreeding1,0.06547619
+Humanities,2001,Female,inbreeding2,0.148809524
+Humanities,2001,Female,inbreeding3,0.154761905
+Humanities,2001,Female,inbreeding4,0.238095238
+Humanities,2002,Male,inbreeding1,0.075555556
+Humanities,2002,Male,inbreeding2,0.146666667
+Humanities,2002,Male,inbreeding3,0.222222222
+Humanities,2002,Male,inbreeding4,0.293333333
+Humanities,2002,Female,inbreeding1,0.105263158
+Humanities,2002,Female,inbreeding2,0.218045113
+Humanities,2002,Female,inbreeding3,0.203007519
+Humanities,2002,Female,inbreeding4,0.315789474
+Humanities,2003,Male,inbreeding1,0.054621849
+Humanities,2003,Male,inbreeding2,0.163865546
+Humanities,2003,Male,inbreeding3,0.176470588
+Humanities,2003,Male,inbreeding4,0.285714286
+Humanities,2003,Female,inbreeding1,0.110429448
+Humanities,2003,Female,inbreeding2,0.165644172
+Humanities,2003,Female,inbreeding3,0.190184049
+Humanities,2003,Female,inbreeding4,0.245398773
+Humanities,2004,Male,inbreeding1,0.062962963
+Humanities,2004,Male,inbreeding2,0.148148148
+Humanities,2004,Male,inbreeding3,0.137037037
+Humanities,2004,Male,inbreeding4,0.222222222
+Humanities,2004,Female,inbreeding1,0.114130435
+Humanities,2004,Female,inbreeding2,0.217391304
+Humanities,2004,Female,inbreeding3,0.233695652
+Humanities,2004,Female,inbreeding4,0.336956522
+Humanities,2005,Male,inbreeding1,0.073482428
+Humanities,2005,Male,inbreeding2,0.178913738
+Humanities,2005,Male,inbreeding3,0.150159744
+Humanities,2005,Male,inbreeding4,0.255591054
+Humanities,2005,Female,inbreeding1,0.110638298
+Humanities,2005,Female,inbreeding2,0.212765957
+Humanities,2005,Female,inbreeding3,0.195744681
+Humanities,2005,Female,inbreeding4,0.29787234
+Humanities,2006,Male,inbreeding1,0.072327044
+Humanities,2006,Male,inbreeding2,0.160377358
+Humanities,2006,Male,inbreeding3,0.147798742
+Humanities,2006,Male,inbreeding4,0.235849057
+Humanities,2006,Female,inbreeding1,0.069958848
+Humanities,2006,Female,inbreeding2,0.185185185
+Humanities,2006,Female,inbreeding3,0.172839506
+Humanities,2006,Female,inbreeding4,0.288065844
+Humanities,2007,Male,inbreeding1,0.055555556
+Humanities,2007,Male,inbreeding2,0.163580247
+Humanities,2007,Male,inbreeding3,0.157407407
+Humanities,2007,Male,inbreeding4,0.265432099
+Humanities,2007,Female,inbreeding1,0.104477612
+Humanities,2007,Female,inbreeding2,0.182835821
+Humanities,2007,Female,inbreeding3,0.22761194
+Humanities,2007,Female,inbreeding4,0.305970149
+Humanities,2008,Male,inbreeding1,0.074812968
+Humanities,2008,Male,inbreeding2,0.144638404
+Humanities,2008,Male,inbreeding3,0.167082294
+Humanities,2008,Male,inbreeding4,0.236907731
+Humanities,2008,Female,inbreeding1,0.08361204
+Humanities,2008,Female,inbreeding2,0.183946488
+Humanities,2008,Female,inbreeding3,0.173913043
+Humanities,2008,Female,inbreeding4,0.274247492
+Humanities,2009,Male,inbreeding1,0.059259259
+Humanities,2009,Male,inbreeding2,0.143209877
+Humanities,2009,Male,inbreeding3,0.145679012
+Humanities,2009,Male,inbreeding4,0.22962963
+Humanities,2009,Female,inbreeding1,0.115107914
+Humanities,2009,Female,inbreeding2,0.197841727
+Humanities,2009,Female,inbreeding3,0.205035971
+Humanities,2009,Female,inbreeding4,0.287769784
+Humanities,2010,Male,inbreeding1,0.066225166
+Humanities,2010,Male,inbreeding2,0.187637969
+Humanities,2010,Male,inbreeding3,0.139072848
+Humanities,2010,Male,inbreeding4,0.260485651
+Humanities,2010,Female,inbreeding1,0.083333333
+Humanities,2010,Female,inbreeding2,0.173076923
+Humanities,2010,Female,inbreeding3,0.201923077
+Humanities,2010,Female,inbreeding4,0.291666667
+Humanities,2011,Male,inbreeding1,0.0781893
+Humanities,2011,Male,inbreeding2,0.174897119
+Humanities,2011,Male,inbreeding3,0.179012346
+Humanities,2011,Male,inbreeding4,0.275720165
+Humanities,2011,Female,inbreeding1,0.09602649
+Humanities,2011,Female,inbreeding2,0.188741722
+Humanities,2011,Female,inbreeding3,0.21192053
+Humanities,2011,Female,inbreeding4,0.304635762
+Humanities,2012,Male,inbreeding1,0.088709677
+Humanities,2012,Male,inbreeding2,0.173387097
+Humanities,2012,Male,inbreeding3,0.217741935
+Humanities,2012,Male,inbreeding4,0.302419355
+Humanities,2012,Female,inbreeding1,0.076704545
+Humanities,2012,Female,inbreeding2,0.173295455
+Humanities,2012,Female,inbreeding3,0.176136364
+Humanities,2012,Female,inbreeding4,0.272727273
+Humanities,2013,Male,inbreeding1,0.073800738
+Humanities,2013,Male,inbreeding2,0.158671587
+Humanities,2013,Male,inbreeding3,0.186346863
+Humanities,2013,Male,inbreeding4,0.271217712
+Humanities,2013,Female,inbreeding1,0.065268065
+Humanities,2013,Female,inbreeding2,0.146853147
+Humanities,2013,Female,inbreeding3,0.188811189
+Humanities,2013,Female,inbreeding4,0.27039627
+Humanities,2014,Male,inbreeding1,0.064829822
+Humanities,2014,Male,inbreeding2,0.145867099
+Humanities,2014,Male,inbreeding3,0.173419773
+Humanities,2014,Male,inbreeding4,0.25445705
+Humanities,2014,Female,inbreeding1,0.086075949
+Humanities,2014,Female,inbreeding2,0.164556962
+Humanities,2014,Female,inbreeding3,0.202531646
+Humanities,2014,Female,inbreeding4,0.281012658
+Humanities,2015,Male,inbreeding1,0.073083779
+Humanities,2015,Male,inbreeding2,0.158645276
+Humanities,2015,Male,inbreeding3,0.181818182
+Humanities,2015,Male,inbreeding4,0.267379679
+Humanities,2015,Female,inbreeding1,0.108597285
+Humanities,2015,Female,inbreeding2,0.212669683
+Humanities,2015,Female,inbreeding3,0.20361991
+Humanities,2015,Female,inbreeding4,0.307692308
+Humanities,2016,Male,inbreeding1,0.097288676
+Humanities,2016,Male,inbreeding2,0.172248804
+Humanities,2016,Male,inbreeding3,0.205741627
+Humanities,2016,Male,inbreeding4,0.280701754
+Humanities,2016,Female,inbreeding1,0.096330275
+Humanities,2016,Female,inbreeding2,0.174311927
+Humanities,2016,Female,inbreeding3,0.23853211
+Humanities,2016,Female,inbreeding4,0.316513761
+Humanities,2017,Male,inbreeding1,0.081939799
+Humanities,2017,Male,inbreeding2,0.148829431
+Humanities,2017,Male,inbreeding3,0.204013378
+Humanities,2017,Male,inbreeding4,0.27090301
+Humanities,2017,Female,inbreeding1,0.082251082
+Humanities,2017,Female,inbreeding2,0.166666667
+Humanities,2017,Female,inbreeding3,0.205627706
+Humanities,2017,Female,inbreeding4,0.29004329
+Humanities,2018,Male,inbreeding1,0.073873874
+Humanities,2018,Male,inbreeding2,0.147747748
+Humanities,2018,Male,inbreeding3,0.205405405
+Humanities,2018,Male,inbreeding4,0.279279279
+Humanities,2018,Female,inbreeding1,0.107142857
+Humanities,2018,Female,inbreeding2,0.169642857
+Humanities,2018,Female,inbreeding3,0.234375
+Humanities,2018,Female,inbreeding4,0.296875
+Humanities,2019,Male,inbreeding1,0.108737864
+Humanities,2019,Male,inbreeding2,0.190291262
+Humanities,2019,Male,inbreeding3,0.229126214
+Humanities,2019,Male,inbreeding4,0.310679612
+Humanities,2019,Female,inbreeding1,0.091346154
+Humanities,2019,Female,inbreeding2,0.182692308
+Humanities,2019,Female,inbreeding3,0.221153846
+Humanities,2019,Female,inbreeding4,0.3125
+Humanities,2020,Male,inbreeding1,0.068396226
+Humanities,2020,Male,inbreeding2,0.136792453
+Humanities,2020,Male,inbreeding3,0.219339623
+Humanities,2020,Male,inbreeding4,0.287735849
+Humanities,2020,Female,inbreeding1,0.087272727
+Humanities,2020,Female,inbreeding2,0.149090909
+Humanities,2020,Female,inbreeding3,0.247272727
+Humanities,2020,Female,inbreeding4,0.309090909
+Humanities,2021,Male,inbreeding1,0.095238095
+Humanities,2021,Male,inbreeding2,0.152380952
+Humanities,2021,Male,inbreeding3,0.219047619
+Humanities,2021,Male,inbreeding4,0.276190476
+Humanities,2021,Female,inbreeding1,0.093877551
+Humanities,2021,Female,inbreeding2,0.126530612
+Humanities,2021,Female,inbreeding3,0.273469388
+Humanities,2021,Female,inbreeding4,0.306122449
+Humanities,2022,Male,inbreeding1,0.109589041
+Humanities,2022,Male,inbreeding2,0.150684932
+Humanities,2022,Male,inbreeding3,0.232876712
+Humanities,2022,Male,inbreeding4,0.273972603
+Humanities,2022,Female,inbreeding1,0.065420561
+Humanities,2022,Female,inbreeding2,0.112149533
+Humanities,2022,Female,inbreeding3,0.196261682
+Humanities,2022,Female,inbreeding4,0.242990654
+Math and Computing,1975,Male,inbreeding1,0
+Math and Computing,1975,Male,inbreeding2,0.125
+Math and Computing,1975,Male,inbreeding3,0
+Math and Computing,1975,Male,inbreeding4,0.125
+Math and Computing,1975,Female,inbreeding1,0.333333333
+Math and Computing,1975,Female,inbreeding2,0.333333333
+Math and Computing,1975,Female,inbreeding3,0.333333333
+Math and Computing,1975,Female,inbreeding4,0.333333333
+Math and Computing,1976,Male,inbreeding1,0.090909091
+Math and Computing,1976,Male,inbreeding2,0.363636364
+Math and Computing,1976,Male,inbreeding3,0.136363636
+Math and Computing,1976,Male,inbreeding4,0.409090909
+Math and Computing,1976,Female,inbreeding1,0
+Math and Computing,1976,Female,inbreeding2,0.142857143
+Math and Computing,1976,Female,inbreeding3,0
+Math and Computing,1976,Female,inbreeding4,0.142857143
+Math and Computing,1977,Male,inbreeding1,0.076923077
+Math and Computing,1977,Male,inbreeding2,0.230769231
+Math and Computing,1977,Male,inbreeding3,0.076923077
+Math and Computing,1977,Male,inbreeding4,0.230769231
+Math and Computing,1977,Female,inbreeding1,0.125
+Math and Computing,1977,Female,inbreeding2,0.125
+Math and Computing,1977,Female,inbreeding3,0.25
+Math and Computing,1977,Female,inbreeding4,0.25
+Math and Computing,1978,Male,inbreeding1,0.052631579
+Math and Computing,1978,Male,inbreeding2,0.052631579
+Math and Computing,1978,Male,inbreeding3,0.105263158
+Math and Computing,1978,Male,inbreeding4,0.105263158
+Math and Computing,1978,Female,inbreeding1,0
+Math and Computing,1978,Female,inbreeding2,0
+Math and Computing,1978,Female,inbreeding3,0.333333333
+Math and Computing,1978,Female,inbreeding4,0.333333333
+Math and Computing,1979,Male,inbreeding1,0.142857143
+Math and Computing,1979,Male,inbreeding2,0.238095238
+Math and Computing,1979,Male,inbreeding3,0.19047619
+Math and Computing,1979,Male,inbreeding4,0.285714286
+Math and Computing,1979,Female,inbreeding1,0
+Math and Computing,1979,Female,inbreeding2,0.166666667
+Math and Computing,1979,Female,inbreeding3,0.166666667
+Math and Computing,1979,Female,inbreeding4,0.333333333
+Math and Computing,1980,Male,inbreeding1,0.037037037
+Math and Computing,1980,Male,inbreeding2,0.074074074
+Math and Computing,1980,Male,inbreeding3,0.111111111
+Math and Computing,1980,Male,inbreeding4,0.148148148
+Math and Computing,1980,Female,inbreeding1,0.166666667
+Math and Computing,1980,Female,inbreeding2,0.166666667
+Math and Computing,1980,Female,inbreeding3,0.166666667
+Math and Computing,1980,Female,inbreeding4,0.166666667
+Math and Computing,1981,Male,inbreeding1,0.032258065
+Math and Computing,1981,Male,inbreeding2,0.129032258
+Math and Computing,1981,Male,inbreeding3,0.064516129
+Math and Computing,1981,Male,inbreeding4,0.161290323
+Math and Computing,1981,Female,inbreeding1,0.125
+Math and Computing,1981,Female,inbreeding2,0.375
+Math and Computing,1981,Female,inbreeding3,0.125
+Math and Computing,1981,Female,inbreeding4,0.375
+Math and Computing,1982,Male,inbreeding1,0.064516129
+Math and Computing,1982,Male,inbreeding2,0.096774194
+Math and Computing,1982,Male,inbreeding3,0.161290323
+Math and Computing,1982,Male,inbreeding4,0.193548387
+Math and Computing,1982,Female,inbreeding1,0.083333333
+Math and Computing,1982,Female,inbreeding2,0.25
+Math and Computing,1982,Female,inbreeding3,0.166666667
+Math and Computing,1982,Female,inbreeding4,0.333333333
+Math and Computing,1983,Male,inbreeding1,0.097560976
+Math and Computing,1983,Male,inbreeding2,0.170731707
+Math and Computing,1983,Male,inbreeding3,0.097560976
+Math and Computing,1983,Male,inbreeding4,0.170731707
+Math and Computing,1983,Female,inbreeding1,0
+Math and Computing,1983,Female,inbreeding2,0.2
+Math and Computing,1983,Female,inbreeding3,0.2
+Math and Computing,1983,Female,inbreeding4,0.4
+Math and Computing,1984,Male,inbreeding1,0.078947368
+Math and Computing,1984,Male,inbreeding2,0.157894737
+Math and Computing,1984,Male,inbreeding3,0.131578947
+Math and Computing,1984,Male,inbreeding4,0.210526316
+Math and Computing,1984,Female,inbreeding1,0.166666667
+Math and Computing,1984,Female,inbreeding2,0.222222222
+Math and Computing,1984,Female,inbreeding3,0.222222222
+Math and Computing,1984,Female,inbreeding4,0.277777778
+Math and Computing,1985,Male,inbreeding1,0.039215686
+Math and Computing,1985,Male,inbreeding2,0.117647059
+Math and Computing,1985,Male,inbreeding3,0.117647059
+Math and Computing,1985,Male,inbreeding4,0.196078431
+Math and Computing,1985,Female,inbreeding1,0.105263158
+Math and Computing,1985,Female,inbreeding2,0.210526316
+Math and Computing,1985,Female,inbreeding3,0.315789474
+Math and Computing,1985,Female,inbreeding4,0.421052632
+Math and Computing,1986,Male,inbreeding1,0.054545455
+Math and Computing,1986,Male,inbreeding2,0.254545455
+Math and Computing,1986,Male,inbreeding3,0.181818182
+Math and Computing,1986,Male,inbreeding4,0.381818182
+Math and Computing,1986,Female,inbreeding1,0.125
+Math and Computing,1986,Female,inbreeding2,0.25
+Math and Computing,1986,Female,inbreeding3,0.291666667
+Math and Computing,1986,Female,inbreeding4,0.416666667
+Math and Computing,1987,Male,inbreeding1,0.066666667
+Math and Computing,1987,Male,inbreeding2,0.155555556
+Math and Computing,1987,Male,inbreeding3,0.133333333
+Math and Computing,1987,Male,inbreeding4,0.222222222
+Math and Computing,1987,Female,inbreeding1,0.066666667
+Math and Computing,1987,Female,inbreeding2,0.233333333
+Math and Computing,1987,Female,inbreeding3,0.233333333
+Math and Computing,1987,Female,inbreeding4,0.4
+Math and Computing,1988,Male,inbreeding1,0.075
+Math and Computing,1988,Male,inbreeding2,0.15
+Math and Computing,1988,Male,inbreeding3,0.275
+Math and Computing,1988,Male,inbreeding4,0.35
+Math and Computing,1988,Female,inbreeding1,0.047619048
+Math and Computing,1988,Female,inbreeding2,0.19047619
+Math and Computing,1988,Female,inbreeding3,0.095238095
+Math and Computing,1988,Female,inbreeding4,0.238095238
+Math and Computing,1989,Male,inbreeding1,0.064516129
+Math and Computing,1989,Male,inbreeding2,0.129032258
+Math and Computing,1989,Male,inbreeding3,0.080645161
+Math and Computing,1989,Male,inbreeding4,0.14516129
+Math and Computing,1989,Female,inbreeding1,0.111111111
+Math and Computing,1989,Female,inbreeding2,0.259259259
+Math and Computing,1989,Female,inbreeding3,0.185185185
+Math and Computing,1989,Female,inbreeding4,0.333333333
+Math and Computing,1990,Male,inbreeding1,0.030769231
+Math and Computing,1990,Male,inbreeding2,0.092307692
+Math and Computing,1990,Male,inbreeding3,0.169230769
+Math and Computing,1990,Male,inbreeding4,0.230769231
+Math and Computing,1990,Female,inbreeding1,0.027777778
+Math and Computing,1990,Female,inbreeding2,0.138888889
+Math and Computing,1990,Female,inbreeding3,0.111111111
+Math and Computing,1990,Female,inbreeding4,0.222222222
+Math and Computing,1991,Male,inbreeding1,0.09375
+Math and Computing,1991,Male,inbreeding2,0.171875
+Math and Computing,1991,Male,inbreeding3,0.1875
+Math and Computing,1991,Male,inbreeding4,0.265625
+Math and Computing,1991,Female,inbreeding1,0.073170732
+Math and Computing,1991,Female,inbreeding2,0.219512195
+Math and Computing,1991,Female,inbreeding3,0.195121951
+Math and Computing,1991,Female,inbreeding4,0.341463415
+Math and Computing,1992,Male,inbreeding1,0.075757576
+Math and Computing,1992,Male,inbreeding2,0.151515152
+Math and Computing,1992,Male,inbreeding3,0.151515152
+Math and Computing,1992,Male,inbreeding4,0.227272727
+Math and Computing,1992,Female,inbreeding1,0.048780488
+Math and Computing,1992,Female,inbreeding2,0.243902439
+Math and Computing,1992,Female,inbreeding3,0.170731707
+Math and Computing,1992,Female,inbreeding4,0.365853659
+Math and Computing,1993,Male,inbreeding1,0.078947368
+Math and Computing,1993,Male,inbreeding2,0.157894737
+Math and Computing,1993,Male,inbreeding3,0.131578947
+Math and Computing,1993,Male,inbreeding4,0.210526316
+Math and Computing,1993,Female,inbreeding1,0
+Math and Computing,1993,Female,inbreeding2,0.066666667
+Math and Computing,1993,Female,inbreeding3,0.133333333
+Math and Computing,1993,Female,inbreeding4,0.2
+Math and Computing,1994,Male,inbreeding1,0.084337349
+Math and Computing,1994,Male,inbreeding2,0.21686747
+Math and Computing,1994,Male,inbreeding3,0.168674699
+Math and Computing,1994,Male,inbreeding4,0.301204819
+Math and Computing,1994,Female,inbreeding1,0.045454545
+Math and Computing,1994,Female,inbreeding2,0.181818182
+Math and Computing,1994,Female,inbreeding3,0.181818182
+Math and Computing,1994,Female,inbreeding4,0.318181818
+Math and Computing,1995,Male,inbreeding1,0.051546392
+Math and Computing,1995,Male,inbreeding2,0.18556701
+Math and Computing,1995,Male,inbreeding3,0.164948454
+Math and Computing,1995,Male,inbreeding4,0.298969072
+Math and Computing,1995,Female,inbreeding1,0.130434783
+Math and Computing,1995,Female,inbreeding2,0.239130435
+Math and Computing,1995,Female,inbreeding3,0.239130435
+Math and Computing,1995,Female,inbreeding4,0.347826087
+Math and Computing,1996,Male,inbreeding1,0.051020408
+Math and Computing,1996,Male,inbreeding2,0.153061224
+Math and Computing,1996,Male,inbreeding3,0.153061224
+Math and Computing,1996,Male,inbreeding4,0.255102041
+Math and Computing,1996,Female,inbreeding1,0.24
+Math and Computing,1996,Female,inbreeding2,0.28
+Math and Computing,1996,Female,inbreeding3,0.3
+Math and Computing,1996,Female,inbreeding4,0.34
+Math and Computing,1997,Male,inbreeding1,0.111111111
+Math and Computing,1997,Male,inbreeding2,0.202020202
+Math and Computing,1997,Male,inbreeding3,0.212121212
+Math and Computing,1997,Male,inbreeding4,0.303030303
+Math and Computing,1997,Female,inbreeding1,0.092307692
+Math and Computing,1997,Female,inbreeding2,0.2
+Math and Computing,1997,Female,inbreeding3,0.169230769
+Math and Computing,1997,Female,inbreeding4,0.276923077
+Math and Computing,1998,Male,inbreeding1,0.054054054
+Math and Computing,1998,Male,inbreeding2,0.198198198
+Math and Computing,1998,Male,inbreeding3,0.108108108
+Math and Computing,1998,Male,inbreeding4,0.252252252
+Math and Computing,1998,Female,inbreeding1,0.151515152
+Math and Computing,1998,Female,inbreeding2,0.287878788
+Math and Computing,1998,Female,inbreeding3,0.272727273
+Math and Computing,1998,Female,inbreeding4,0.409090909
+Math and Computing,1999,Male,inbreeding1,0.076388889
+Math and Computing,1999,Male,inbreeding2,0.173611111
+Math and Computing,1999,Male,inbreeding3,0.194444444
+Math and Computing,1999,Male,inbreeding4,0.291666667
+Math and Computing,1999,Female,inbreeding1,0.070422535
+Math and Computing,1999,Female,inbreeding2,0.169014085
+Math and Computing,1999,Female,inbreeding3,0.197183099
+Math and Computing,1999,Female,inbreeding4,0.295774648
+Math and Computing,2000,Male,inbreeding1,0.103448276
+Math and Computing,2000,Male,inbreeding2,0.218390805
+Math and Computing,2000,Male,inbreeding3,0.183908046
+Math and Computing,2000,Male,inbreeding4,0.298850575
+Math and Computing,2000,Female,inbreeding1,0.052631579
+Math and Computing,2000,Female,inbreeding2,0.126315789
+Math and Computing,2000,Female,inbreeding3,0.157894737
+Math and Computing,2000,Female,inbreeding4,0.231578947
+Math and Computing,2001,Male,inbreeding1,0.032258065
+Math and Computing,2001,Male,inbreeding2,0.15483871
+Math and Computing,2001,Male,inbreeding3,0.15483871
+Math and Computing,2001,Male,inbreeding4,0.277419355
+Math and Computing,2001,Female,inbreeding1,0.07751938
+Math and Computing,2001,Female,inbreeding2,0.209302326
+Math and Computing,2001,Female,inbreeding3,0.240310078
+Math and Computing,2001,Female,inbreeding4,0.372093023
+Math and Computing,2002,Male,inbreeding1,0.054644809
+Math and Computing,2002,Male,inbreeding2,0.158469945
+Math and Computing,2002,Male,inbreeding3,0.136612022
+Math and Computing,2002,Male,inbreeding4,0.240437158
+Math and Computing,2002,Female,inbreeding1,0.133333333
+Math and Computing,2002,Female,inbreeding2,0.2
+Math and Computing,2002,Female,inbreeding3,0.247619048
+Math and Computing,2002,Female,inbreeding4,0.314285714
+Math and Computing,2003,Male,inbreeding1,0.105263158
+Math and Computing,2003,Male,inbreeding2,0.224880383
+Math and Computing,2003,Male,inbreeding3,0.19138756
+Math and Computing,2003,Male,inbreeding4,0.311004785
+Math and Computing,2003,Female,inbreeding1,0.039215686
+Math and Computing,2003,Female,inbreeding2,0.176470588
+Math and Computing,2003,Female,inbreeding3,0.137254902
+Math and Computing,2003,Female,inbreeding4,0.274509804
+Math and Computing,2004,Male,inbreeding1,0.098130841
+Math and Computing,2004,Male,inbreeding2,0.200934579
+Math and Computing,2004,Male,inbreeding3,0.172897196
+Math and Computing,2004,Male,inbreeding4,0.275700935
+Math and Computing,2004,Female,inbreeding1,0.078947368
+Math and Computing,2004,Female,inbreeding2,0.192982456
+Math and Computing,2004,Female,inbreeding3,0.175438596
+Math and Computing,2004,Female,inbreeding4,0.289473684
+Math and Computing,2005,Male,inbreeding1,0.087866109
+Math and Computing,2005,Male,inbreeding2,0.213389121
+Math and Computing,2005,Male,inbreeding3,0.175732218
+Math and Computing,2005,Male,inbreeding4,0.30125523
+Math and Computing,2005,Female,inbreeding1,0.0859375
+Math and Computing,2005,Female,inbreeding2,0.1796875
+Math and Computing,2005,Female,inbreeding3,0.21875
+Math and Computing,2005,Female,inbreeding4,0.3125
+Math and Computing,2006,Male,inbreeding1,0.071661238
+Math and Computing,2006,Male,inbreeding2,0.208469055
+Math and Computing,2006,Male,inbreeding3,0.153094463
+Math and Computing,2006,Male,inbreeding4,0.28990228
+Math and Computing,2006,Female,inbreeding1,0.067901235
+Math and Computing,2006,Female,inbreeding2,0.185185185
+Math and Computing,2006,Female,inbreeding3,0.135802469
+Math and Computing,2006,Female,inbreeding4,0.25308642
+Math and Computing,2007,Male,inbreeding1,0.070110701
+Math and Computing,2007,Male,inbreeding2,0.21402214
+Math and Computing,2007,Male,inbreeding3,0.158671587
+Math and Computing,2007,Male,inbreeding4,0.302583026
+Math and Computing,2007,Female,inbreeding1,0.070588235
+Math and Computing,2007,Female,inbreeding2,0.170588235
+Math and Computing,2007,Female,inbreeding3,0.176470588
+Math and Computing,2007,Female,inbreeding4,0.276470588
+Math and Computing,2008,Male,inbreeding1,0.067340067
+Math and Computing,2008,Male,inbreeding2,0.218855219
+Math and Computing,2008,Male,inbreeding3,0.178451178
+Math and Computing,2008,Male,inbreeding4,0.32996633
+Math and Computing,2008,Female,inbreeding1,0.111111111
+Math and Computing,2008,Female,inbreeding2,0.255555556
+Math and Computing,2008,Female,inbreeding3,0.161111111
+Math and Computing,2008,Female,inbreeding4,0.305555556
+Math and Computing,2009,Male,inbreeding1,0.063583815
+Math and Computing,2009,Male,inbreeding2,0.176300578
+Math and Computing,2009,Male,inbreeding3,0.170520231
+Math and Computing,2009,Male,inbreeding4,0.283236994
+Math and Computing,2009,Female,inbreeding1,0.105990783
+Math and Computing,2009,Female,inbreeding2,0.216589862
+Math and Computing,2009,Female,inbreeding3,0.207373272
+Math and Computing,2009,Female,inbreeding4,0.31797235
+Math and Computing,2010,Male,inbreeding1,0.065753425
+Math and Computing,2010,Male,inbreeding2,0.134246575
+Math and Computing,2010,Male,inbreeding3,0.180821918
+Math and Computing,2010,Male,inbreeding4,0.249315068
+Math and Computing,2010,Female,inbreeding1,0.092896175
+Math and Computing,2010,Female,inbreeding2,0.174863388
+Math and Computing,2010,Female,inbreeding3,0.180327869
+Math and Computing,2010,Female,inbreeding4,0.262295082
+Math and Computing,2011,Male,inbreeding1,0.081151832
+Math and Computing,2011,Male,inbreeding2,0.193717277
+Math and Computing,2011,Male,inbreeding3,0.172774869
+Math and Computing,2011,Male,inbreeding4,0.285340314
+Math and Computing,2011,Female,inbreeding1,0.060869565
+Math and Computing,2011,Female,inbreeding2,0.160869565
+Math and Computing,2011,Female,inbreeding3,0.191304348
+Math and Computing,2011,Female,inbreeding4,0.291304348
+Math and Computing,2012,Male,inbreeding1,0.091954023
+Math and Computing,2012,Male,inbreeding2,0.218390805
+Math and Computing,2012,Male,inbreeding3,0.204597701
+Math and Computing,2012,Male,inbreeding4,0.331034483
+Math and Computing,2012,Female,inbreeding1,0.102222222
+Math and Computing,2012,Female,inbreeding2,0.2
+Math and Computing,2012,Female,inbreeding3,0.182222222
+Math and Computing,2012,Female,inbreeding4,0.28
+Math and Computing,2013,Male,inbreeding1,0.087640449
+Math and Computing,2013,Male,inbreeding2,0.166292135
+Math and Computing,2013,Male,inbreeding3,0.168539326
+Math and Computing,2013,Male,inbreeding4,0.247191011
+Math and Computing,2013,Female,inbreeding1,0.094890511
+Math and Computing,2013,Female,inbreeding2,0.178832117
+Math and Computing,2013,Female,inbreeding3,0.193430657
+Math and Computing,2013,Female,inbreeding4,0.277372263
+Math and Computing,2014,Male,inbreeding1,0.077731092
+Math and Computing,2014,Male,inbreeding2,0.195378151
+Math and Computing,2014,Male,inbreeding3,0.174369748
+Math and Computing,2014,Male,inbreeding4,0.292016807
+Math and Computing,2014,Female,inbreeding1,0.093959732
+Math and Computing,2014,Female,inbreeding2,0.17114094
+Math and Computing,2014,Female,inbreeding3,0.22147651
+Math and Computing,2014,Female,inbreeding4,0.298657718
+Math and Computing,2015,Male,inbreeding1,0.068322981
+Math and Computing,2015,Male,inbreeding2,0.155279503
+Math and Computing,2015,Male,inbreeding3,0.163561077
+Math and Computing,2015,Male,inbreeding4,0.250517598
+Math and Computing,2015,Female,inbreeding1,0.086142322
+Math and Computing,2015,Female,inbreeding2,0.202247191
+Math and Computing,2015,Female,inbreeding3,0.194756554
+Math and Computing,2015,Female,inbreeding4,0.310861423
+Math and Computing,2016,Male,inbreeding1,0.091451292
+Math and Computing,2016,Male,inbreeding2,0.198807157
+Math and Computing,2016,Male,inbreeding3,0.186878728
+Math and Computing,2016,Male,inbreeding4,0.294234592
+Math and Computing,2016,Female,inbreeding1,0.061688312
+Math and Computing,2016,Female,inbreeding2,0.155844156
+Math and Computing,2016,Female,inbreeding3,0.175324675
+Math and Computing,2016,Female,inbreeding4,0.269480519
+Math and Computing,2017,Male,inbreeding1,0.07456979
+Math and Computing,2017,Male,inbreeding2,0.175908222
+Math and Computing,2017,Male,inbreeding3,0.202676864
+Math and Computing,2017,Male,inbreeding4,0.304015296
+Math and Computing,2017,Female,inbreeding1,0.089965398
+Math and Computing,2017,Female,inbreeding2,0.193771626
+Math and Computing,2017,Female,inbreeding3,0.214532872
+Math and Computing,2017,Female,inbreeding4,0.3183391
+Math and Computing,2018,Male,inbreeding1,0.113172542
+Math and Computing,2018,Male,inbreeding2,0.189239332
+Math and Computing,2018,Male,inbreeding3,0.211502783
+Math and Computing,2018,Male,inbreeding4,0.287569573
+Math and Computing,2018,Female,inbreeding1,0.106824926
+Math and Computing,2018,Female,inbreeding2,0.18694362
+Math and Computing,2018,Female,inbreeding3,0.213649852
+Math and Computing,2018,Female,inbreeding4,0.293768546
+Math and Computing,2019,Male,inbreeding1,0.079303675
+Math and Computing,2019,Male,inbreeding2,0.121856867
+Math and Computing,2019,Male,inbreeding3,0.212765957
+Math and Computing,2019,Male,inbreeding4,0.255319149
+Math and Computing,2019,Female,inbreeding1,0.084558824
+Math and Computing,2019,Female,inbreeding2,0.132352941
+Math and Computing,2019,Female,inbreeding3,0.213235294
+Math and Computing,2019,Female,inbreeding4,0.261029412
+Math and Computing,2020,Male,inbreeding1,0.079710145
+Math and Computing,2020,Male,inbreeding2,0.123188406
+Math and Computing,2020,Male,inbreeding3,0.210144928
+Math and Computing,2020,Male,inbreeding4,0.253623188
+Math and Computing,2020,Female,inbreeding1,0.094339623
+Math and Computing,2020,Female,inbreeding2,0.158490566
+Math and Computing,2020,Female,inbreeding3,0.230188679
+Math and Computing,2020,Female,inbreeding4,0.294339623
+Math and Computing,2021,Male,inbreeding1,0.061381074
+Math and Computing,2021,Male,inbreeding2,0.115089514
+Math and Computing,2021,Male,inbreeding3,0.179028133
+Math and Computing,2021,Male,inbreeding4,0.232736573
+Math and Computing,2021,Female,inbreeding1,0.080851064
+Math and Computing,2021,Female,inbreeding2,0.127659574
+Math and Computing,2021,Female,inbreeding3,0.174468085
+Math and Computing,2021,Female,inbreeding4,0.221276596
+Math and Computing,2022,Male,inbreeding1,0.098591549
+Math and Computing,2022,Male,inbreeding2,0.133802817
+Math and Computing,2022,Male,inbreeding3,0.281690141
+Math and Computing,2022,Male,inbreeding4,0.316901408
+Math and Computing,2022,Female,inbreeding1,0.134146341
+Math and Computing,2022,Female,inbreeding2,0.219512195
+Math and Computing,2022,Female,inbreeding3,0.292682927
+Math and Computing,2022,Female,inbreeding4,0.37804878
+Medicine and Health,1975,Male,inbreeding1,0.094339623
+Medicine and Health,1975,Male,inbreeding2,0.150943396
+Medicine and Health,1975,Male,inbreeding3,0.188679245
+Medicine and Health,1975,Male,inbreeding4,0.245283019
+Medicine and Health,1975,Female,inbreeding1,0.133333333
+Medicine and Health,1975,Female,inbreeding2,0.3
+Medicine and Health,1975,Female,inbreeding3,0.266666667
+Medicine and Health,1975,Female,inbreeding4,0.433333333
+Medicine and Health,1976,Male,inbreeding1,0.075949367
+Medicine and Health,1976,Male,inbreeding2,0.17721519
+Medicine and Health,1976,Male,inbreeding3,0.113924051
+Medicine and Health,1976,Male,inbreeding4,0.215189873
+Medicine and Health,1976,Female,inbreeding1,0.034482759
+Medicine and Health,1976,Female,inbreeding2,0.068965517
+Medicine and Health,1976,Female,inbreeding3,0.206896552
+Medicine and Health,1976,Female,inbreeding4,0.24137931
+Medicine and Health,1977,Male,inbreeding1,0.096774194
+Medicine and Health,1977,Male,inbreeding2,0.193548387
+Medicine and Health,1977,Male,inbreeding3,0.150537634
+Medicine and Health,1977,Male,inbreeding4,0.247311828
+Medicine and Health,1977,Female,inbreeding1,0.2
+Medicine and Health,1977,Female,inbreeding2,0.28
+Medicine and Health,1977,Female,inbreeding3,0.28
+Medicine and Health,1977,Female,inbreeding4,0.36
+Medicine and Health,1978,Male,inbreeding1,0.059405941
+Medicine and Health,1978,Male,inbreeding2,0.099009901
+Medicine and Health,1978,Male,inbreeding3,0.188118812
+Medicine and Health,1978,Male,inbreeding4,0.227722772
+Medicine and Health,1978,Female,inbreeding1,0.095238095
+Medicine and Health,1978,Female,inbreeding2,0.238095238
+Medicine and Health,1978,Female,inbreeding3,0.19047619
+Medicine and Health,1978,Female,inbreeding4,0.333333333
+Medicine and Health,1979,Male,inbreeding1,0.064814815
+Medicine and Health,1979,Male,inbreeding2,0.138888889
+Medicine and Health,1979,Male,inbreeding3,0.166666667
+Medicine and Health,1979,Male,inbreeding4,0.240740741
+Medicine and Health,1979,Female,inbreeding1,0.155172414
+Medicine and Health,1979,Female,inbreeding2,0.293103448
+Medicine and Health,1979,Female,inbreeding3,0.293103448
+Medicine and Health,1979,Female,inbreeding4,0.431034483
+Medicine and Health,1980,Male,inbreeding1,0.08
+Medicine and Health,1980,Male,inbreeding2,0.126666667
+Medicine and Health,1980,Male,inbreeding3,0.2
+Medicine and Health,1980,Male,inbreeding4,0.246666667
+Medicine and Health,1980,Female,inbreeding1,0.1
+Medicine and Health,1980,Female,inbreeding2,0.183333333
+Medicine and Health,1980,Female,inbreeding3,0.216666667
+Medicine and Health,1980,Female,inbreeding4,0.3
+Medicine and Health,1981,Male,inbreeding1,0.081081081
+Medicine and Health,1981,Male,inbreeding2,0.135135135
+Medicine and Health,1981,Male,inbreeding3,0.175675676
+Medicine and Health,1981,Male,inbreeding4,0.22972973
+Medicine and Health,1981,Female,inbreeding1,0.154929577
+Medicine and Health,1981,Female,inbreeding2,0.309859155
+Medicine and Health,1981,Female,inbreeding3,0.23943662
+Medicine and Health,1981,Female,inbreeding4,0.394366197
+Medicine and Health,1982,Male,inbreeding1,0.05988024
+Medicine and Health,1982,Male,inbreeding2,0.161676647
+Medicine and Health,1982,Male,inbreeding3,0.125748503
+Medicine and Health,1982,Male,inbreeding4,0.22754491
+Medicine and Health,1982,Female,inbreeding1,0.096385542
+Medicine and Health,1982,Female,inbreeding2,0.204819277
+Medicine and Health,1982,Female,inbreeding3,0.21686747
+Medicine and Health,1982,Female,inbreeding4,0.325301205
+Medicine and Health,1983,Male,inbreeding1,0.113636364
+Medicine and Health,1983,Male,inbreeding2,0.1875
+Medicine and Health,1983,Male,inbreeding3,0.1875
+Medicine and Health,1983,Male,inbreeding4,0.261363636
+Medicine and Health,1983,Female,inbreeding1,0.109756098
+Medicine and Health,1983,Female,inbreeding2,0.207317073
+Medicine and Health,1983,Female,inbreeding3,0.268292683
+Medicine and Health,1983,Female,inbreeding4,0.365853659
+Medicine and Health,1984,Male,inbreeding1,0.085858586
+Medicine and Health,1984,Male,inbreeding2,0.151515152
+Medicine and Health,1984,Male,inbreeding3,0.191919192
+Medicine and Health,1984,Male,inbreeding4,0.257575758
+Medicine and Health,1984,Female,inbreeding1,0.088607595
+Medicine and Health,1984,Female,inbreeding2,0.164556962
+Medicine and Health,1984,Female,inbreeding3,0.17721519
+Medicine and Health,1984,Female,inbreeding4,0.253164557
+Medicine and Health,1985,Male,inbreeding1,0.07826087
+Medicine and Health,1985,Male,inbreeding2,0.165217391
+Medicine and Health,1985,Male,inbreeding3,0.186956522
+Medicine and Health,1985,Male,inbreeding4,0.273913043
+Medicine and Health,1985,Female,inbreeding1,0.058252427
+Medicine and Health,1985,Female,inbreeding2,0.184466019
+Medicine and Health,1985,Female,inbreeding3,0.213592233
+Medicine and Health,1985,Female,inbreeding4,0.339805825
+Medicine and Health,1986,Male,inbreeding1,0.064655172
+Medicine and Health,1986,Male,inbreeding2,0.129310345
+Medicine and Health,1986,Male,inbreeding3,0.146551724
+Medicine and Health,1986,Male,inbreeding4,0.211206897
+Medicine and Health,1986,Female,inbreeding1,0.093167702
+Medicine and Health,1986,Female,inbreeding2,0.267080745
+Medicine and Health,1986,Female,inbreeding3,0.217391304
+Medicine and Health,1986,Female,inbreeding4,0.391304348
+Medicine and Health,1987,Male,inbreeding1,0.076305221
+Medicine and Health,1987,Male,inbreeding2,0.112449799
+Medicine and Health,1987,Male,inbreeding3,0.184738956
+Medicine and Health,1987,Male,inbreeding4,0.220883534
+Medicine and Health,1987,Female,inbreeding1,0.133333333
+Medicine and Health,1987,Female,inbreeding2,0.207407407
+Medicine and Health,1987,Female,inbreeding3,0.207407407
+Medicine and Health,1987,Female,inbreeding4,0.281481481
+Medicine and Health,1988,Male,inbreeding1,0.088328076
+Medicine and Health,1988,Male,inbreeding2,0.167192429
+Medicine and Health,1988,Male,inbreeding3,0.176656151
+Medicine and Health,1988,Male,inbreeding4,0.255520505
+Medicine and Health,1988,Female,inbreeding1,0.086666667
+Medicine and Health,1988,Female,inbreeding2,0.173333333
+Medicine and Health,1988,Female,inbreeding3,0.226666667
+Medicine and Health,1988,Female,inbreeding4,0.313333333
+Medicine and Health,1989,Male,inbreeding1,0.080882353
+Medicine and Health,1989,Male,inbreeding2,0.147058824
+Medicine and Health,1989,Male,inbreeding3,0.169117647
+Medicine and Health,1989,Male,inbreeding4,0.235294118
+Medicine and Health,1989,Female,inbreeding1,0.096385542
+Medicine and Health,1989,Female,inbreeding2,0.204819277
+Medicine and Health,1989,Female,inbreeding3,0.198795181
+Medicine and Health,1989,Female,inbreeding4,0.307228916
+Medicine and Health,1990,Male,inbreeding1,0.079889807
+Medicine and Health,1990,Male,inbreeding2,0.184573003
+Medicine and Health,1990,Male,inbreeding3,0.190082645
+Medicine and Health,1990,Male,inbreeding4,0.29476584
+Medicine and Health,1990,Female,inbreeding1,0.1
+Medicine and Health,1990,Female,inbreeding2,0.205
+Medicine and Health,1990,Female,inbreeding3,0.2
+Medicine and Health,1990,Female,inbreeding4,0.305
+Medicine and Health,1991,Male,inbreeding1,0.051490515
+Medicine and Health,1991,Male,inbreeding2,0.12195122
+Medicine and Health,1991,Male,inbreeding3,0.181571816
+Medicine and Health,1991,Male,inbreeding4,0.25203252
+Medicine and Health,1991,Female,inbreeding1,0.126760563
+Medicine and Health,1991,Female,inbreeding2,0.201877934
+Medicine and Health,1991,Female,inbreeding3,0.234741784
+Medicine and Health,1991,Female,inbreeding4,0.309859155
+Medicine and Health,1992,Male,inbreeding1,0.091397849
+Medicine and Health,1992,Male,inbreeding2,0.163978495
+Medicine and Health,1992,Male,inbreeding3,0.201612903
+Medicine and Health,1992,Male,inbreeding4,0.274193548
+Medicine and Health,1992,Female,inbreeding1,0.085365854
+Medicine and Health,1992,Female,inbreeding2,0.203252033
+Medicine and Health,1992,Female,inbreeding3,0.182926829
+Medicine and Health,1992,Female,inbreeding4,0.300813008
+Medicine and Health,1993,Male,inbreeding1,0.080091533
+Medicine and Health,1993,Male,inbreeding2,0.176201373
+Medicine and Health,1993,Male,inbreeding3,0.19221968
+Medicine and Health,1993,Male,inbreeding4,0.288329519
+Medicine and Health,1993,Female,inbreeding1,0.09561753
+Medicine and Health,1993,Female,inbreeding2,0.227091633
+Medicine and Health,1993,Female,inbreeding3,0.195219124
+Medicine and Health,1993,Female,inbreeding4,0.326693227
+Medicine and Health,1994,Male,inbreeding1,0.073059361
+Medicine and Health,1994,Male,inbreeding2,0.178082192
+Medicine and Health,1994,Male,inbreeding3,0.164383562
+Medicine and Health,1994,Male,inbreeding4,0.269406393
+Medicine and Health,1994,Female,inbreeding1,0.104234528
+Medicine and Health,1994,Female,inbreeding2,0.198697068
+Medicine and Health,1994,Female,inbreeding3,0.218241042
+Medicine and Health,1994,Female,inbreeding4,0.312703583
+Medicine and Health,1995,Male,inbreeding1,0.083146067
+Medicine and Health,1995,Male,inbreeding2,0.141573034
+Medicine and Health,1995,Male,inbreeding3,0.186516854
+Medicine and Health,1995,Male,inbreeding4,0.24494382
+Medicine and Health,1995,Female,inbreeding1,0.130742049
+Medicine and Health,1995,Female,inbreeding2,0.229681979
+Medicine and Health,1995,Female,inbreeding3,0.212014134
+Medicine and Health,1995,Female,inbreeding4,0.310954064
+Medicine and Health,1996,Male,inbreeding1,0.098113208
+Medicine and Health,1996,Male,inbreeding2,0.167924528
+Medicine and Health,1996,Male,inbreeding3,0.21509434
+Medicine and Health,1996,Male,inbreeding4,0.28490566
+Medicine and Health,1996,Female,inbreeding1,0.116923077
+Medicine and Health,1996,Female,inbreeding2,0.218461538
+Medicine and Health,1996,Female,inbreeding3,0.227692308
+Medicine and Health,1996,Female,inbreeding4,0.329230769
+Medicine and Health,1997,Male,inbreeding1,0.1023766
+Medicine and Health,1997,Male,inbreeding2,0.191956124
+Medicine and Health,1997,Male,inbreeding3,0.208409506
+Medicine and Health,1997,Male,inbreeding4,0.297989031
+Medicine and Health,1997,Female,inbreeding1,0.096045198
+Medicine and Health,1997,Female,inbreeding2,0.186440678
+Medicine and Health,1997,Female,inbreeding3,0.228813559
+Medicine and Health,1997,Female,inbreeding4,0.31920904
+Medicine and Health,1998,Male,inbreeding1,0.089403974
+Medicine and Health,1998,Male,inbreeding2,0.167218543
+Medicine and Health,1998,Male,inbreeding3,0.188741722
+Medicine and Health,1998,Male,inbreeding4,0.266556291
+Medicine and Health,1998,Female,inbreeding1,0.117370892
+Medicine and Health,1998,Female,inbreeding2,0.225352113
+Medicine and Health,1998,Female,inbreeding3,0.227699531
+Medicine and Health,1998,Female,inbreeding4,0.335680751
+Medicine and Health,1999,Male,inbreeding1,0.109204368
+Medicine and Health,1999,Male,inbreeding2,0.198127925
+Medicine and Health,1999,Male,inbreeding3,0.199687988
+Medicine and Health,1999,Male,inbreeding4,0.288611544
+Medicine and Health,1999,Female,inbreeding1,0.095011876
+Medicine and Health,1999,Female,inbreeding2,0.206650831
+Medicine and Health,1999,Female,inbreeding3,0.211401425
+Medicine and Health,1999,Female,inbreeding4,0.32304038
+Medicine and Health,2000,Male,inbreeding1,0.080272109
+Medicine and Health,2000,Male,inbreeding2,0.145578231
+Medicine and Health,2000,Male,inbreeding3,0.197278912
+Medicine and Health,2000,Male,inbreeding4,0.262585034
+Medicine and Health,2000,Female,inbreeding1,0.126252505
+Medicine and Health,2000,Female,inbreeding2,0.216432866
+Medicine and Health,2000,Female,inbreeding3,0.256513026
+Medicine and Health,2000,Female,inbreeding4,0.346693387
+Medicine and Health,2001,Male,inbreeding1,0.091511936
+Medicine and Health,2001,Male,inbreeding2,0.179045093
+Medicine and Health,2001,Male,inbreeding3,0.202917772
+Medicine and Health,2001,Male,inbreeding4,0.290450928
+Medicine and Health,2001,Female,inbreeding1,0.103942652
+Medicine and Health,2001,Female,inbreeding2,0.218637993
+Medicine and Health,2001,Female,inbreeding3,0.216845878
+Medicine and Health,2001,Female,inbreeding4,0.331541219
+Medicine and Health,2002,Male,inbreeding1,0.11058264
+Medicine and Health,2002,Male,inbreeding2,0.181926278
+Medicine and Health,2002,Male,inbreeding3,0.209274673
+Medicine and Health,2002,Male,inbreeding4,0.280618312
+Medicine and Health,2002,Female,inbreeding1,0.107615894
+Medicine and Health,2002,Female,inbreeding2,0.206953642
+Medicine and Health,2002,Female,inbreeding3,0.220198675
+Medicine and Health,2002,Female,inbreeding4,0.319536424
+Medicine and Health,2003,Male,inbreeding1,0.08543264
+Medicine and Health,2003,Male,inbreeding2,0.154435926
+Medicine and Health,2003,Male,inbreeding3,0.190580504
+Medicine and Health,2003,Male,inbreeding4,0.25958379
+Medicine and Health,2003,Female,inbreeding1,0.095168375
+Medicine and Health,2003,Female,inbreeding2,0.188872621
+Medicine and Health,2003,Female,inbreeding3,0.218155198
+Medicine and Health,2003,Female,inbreeding4,0.311859444
+Medicine and Health,2004,Male,inbreeding1,0.090909091
+Medicine and Health,2004,Male,inbreeding2,0.166507177
+Medicine and Health,2004,Male,inbreeding3,0.195215311
+Medicine and Health,2004,Male,inbreeding4,0.270813397
+Medicine and Health,2004,Female,inbreeding1,0.101428571
+Medicine and Health,2004,Female,inbreeding2,0.21
+Medicine and Health,2004,Female,inbreeding3,0.212857143
+Medicine and Health,2004,Female,inbreeding4,0.321428571
+Medicine and Health,2005,Male,inbreeding1,0.086048454
+Medicine and Health,2005,Male,inbreeding2,0.174603175
+Medicine and Health,2005,Male,inbreeding3,0.19047619
+Medicine and Health,2005,Male,inbreeding4,0.279030911
+Medicine and Health,2005,Female,inbreeding1,0.101928375
+Medicine and Health,2005,Female,inbreeding2,0.181818182
+Medicine and Health,2005,Female,inbreeding3,0.225895317
+Medicine and Health,2005,Female,inbreeding4,0.305785124
+Medicine and Health,2006,Male,inbreeding1,0.084507042
+Medicine and Health,2006,Male,inbreeding2,0.161971831
+Medicine and Health,2006,Male,inbreeding3,0.179968701
+Medicine and Health,2006,Male,inbreeding4,0.25743349
+Medicine and Health,2006,Female,inbreeding1,0.114347357
+Medicine and Health,2006,Female,inbreeding2,0.211434736
+Medicine and Health,2006,Female,inbreeding3,0.225458468
+Medicine and Health,2006,Female,inbreeding4,0.322545847
+Medicine and Health,2007,Male,inbreeding1,0.086773968
+Medicine and Health,2007,Male,inbreeding2,0.170748775
+Medicine and Health,2007,Male,inbreeding3,0.202239328
+Medicine and Health,2007,Male,inbreeding4,0.286214136
+Medicine and Health,2007,Female,inbreeding1,0.095330739
+Medicine and Health,2007,Female,inbreeding2,0.185797665
+Medicine and Health,2007,Female,inbreeding3,0.215953307
+Medicine and Health,2007,Female,inbreeding4,0.306420233
+Medicine and Health,2008,Male,inbreeding1,0.100234467
+Medicine and Health,2008,Male,inbreeding2,0.188159437
+Medicine and Health,2008,Male,inbreeding3,0.216881594
+Medicine and Health,2008,Male,inbreeding4,0.304806565
+Medicine and Health,2008,Female,inbreeding1,0.097210482
+Medicine and Health,2008,Female,inbreeding2,0.2079459
+Medicine and Health,2008,Female,inbreeding3,0.194420964
+Medicine and Health,2008,Female,inbreeding4,0.305156382
+Medicine and Health,2009,Male,inbreeding1,0.0969163
+Medicine and Health,2009,Male,inbreeding2,0.176211454
+Medicine and Health,2009,Male,inbreeding3,0.195484581
+Medicine and Health,2009,Male,inbreeding4,0.274779736
+Medicine and Health,2009,Female,inbreeding1,0.090838509
+Medicine and Health,2009,Female,inbreeding2,0.177018634
+Medicine and Health,2009,Female,inbreeding3,0.212732919
+Medicine and Health,2009,Female,inbreeding4,0.298913043
+Medicine and Health,2010,Male,inbreeding1,0.088778055
+Medicine and Health,2010,Male,inbreeding2,0.167082294
+Medicine and Health,2010,Male,inbreeding3,0.204488778
+Medicine and Health,2010,Male,inbreeding4,0.282793017
+Medicine and Health,2010,Female,inbreeding1,0.11265545
+Medicine and Health,2010,Female,inbreeding2,0.197512802
+Medicine and Health,2010,Female,inbreeding3,0.229700073
+Medicine and Health,2010,Female,inbreeding4,0.314557425
+Medicine and Health,2011,Male,inbreeding1,0.083661417
+Medicine and Health,2011,Male,inbreeding2,0.168799213
+Medicine and Health,2011,Male,inbreeding3,0.209153543
+Medicine and Health,2011,Male,inbreeding4,0.294291339
+Medicine and Health,2011,Female,inbreeding1,0.09569378
+Medicine and Health,2011,Female,inbreeding2,0.168831169
+Medicine and Health,2011,Female,inbreeding3,0.212576897
+Medicine and Health,2011,Female,inbreeding4,0.285714286
+Medicine and Health,2012,Male,inbreeding1,0.077159141
+Medicine and Health,2012,Male,inbreeding2,0.155633494
+Medicine and Health,2012,Male,inbreeding3,0.189829022
+Medicine and Health,2012,Male,inbreeding4,0.268303376
+Medicine and Health,2012,Female,inbreeding1,0.094292804
+Medicine and Health,2012,Female,inbreeding2,0.174937965
+Medicine and Health,2012,Female,inbreeding3,0.225186104
+Medicine and Health,2012,Female,inbreeding4,0.305831266
+Medicine and Health,2013,Male,inbreeding1,0.08113354
+Medicine and Health,2013,Male,inbreeding2,0.154891304
+Medicine and Health,2013,Male,inbreeding3,0.202639752
+Medicine and Health,2013,Male,inbreeding4,0.276397516
+Medicine and Health,2013,Female,inbreeding1,0.095512083
+Medicine and Health,2013,Female,inbreeding2,0.163981588
+Medicine and Health,2013,Female,inbreeding3,0.222669735
+Medicine and Health,2013,Female,inbreeding4,0.291139241
+Medicine and Health,2014,Male,inbreeding1,0.089748267
+Medicine and Health,2014,Male,inbreeding2,0.15468807
+Medicine and Health,2014,Male,inbreeding3,0.21670923
+Medicine and Health,2014,Male,inbreeding4,0.281649033
+Medicine and Health,2014,Female,inbreeding1,0.093561368
+Medicine and Health,2014,Female,inbreeding2,0.15694165
+Medicine and Health,2014,Female,inbreeding3,0.230885312
+Medicine and Health,2014,Female,inbreeding4,0.294265594
+Medicine and Health,2015,Male,inbreeding1,0.078040541
+Medicine and Health,2015,Male,inbreeding2,0.139189189
+Medicine and Health,2015,Male,inbreeding3,0.214864865
+Medicine and Health,2015,Male,inbreeding4,0.276013514
+Medicine and Health,2015,Female,inbreeding1,0.111478507
+Medicine and Health,2015,Female,inbreeding2,0.178082192
+Medicine and Health,2015,Female,inbreeding3,0.239017478
+Medicine and Health,2015,Female,inbreeding4,0.305621162
+Medicine and Health,2016,Male,inbreeding1,0.081836327
+Medicine and Health,2016,Male,inbreeding2,0.137391883
+Medicine and Health,2016,Male,inbreeding3,0.207917498
+Medicine and Health,2016,Male,inbreeding4,0.263473054
+Medicine and Health,2016,Female,inbreeding1,0.093559003
+Medicine and Health,2016,Female,inbreeding2,0.148566055
+Medicine and Health,2016,Female,inbreeding3,0.225199812
+Medicine and Health,2016,Female,inbreeding4,0.280206864
+Medicine and Health,2017,Male,inbreeding1,0.075602509
+Medicine and Health,2017,Male,inbreeding2,0.138659624
+Medicine and Health,2017,Male,inbreeding3,0.209310003
+Medicine and Health,2017,Male,inbreeding4,0.272367118
+Medicine and Health,2017,Female,inbreeding1,0.09317032
+Medicine and Health,2017,Female,inbreeding2,0.153035413
+Medicine and Health,2017,Female,inbreeding3,0.252107926
+Medicine and Health,2017,Female,inbreeding4,0.311973019
+Medicine and Health,2018,Male,inbreeding1,0.081756757
+Medicine and Health,2018,Male,inbreeding2,0.136824324
+Medicine and Health,2018,Male,inbreeding3,0.211486486
+Medicine and Health,2018,Male,inbreeding4,0.266554054
+Medicine and Health,2018,Female,inbreeding1,0.091372716
+Medicine and Health,2018,Female,inbreeding2,0.141946451
+Medicine and Health,2018,Female,inbreeding3,0.223119422
+Medicine and Health,2018,Female,inbreeding4,0.273693158
+Medicine and Health,2019,Male,inbreeding1,0.075975359
+Medicine and Health,2019,Male,inbreeding2,0.124572211
+Medicine and Health,2019,Male,inbreeding3,0.203285421
+Medicine and Health,2019,Male,inbreeding4,0.251882272
+Medicine and Health,2019,Female,inbreeding1,0.093900834
+Medicine and Health,2019,Female,inbreeding2,0.142606406
+Medicine and Health,2019,Female,inbreeding3,0.218516893
+Medicine and Health,2019,Female,inbreeding4,0.267222466
+Medicine and Health,2020,Male,inbreeding1,0.08
+Medicine and Health,2020,Male,inbreeding2,0.124731183
+Medicine and Health,2020,Male,inbreeding3,0.222365591
+Medicine and Health,2020,Male,inbreeding4,0.267096774
+Medicine and Health,2020,Female,inbreeding1,0.079538905
+Medicine and Health,2020,Female,inbreeding2,0.120461095
+Medicine and Health,2020,Female,inbreeding3,0.228242075
+Medicine and Health,2020,Female,inbreeding4,0.269164265
+Medicine and Health,2021,Male,inbreeding1,0.07790224
+Medicine and Health,2021,Male,inbreeding2,0.111507128
+Medicine and Health,2021,Male,inbreeding3,0.210794297
+Medicine and Health,2021,Male,inbreeding4,0.244399185
+Medicine and Health,2021,Female,inbreeding1,0.090102389
+Medicine and Health,2021,Female,inbreeding2,0.132423208
+Medicine and Health,2021,Female,inbreeding3,0.227303754
+Medicine and Health,2021,Female,inbreeding4,0.269624573
+Medicine and Health,2022,Male,inbreeding1,0.078021978
+Medicine and Health,2022,Male,inbreeding2,0.10989011
+Medicine and Health,2022,Male,inbreeding3,0.217582418
+Medicine and Health,2022,Male,inbreeding4,0.249450549
+Medicine and Health,2022,Female,inbreeding1,0.065625
+Medicine and Health,2022,Female,inbreeding2,0.0953125
+Medicine and Health,2022,Female,inbreeding3,0.21875
+Medicine and Health,2022,Female,inbreeding4,0.2484375
+Natural Sciences,1975,Male,inbreeding1,0.060240964
+Natural Sciences,1975,Male,inbreeding2,0.096385542
+Natural Sciences,1975,Male,inbreeding3,0.120481928
+Natural Sciences,1975,Male,inbreeding4,0.156626506
+Natural Sciences,1975,Female,inbreeding1,0.107142857
+Natural Sciences,1975,Female,inbreeding2,0.214285714
+Natural Sciences,1975,Female,inbreeding3,0.178571429
+Natural Sciences,1975,Female,inbreeding4,0.285714286
+Natural Sciences,1976,Male,inbreeding1,0.082568807
+Natural Sciences,1976,Male,inbreeding2,0.137614679
+Natural Sciences,1976,Male,inbreeding3,0.174311927
+Natural Sciences,1976,Male,inbreeding4,0.229357798
+Natural Sciences,1976,Female,inbreeding1,0.151515152
+Natural Sciences,1976,Female,inbreeding2,0.333333333
+Natural Sciences,1976,Female,inbreeding3,0.393939394
+Natural Sciences,1976,Female,inbreeding4,0.575757576
+Natural Sciences,1977,Male,inbreeding1,0.089108911
+Natural Sciences,1977,Male,inbreeding2,0.108910891
+Natural Sciences,1977,Male,inbreeding3,0.138613861
+Natural Sciences,1977,Male,inbreeding4,0.158415842
+Natural Sciences,1977,Female,inbreeding1,0.117647059
+Natural Sciences,1977,Female,inbreeding2,0.352941176
+Natural Sciences,1977,Female,inbreeding3,0.147058824
+Natural Sciences,1977,Female,inbreeding4,0.382352941
+Natural Sciences,1978,Male,inbreeding1,0.032786885
+Natural Sciences,1978,Male,inbreeding2,0.098360656
+Natural Sciences,1978,Male,inbreeding3,0.081967213
+Natural Sciences,1978,Male,inbreeding4,0.147540984
+Natural Sciences,1978,Female,inbreeding1,0.2
+Natural Sciences,1978,Female,inbreeding2,0.35
+Natural Sciences,1978,Female,inbreeding3,0.25
+Natural Sciences,1978,Female,inbreeding4,0.4
+Natural Sciences,1979,Male,inbreeding1,0.014492754
+Natural Sciences,1979,Male,inbreeding2,0.079710145
+Natural Sciences,1979,Male,inbreeding3,0.036231884
+Natural Sciences,1979,Male,inbreeding4,0.101449275
+Natural Sciences,1979,Female,inbreeding1,0.055555556
+Natural Sciences,1979,Female,inbreeding2,0.194444444
+Natural Sciences,1979,Female,inbreeding3,0.111111111
+Natural Sciences,1979,Female,inbreeding4,0.25
+Natural Sciences,1980,Male,inbreeding1,0.066666667
+Natural Sciences,1980,Male,inbreeding2,0.145454545
+Natural Sciences,1980,Male,inbreeding3,0.133333333
+Natural Sciences,1980,Male,inbreeding4,0.212121212
+Natural Sciences,1980,Female,inbreeding1,0.094339623
+Natural Sciences,1980,Female,inbreeding2,0.20754717
+Natural Sciences,1980,Female,inbreeding3,0.301886792
+Natural Sciences,1980,Female,inbreeding4,0.41509434
+Natural Sciences,1981,Male,inbreeding1,0.063583815
+Natural Sciences,1981,Male,inbreeding2,0.150289017
+Natural Sciences,1981,Male,inbreeding3,0.150289017
+Natural Sciences,1981,Male,inbreeding4,0.23699422
+Natural Sciences,1981,Female,inbreeding1,0.169811321
+Natural Sciences,1981,Female,inbreeding2,0.245283019
+Natural Sciences,1981,Female,inbreeding3,0.283018868
+Natural Sciences,1981,Female,inbreeding4,0.358490566
+Natural Sciences,1982,Male,inbreeding1,0.072164948
+Natural Sciences,1982,Male,inbreeding2,0.12371134
+Natural Sciences,1982,Male,inbreeding3,0.154639175
+Natural Sciences,1982,Male,inbreeding4,0.206185567
+Natural Sciences,1982,Female,inbreeding1,0.168674699
+Natural Sciences,1982,Female,inbreeding2,0.301204819
+Natural Sciences,1982,Female,inbreeding3,0.21686747
+Natural Sciences,1982,Female,inbreeding4,0.34939759
+Natural Sciences,1983,Male,inbreeding1,0.077319588
+Natural Sciences,1983,Male,inbreeding2,0.134020619
+Natural Sciences,1983,Male,inbreeding3,0.139175258
+Natural Sciences,1983,Male,inbreeding4,0.195876289
+Natural Sciences,1983,Female,inbreeding1,0.063492063
+Natural Sciences,1983,Female,inbreeding2,0.253968254
+Natural Sciences,1983,Female,inbreeding3,0.126984127
+Natural Sciences,1983,Female,inbreeding4,0.317460317
+Natural Sciences,1984,Male,inbreeding1,0.049586777
+Natural Sciences,1984,Male,inbreeding2,0.103305785
+Natural Sciences,1984,Male,inbreeding3,0.161157025
+Natural Sciences,1984,Male,inbreeding4,0.214876033
+Natural Sciences,1984,Female,inbreeding1,0.155844156
+Natural Sciences,1984,Female,inbreeding2,0.246753247
+Natural Sciences,1984,Female,inbreeding3,0.233766234
+Natural Sciences,1984,Female,inbreeding4,0.324675325
+Natural Sciences,1985,Male,inbreeding1,0.066964286
+Natural Sciences,1985,Male,inbreeding2,0.15625
+Natural Sciences,1985,Male,inbreeding3,0.142857143
+Natural Sciences,1985,Male,inbreeding4,0.232142857
+Natural Sciences,1985,Female,inbreeding1,0.086021505
+Natural Sciences,1985,Female,inbreeding2,0.193548387
+Natural Sciences,1985,Female,inbreeding3,0.161290323
+Natural Sciences,1985,Female,inbreeding4,0.268817204
+Natural Sciences,1986,Male,inbreeding1,0.073359073
+Natural Sciences,1986,Male,inbreeding2,0.158301158
+Natural Sciences,1986,Male,inbreeding3,0.142857143
+Natural Sciences,1986,Male,inbreeding4,0.227799228
+Natural Sciences,1986,Female,inbreeding1,0.066666667
+Natural Sciences,1986,Female,inbreeding2,0.175
+Natural Sciences,1986,Female,inbreeding3,0.133333333
+Natural Sciences,1986,Female,inbreeding4,0.241666667
+Natural Sciences,1987,Male,inbreeding1,0.045112782
+Natural Sciences,1987,Male,inbreeding2,0.157894737
+Natural Sciences,1987,Male,inbreeding3,0.112781955
+Natural Sciences,1987,Male,inbreeding4,0.22556391
+Natural Sciences,1987,Female,inbreeding1,0.089430894
+Natural Sciences,1987,Female,inbreeding2,0.235772358
+Natural Sciences,1987,Female,inbreeding3,0.18699187
+Natural Sciences,1987,Female,inbreeding4,0.333333333
+Natural Sciences,1988,Male,inbreeding1,0.054607509
+Natural Sciences,1988,Male,inbreeding2,0.119453925
+Natural Sciences,1988,Male,inbreeding3,0.146757679
+Natural Sciences,1988,Male,inbreeding4,0.211604096
+Natural Sciences,1988,Female,inbreeding1,0.126984127
+Natural Sciences,1988,Female,inbreeding2,0.26984127
+Natural Sciences,1988,Female,inbreeding3,0.166666667
+Natural Sciences,1988,Female,inbreeding4,0.30952381
+Natural Sciences,1989,Male,inbreeding1,0.052459016
+Natural Sciences,1989,Male,inbreeding2,0.118032787
+Natural Sciences,1989,Male,inbreeding3,0.137704918
+Natural Sciences,1989,Male,inbreeding4,0.203278689
+Natural Sciences,1989,Female,inbreeding1,0.094339623
+Natural Sciences,1989,Female,inbreeding2,0.232704403
+Natural Sciences,1989,Female,inbreeding3,0.194968553
+Natural Sciences,1989,Female,inbreeding4,0.333333333
+Natural Sciences,1990,Male,inbreeding1,0.06824147
+Natural Sciences,1990,Male,inbreeding2,0.12335958
+Natural Sciences,1990,Male,inbreeding3,0.165354331
+Natural Sciences,1990,Male,inbreeding4,0.220472441
+Natural Sciences,1990,Female,inbreeding1,0.11299435
+Natural Sciences,1990,Female,inbreeding2,0.225988701
+Natural Sciences,1990,Female,inbreeding3,0.231638418
+Natural Sciences,1990,Female,inbreeding4,0.344632768
+Natural Sciences,1991,Male,inbreeding1,0.066115702
+Natural Sciences,1991,Male,inbreeding2,0.154269972
+Natural Sciences,1991,Male,inbreeding3,0.168044077
+Natural Sciences,1991,Male,inbreeding4,0.256198347
+Natural Sciences,1991,Female,inbreeding1,0.119791667
+Natural Sciences,1991,Female,inbreeding2,0.192708333
+Natural Sciences,1991,Female,inbreeding3,0.203125
+Natural Sciences,1991,Female,inbreeding4,0.276041667
+Natural Sciences,1992,Male,inbreeding1,0.047745358
+Natural Sciences,1992,Male,inbreeding2,0.116710875
+Natural Sciences,1992,Male,inbreeding3,0.151193634
+Natural Sciences,1992,Male,inbreeding4,0.220159151
+Natural Sciences,1992,Female,inbreeding1,0.064516129
+Natural Sciences,1992,Female,inbreeding2,0.161290323
+Natural Sciences,1992,Female,inbreeding3,0.129032258
+Natural Sciences,1992,Female,inbreeding4,0.225806452
+Natural Sciences,1993,Male,inbreeding1,0.070217918
+Natural Sciences,1993,Male,inbreeding2,0.147699758
+Natural Sciences,1993,Male,inbreeding3,0.157384988
+Natural Sciences,1993,Male,inbreeding4,0.234866828
+Natural Sciences,1993,Female,inbreeding1,0.092511013
+Natural Sciences,1993,Female,inbreeding2,0.237885463
+Natural Sciences,1993,Female,inbreeding3,0.171806167
+Natural Sciences,1993,Female,inbreeding4,0.317180617
+Natural Sciences,1994,Male,inbreeding1,0.061002179
+Natural Sciences,1994,Male,inbreeding2,0.132897603
+Natural Sciences,1994,Male,inbreeding3,0.135076253
+Natural Sciences,1994,Male,inbreeding4,0.206971678
+Natural Sciences,1994,Female,inbreeding1,0.104761905
+Natural Sciences,1994,Female,inbreeding2,0.20952381
+Natural Sciences,1994,Female,inbreeding3,0.171428571
+Natural Sciences,1994,Female,inbreeding4,0.276190476
+Natural Sciences,1995,Male,inbreeding1,0.079439252
+Natural Sciences,1995,Male,inbreeding2,0.182242991
+Natural Sciences,1995,Male,inbreeding3,0.128504673
+Natural Sciences,1995,Male,inbreeding4,0.231308411
+Natural Sciences,1995,Female,inbreeding1,0.093220339
+Natural Sciences,1995,Female,inbreeding2,0.216101695
+Natural Sciences,1995,Female,inbreeding3,0.211864407
+Natural Sciences,1995,Female,inbreeding4,0.334745763
+Natural Sciences,1996,Male,inbreeding1,0.044176707
+Natural Sciences,1996,Male,inbreeding2,0.12248996
+Natural Sciences,1996,Male,inbreeding3,0.128514056
+Natural Sciences,1996,Male,inbreeding4,0.206827309
+Natural Sciences,1996,Female,inbreeding1,0.152727273
+Natural Sciences,1996,Female,inbreeding2,0.229090909
+Natural Sciences,1996,Female,inbreeding3,0.272727273
+Natural Sciences,1996,Female,inbreeding4,0.349090909
+Natural Sciences,1997,Male,inbreeding1,0.086142322
+Natural Sciences,1997,Male,inbreeding2,0.166666667
+Natural Sciences,1997,Male,inbreeding3,0.174157303
+Natural Sciences,1997,Male,inbreeding4,0.254681648
+Natural Sciences,1997,Female,inbreeding1,0.110749186
+Natural Sciences,1997,Female,inbreeding2,0.195439739
+Natural Sciences,1997,Female,inbreeding3,0.166123779
+Natural Sciences,1997,Female,inbreeding4,0.250814332
+Natural Sciences,1998,Male,inbreeding1,0.081597222
+Natural Sciences,1998,Male,inbreeding2,0.147569444
+Natural Sciences,1998,Male,inbreeding3,0.180555556
+Natural Sciences,1998,Male,inbreeding4,0.246527778
+Natural Sciences,1998,Female,inbreeding1,0.106017192
+Natural Sciences,1998,Female,inbreeding2,0.180515759
+Natural Sciences,1998,Female,inbreeding3,0.214899713
+Natural Sciences,1998,Female,inbreeding4,0.289398281
+Natural Sciences,1999,Male,inbreeding1,0.073322933
+Natural Sciences,1999,Male,inbreeding2,0.148205928
+Natural Sciences,1999,Male,inbreeding3,0.16224649
+Natural Sciences,1999,Male,inbreeding4,0.237129485
+Natural Sciences,1999,Female,inbreeding1,0.127536232
+Natural Sciences,1999,Female,inbreeding2,0.234782609
+Natural Sciences,1999,Female,inbreeding3,0.220289855
+Natural Sciences,1999,Female,inbreeding4,0.327536232
+Natural Sciences,2000,Male,inbreeding1,0.08588064
+Natural Sciences,2000,Male,inbreeding2,0.163027656
+Natural Sciences,2000,Male,inbreeding3,0.155749636
+Natural Sciences,2000,Male,inbreeding4,0.232896652
+Natural Sciences,2000,Female,inbreeding1,0.090069284
+Natural Sciences,2000,Female,inbreeding2,0.182448037
+Natural Sciences,2000,Female,inbreeding3,0.233256351
+Natural Sciences,2000,Female,inbreeding4,0.325635104
+Natural Sciences,2001,Male,inbreeding1,0.076129032
+Natural Sciences,2001,Male,inbreeding2,0.157419355
+Natural Sciences,2001,Male,inbreeding3,0.153548387
+Natural Sciences,2001,Male,inbreeding4,0.23483871
+Natural Sciences,2001,Female,inbreeding1,0.11409396
+Natural Sciences,2001,Female,inbreeding2,0.185682327
+Natural Sciences,2001,Female,inbreeding3,0.234899329
+Natural Sciences,2001,Female,inbreeding4,0.306487696
+Natural Sciences,2002,Male,inbreeding1,0.079110012
+Natural Sciences,2002,Male,inbreeding2,0.171817058
+Natural Sciences,2002,Male,inbreeding3,0.179233622
+Natural Sciences,2002,Male,inbreeding4,0.271940667
+Natural Sciences,2002,Female,inbreeding1,0.081932773
+Natural Sciences,2002,Female,inbreeding2,0.18697479
+Natural Sciences,2002,Female,inbreeding3,0.178571429
+Natural Sciences,2002,Female,inbreeding4,0.283613445
+Natural Sciences,2003,Male,inbreeding1,0.063073394
+Natural Sciences,2003,Male,inbreeding2,0.151376147
+Natural Sciences,2003,Male,inbreeding3,0.149082569
+Natural Sciences,2003,Male,inbreeding4,0.237385321
+Natural Sciences,2003,Female,inbreeding1,0.092213115
+Natural Sciences,2003,Female,inbreeding2,0.192622951
+Natural Sciences,2003,Female,inbreeding3,0.206967213
+Natural Sciences,2003,Female,inbreeding4,0.307377049
+Natural Sciences,2004,Male,inbreeding1,0.073869901
+Natural Sciences,2004,Male,inbreeding2,0.15876516
+Natural Sciences,2004,Male,inbreeding3,0.166482911
+Natural Sciences,2004,Male,inbreeding4,0.25137817
+Natural Sciences,2004,Female,inbreeding1,0.11826087
+Natural Sciences,2004,Female,inbreeding2,0.196521739
+Natural Sciences,2004,Female,inbreeding3,0.219130435
+Natural Sciences,2004,Female,inbreeding4,0.297391304
+Natural Sciences,2005,Male,inbreeding1,0.068767908
+Natural Sciences,2005,Male,inbreeding2,0.147086915
+Natural Sciences,2005,Male,inbreeding3,0.163323782
+Natural Sciences,2005,Male,inbreeding4,0.241642789
+Natural Sciences,2005,Female,inbreeding1,0.100424328
+Natural Sciences,2005,Female,inbreeding2,0.210749646
+Natural Sciences,2005,Female,inbreeding3,0.175388967
+Natural Sciences,2005,Female,inbreeding4,0.285714286
+Natural Sciences,2006,Male,inbreeding1,0.074352548
+Natural Sciences,2006,Male,inbreeding2,0.162071846
+Natural Sciences,2006,Male,inbreeding3,0.169590643
+Natural Sciences,2006,Male,inbreeding4,0.257309942
+Natural Sciences,2006,Female,inbreeding1,0.086787565
+Natural Sciences,2006,Female,inbreeding2,0.182642487
+Natural Sciences,2006,Female,inbreeding3,0.17746114
+Natural Sciences,2006,Female,inbreeding4,0.273316062
+Natural Sciences,2007,Male,inbreeding1,0.076506955
+Natural Sciences,2007,Male,inbreeding2,0.156877898
+Natural Sciences,2007,Male,inbreeding3,0.186244204
+Natural Sciences,2007,Male,inbreeding4,0.266615147
+Natural Sciences,2007,Female,inbreeding1,0.113294798
+Natural Sciences,2007,Female,inbreeding2,0.201156069
+Natural Sciences,2007,Female,inbreeding3,0.221965318
+Natural Sciences,2007,Female,inbreeding4,0.30982659
+Natural Sciences,2008,Male,inbreeding1,0.066619916
+Natural Sciences,2008,Male,inbreeding2,0.156381487
+Natural Sciences,2008,Male,inbreeding3,0.169004208
+Natural Sciences,2008,Male,inbreeding4,0.258765778
+Natural Sciences,2008,Female,inbreeding1,0.090431125
+Natural Sciences,2008,Female,inbreeding2,0.18086225
+Natural Sciences,2008,Female,inbreeding3,0.193480547
+Natural Sciences,2008,Female,inbreeding4,0.283911672
+Natural Sciences,2009,Male,inbreeding1,0.084427767
+Natural Sciences,2009,Male,inbreeding2,0.155096936
+Natural Sciences,2009,Male,inbreeding3,0.185741088
+Natural Sciences,2009,Male,inbreeding4,0.256410256
+Natural Sciences,2009,Female,inbreeding1,0.094736842
+Natural Sciences,2009,Female,inbreeding2,0.183732057
+Natural Sciences,2009,Female,inbreeding3,0.19138756
+Natural Sciences,2009,Female,inbreeding4,0.280382775
+Natural Sciences,2010,Male,inbreeding1,0.076790831
+Natural Sciences,2010,Male,inbreeding2,0.173065903
+Natural Sciences,2010,Male,inbreeding3,0.164469914
+Natural Sciences,2010,Male,inbreeding4,0.260744986
+Natural Sciences,2010,Female,inbreeding1,0.080548415
+Natural Sciences,2010,Female,inbreeding2,0.158526135
+Natural Sciences,2010,Female,inbreeding3,0.19108826
+Natural Sciences,2010,Female,inbreeding4,0.269065981
+Natural Sciences,2011,Male,inbreeding1,0.073221757
+Natural Sciences,2011,Male,inbreeding2,0.160041841
+Natural Sciences,2011,Male,inbreeding3,0.175732218
+Natural Sciences,2011,Male,inbreeding4,0.262552301
+Natural Sciences,2011,Female,inbreeding1,0.094931617
+Natural Sciences,2011,Female,inbreeding2,0.181013677
+Natural Sciences,2011,Female,inbreeding3,0.187449718
+Natural Sciences,2011,Female,inbreeding4,0.273531778
+Natural Sciences,2012,Male,inbreeding1,0.08239333
+Natural Sciences,2012,Male,inbreeding2,0.151544875
+Natural Sciences,2012,Male,inbreeding3,0.18293281
+Natural Sciences,2012,Male,inbreeding4,0.252084355
+Natural Sciences,2012,Female,inbreeding1,0.098884758
+Natural Sciences,2012,Female,inbreeding2,0.169516729
+Natural Sciences,2012,Female,inbreeding3,0.223791822
+Natural Sciences,2012,Female,inbreeding4,0.294423792
+Natural Sciences,2013,Male,inbreeding1,0.074169901
+Natural Sciences,2013,Male,inbreeding2,0.148771022
+Natural Sciences,2013,Male,inbreeding3,0.188874515
+Natural Sciences,2013,Male,inbreeding4,0.263475636
+Natural Sciences,2013,Female,inbreeding1,0.086551265
+Natural Sciences,2013,Female,inbreeding2,0.165113182
+Natural Sciences,2013,Female,inbreeding3,0.21770972
+Natural Sciences,2013,Female,inbreeding4,0.296271638
+Natural Sciences,2014,Male,inbreeding1,0.075510204
+Natural Sciences,2014,Male,inbreeding2,0.14244898
+Natural Sciences,2014,Male,inbreeding3,0.192653061
+Natural Sciences,2014,Male,inbreeding4,0.259591837
+Natural Sciences,2014,Female,inbreeding1,0.089659295
+Natural Sciences,2014,Female,inbreeding2,0.166168559
+Natural Sciences,2014,Female,inbreeding3,0.214584579
+Natural Sciences,2014,Female,inbreeding4,0.291093843
+Natural Sciences,2015,Male,inbreeding1,0.083696946
+Natural Sciences,2015,Male,inbreeding2,0.154700516
+Natural Sciences,2015,Male,inbreeding3,0.200317334
+Natural Sciences,2015,Male,inbreeding4,0.271320904
+Natural Sciences,2015,Female,inbreeding1,0.097972973
+Natural Sciences,2015,Female,inbreeding2,0.168355856
+Natural Sciences,2015,Female,inbreeding3,0.208333333
+Natural Sciences,2015,Female,inbreeding4,0.278716216
+Natural Sciences,2016,Male,inbreeding1,0.085952291
+Natural Sciences,2016,Male,inbreeding2,0.151836426
+Natural Sciences,2016,Male,inbreeding3,0.207875805
+Natural Sciences,2016,Male,inbreeding4,0.273759939
+Natural Sciences,2016,Female,inbreeding1,0.090563991
+Natural Sciences,2016,Female,inbreeding2,0.158893709
+Natural Sciences,2016,Female,inbreeding3,0.223969631
+Natural Sciences,2016,Female,inbreeding4,0.292299349
+Natural Sciences,2017,Male,inbreeding1,0.078394599
+Natural Sciences,2017,Male,inbreeding2,0.140285071
+Natural Sciences,2017,Male,inbreeding3,0.210802701
+Natural Sciences,2017,Male,inbreeding4,0.272693173
+Natural Sciences,2017,Female,inbreeding1,0.087861859
+Natural Sciences,2017,Female,inbreeding2,0.139664804
+Natural Sciences,2017,Female,inbreeding3,0.231081767
+Natural Sciences,2017,Female,inbreeding4,0.282884713
+Natural Sciences,2018,Male,inbreeding1,0.078757225
+Natural Sciences,2018,Male,inbreeding2,0.132947977
+Natural Sciences,2018,Male,inbreeding3,0.210982659
+Natural Sciences,2018,Male,inbreeding4,0.26517341
+Natural Sciences,2018,Female,inbreeding1,0.085625324
+Natural Sciences,2018,Female,inbreeding2,0.140633108
+Natural Sciences,2018,Female,inbreeding3,0.216398547
+Natural Sciences,2018,Female,inbreeding4,0.271406331
+Natural Sciences,2019,Male,inbreeding1,0.084043377
+Natural Sciences,2019,Male,inbreeding2,0.132842758
+Natural Sciences,2019,Male,inbreeding3,0.217273431
+Natural Sciences,2019,Male,inbreeding4,0.266072812
+Natural Sciences,2019,Female,inbreeding1,0.084210526
+Natural Sciences,2019,Female,inbreeding2,0.13
+Natural Sciences,2019,Female,inbreeding3,0.229473684
+Natural Sciences,2019,Female,inbreeding4,0.275263158
+Natural Sciences,2020,Male,inbreeding1,0.08992629
+Natural Sciences,2020,Male,inbreeding2,0.123341523
+Natural Sciences,2020,Male,inbreeding3,0.236363636
+Natural Sciences,2020,Male,inbreeding4,0.26977887
+Natural Sciences,2020,Female,inbreeding1,0.090663058
+Natural Sciences,2020,Female,inbreeding2,0.138024357
+Natural Sciences,2020,Female,inbreeding3,0.248985115
+Natural Sciences,2020,Female,inbreeding4,0.296346414
+Natural Sciences,2021,Male,inbreeding1,0.075885329
+Natural Sciences,2021,Male,inbreeding2,0.110736369
+Natural Sciences,2021,Male,inbreeding3,0.220910624
+Natural Sciences,2021,Male,inbreeding4,0.255761664
+Natural Sciences,2021,Female,inbreeding1,0.086469175
+Natural Sciences,2021,Female,inbreeding2,0.117694155
+Natural Sciences,2021,Female,inbreeding3,0.252201761
+Natural Sciences,2021,Female,inbreeding4,0.283426741
+Natural Sciences,2022,Male,inbreeding1,0.072796935
+Natural Sciences,2022,Male,inbreeding2,0.088122605
+Natural Sciences,2022,Male,inbreeding3,0.229885057
+Natural Sciences,2022,Male,inbreeding4,0.245210728
+Natural Sciences,2022,Female,inbreeding1,0.083032491
+Natural Sciences,2022,Female,inbreeding2,0.106498195
+Natural Sciences,2022,Female,inbreeding3,0.227436823
+Natural Sciences,2022,Female,inbreeding4,0.250902527
+Social Sciences,1975,Male,inbreeding1,0.03125
+Social Sciences,1975,Male,inbreeding2,0.09375
+Social Sciences,1975,Male,inbreeding3,0.0625
+Social Sciences,1975,Male,inbreeding4,0.125
+Social Sciences,1975,Female,inbreeding1,0.125
+Social Sciences,1975,Female,inbreeding2,0.1875
+Social Sciences,1975,Female,inbreeding3,0.3125
+Social Sciences,1975,Female,inbreeding4,0.375
+Social Sciences,1976,Male,inbreeding1,0
+Social Sciences,1976,Male,inbreeding2,0.047619048
+Social Sciences,1976,Male,inbreeding3,0.095238095
+Social Sciences,1976,Male,inbreeding4,0.142857143
+Social Sciences,1976,Female,inbreeding1,0.083333333
+Social Sciences,1976,Female,inbreeding2,0.166666667
+Social Sciences,1976,Female,inbreeding3,0.083333333
+Social Sciences,1976,Female,inbreeding4,0.166666667
+Social Sciences,1977,Male,inbreeding1,0.073170732
+Social Sciences,1977,Male,inbreeding2,0.146341463
+Social Sciences,1977,Male,inbreeding3,0.12195122
+Social Sciences,1977,Male,inbreeding4,0.195121951
+Social Sciences,1977,Female,inbreeding1,0.142857143
+Social Sciences,1977,Female,inbreeding2,0.285714286
+Social Sciences,1977,Female,inbreeding3,0.285714286
+Social Sciences,1977,Female,inbreeding4,0.428571429
+Social Sciences,1978,Male,inbreeding1,0
+Social Sciences,1978,Male,inbreeding2,0
+Social Sciences,1978,Male,inbreeding3,0.111111111
+Social Sciences,1978,Male,inbreeding4,0.111111111
+Social Sciences,1978,Female,inbreeding1,0.041666667
+Social Sciences,1978,Female,inbreeding2,0.083333333
+Social Sciences,1978,Female,inbreeding3,0.25
+Social Sciences,1978,Female,inbreeding4,0.291666667
+Social Sciences,1979,Male,inbreeding1,0.048780488
+Social Sciences,1979,Male,inbreeding2,0.146341463
+Social Sciences,1979,Male,inbreeding3,0.146341463
+Social Sciences,1979,Male,inbreeding4,0.243902439
+Social Sciences,1979,Female,inbreeding1,0.1
+Social Sciences,1979,Female,inbreeding2,0.2
+Social Sciences,1979,Female,inbreeding3,0.3
+Social Sciences,1979,Female,inbreeding4,0.4
+Social Sciences,1980,Male,inbreeding1,0.045454545
+Social Sciences,1980,Male,inbreeding2,0.090909091
+Social Sciences,1980,Male,inbreeding3,0.113636364
+Social Sciences,1980,Male,inbreeding4,0.159090909
+Social Sciences,1980,Female,inbreeding1,0.166666667
+Social Sciences,1980,Female,inbreeding2,0.277777778
+Social Sciences,1980,Female,inbreeding3,0.166666667
+Social Sciences,1980,Female,inbreeding4,0.277777778
+Social Sciences,1981,Male,inbreeding1,0.068181818
+Social Sciences,1981,Male,inbreeding2,0.159090909
+Social Sciences,1981,Male,inbreeding3,0.090909091
+Social Sciences,1981,Male,inbreeding4,0.181818182
+Social Sciences,1981,Female,inbreeding1,0.047619048
+Social Sciences,1981,Female,inbreeding2,0.142857143
+Social Sciences,1981,Female,inbreeding3,0.238095238
+Social Sciences,1981,Female,inbreeding4,0.333333333
+Social Sciences,1982,Male,inbreeding1,0.053571429
+Social Sciences,1982,Male,inbreeding2,0.125
+Social Sciences,1982,Male,inbreeding3,0.125
+Social Sciences,1982,Male,inbreeding4,0.196428571
+Social Sciences,1982,Female,inbreeding1,0
+Social Sciences,1982,Female,inbreeding2,0.12
+Social Sciences,1982,Female,inbreeding3,0.12
+Social Sciences,1982,Female,inbreeding4,0.24
+Social Sciences,1983,Male,inbreeding1,0.072727273
+Social Sciences,1983,Male,inbreeding2,0.109090909
+Social Sciences,1983,Male,inbreeding3,0.127272727
+Social Sciences,1983,Male,inbreeding4,0.163636364
+Social Sciences,1983,Female,inbreeding1,0.041666667
+Social Sciences,1983,Female,inbreeding2,0.125
+Social Sciences,1983,Female,inbreeding3,0.25
+Social Sciences,1983,Female,inbreeding4,0.333333333
+Social Sciences,1984,Male,inbreeding1,0.020833333
+Social Sciences,1984,Male,inbreeding2,0.125
+Social Sciences,1984,Male,inbreeding3,0.0625
+Social Sciences,1984,Male,inbreeding4,0.166666667
+Social Sciences,1984,Female,inbreeding1,0.058823529
+Social Sciences,1984,Female,inbreeding2,0.117647059
+Social Sciences,1984,Female,inbreeding3,0.147058824
+Social Sciences,1984,Female,inbreeding4,0.205882353
+Social Sciences,1985,Male,inbreeding1,0.086956522
+Social Sciences,1985,Male,inbreeding2,0.15942029
+Social Sciences,1985,Male,inbreeding3,0.15942029
+Social Sciences,1985,Male,inbreeding4,0.231884058
+Social Sciences,1985,Female,inbreeding1,0.033333333
+Social Sciences,1985,Female,inbreeding2,0.2
+Social Sciences,1985,Female,inbreeding3,0.233333333
+Social Sciences,1985,Female,inbreeding4,0.4
+Social Sciences,1986,Male,inbreeding1,0.086956522
+Social Sciences,1986,Male,inbreeding2,0.15942029
+Social Sciences,1986,Male,inbreeding3,0.246376812
+Social Sciences,1986,Male,inbreeding4,0.31884058
+Social Sciences,1986,Female,inbreeding1,0.146341463
+Social Sciences,1986,Female,inbreeding2,0.341463415
+Social Sciences,1986,Female,inbreeding3,0.219512195
+Social Sciences,1986,Female,inbreeding4,0.414634146
+Social Sciences,1987,Male,inbreeding1,0.038461538
+Social Sciences,1987,Male,inbreeding2,0.166666667
+Social Sciences,1987,Male,inbreeding3,0.128205128
+Social Sciences,1987,Male,inbreeding4,0.256410256
+Social Sciences,1987,Female,inbreeding1,0.093023256
+Social Sciences,1987,Female,inbreeding2,0.186046512
+Social Sciences,1987,Female,inbreeding3,0.162790698
+Social Sciences,1987,Female,inbreeding4,0.255813953
+Social Sciences,1988,Male,inbreeding1,0.045045045
+Social Sciences,1988,Male,inbreeding2,0.135135135
+Social Sciences,1988,Male,inbreeding3,0.153153153
+Social Sciences,1988,Male,inbreeding4,0.243243243
+Social Sciences,1988,Female,inbreeding1,0.090909091
+Social Sciences,1988,Female,inbreeding2,0.181818182
+Social Sciences,1988,Female,inbreeding3,0.227272727
+Social Sciences,1988,Female,inbreeding4,0.318181818
+Social Sciences,1989,Male,inbreeding1,0.07
+Social Sciences,1989,Male,inbreeding2,0.15
+Social Sciences,1989,Male,inbreeding3,0.11
+Social Sciences,1989,Male,inbreeding4,0.19
+Social Sciences,1989,Female,inbreeding1,0.094339623
+Social Sciences,1989,Female,inbreeding2,0.20754717
+Social Sciences,1989,Female,inbreeding3,0.188679245
+Social Sciences,1989,Female,inbreeding4,0.301886792
+Social Sciences,1990,Male,inbreeding1,0.104347826
+Social Sciences,1990,Male,inbreeding2,0.182608696
+Social Sciences,1990,Male,inbreeding3,0.208695652
+Social Sciences,1990,Male,inbreeding4,0.286956522
+Social Sciences,1990,Female,inbreeding1,0.131147541
+Social Sciences,1990,Female,inbreeding2,0.245901639
+Social Sciences,1990,Female,inbreeding3,0.262295082
+Social Sciences,1990,Female,inbreeding4,0.37704918
+Social Sciences,1991,Male,inbreeding1,0.096153846
+Social Sciences,1991,Male,inbreeding2,0.163461538
+Social Sciences,1991,Male,inbreeding3,0.201923077
+Social Sciences,1991,Male,inbreeding4,0.269230769
+Social Sciences,1991,Female,inbreeding1,0.104166667
+Social Sciences,1991,Female,inbreeding2,0.1875
+Social Sciences,1991,Female,inbreeding3,0.229166667
+Social Sciences,1991,Female,inbreeding4,0.3125
+Social Sciences,1992,Male,inbreeding1,0.070921986
+Social Sciences,1992,Male,inbreeding2,0.14893617
+Social Sciences,1992,Male,inbreeding3,0.156028369
+Social Sciences,1992,Male,inbreeding4,0.234042553
+Social Sciences,1992,Female,inbreeding1,0.114285714
+Social Sciences,1992,Female,inbreeding2,0.285714286
+Social Sciences,1992,Female,inbreeding3,0.171428571
+Social Sciences,1992,Female,inbreeding4,0.342857143
+Social Sciences,1993,Male,inbreeding1,0.072580645
+Social Sciences,1993,Male,inbreeding2,0.129032258
+Social Sciences,1993,Male,inbreeding3,0.112903226
+Social Sciences,1993,Male,inbreeding4,0.169354839
+Social Sciences,1993,Female,inbreeding1,0.112359551
+Social Sciences,1993,Female,inbreeding2,0.202247191
+Social Sciences,1993,Female,inbreeding3,0.213483146
+Social Sciences,1993,Female,inbreeding4,0.303370787
+Social Sciences,1994,Male,inbreeding1,0.053333333
+Social Sciences,1994,Male,inbreeding2,0.146666667
+Social Sciences,1994,Male,inbreeding3,0.126666667
+Social Sciences,1994,Male,inbreeding4,0.22
+Social Sciences,1994,Female,inbreeding1,0.113043478
+Social Sciences,1994,Female,inbreeding2,0.217391304
+Social Sciences,1994,Female,inbreeding3,0.260869565
+Social Sciences,1994,Female,inbreeding4,0.365217391
+Social Sciences,1995,Male,inbreeding1,0.062068966
+Social Sciences,1995,Male,inbreeding2,0.151724138
+Social Sciences,1995,Male,inbreeding3,0.144827586
+Social Sciences,1995,Male,inbreeding4,0.234482759
+Social Sciences,1995,Female,inbreeding1,0.10989011
+Social Sciences,1995,Female,inbreeding2,0.241758242
+Social Sciences,1995,Female,inbreeding3,0.241758242
+Social Sciences,1995,Female,inbreeding4,0.373626374
+Social Sciences,1996,Male,inbreeding1,0.04
+Social Sciences,1996,Male,inbreeding2,0.146666667
+Social Sciences,1996,Male,inbreeding3,0.133333333
+Social Sciences,1996,Male,inbreeding4,0.24
+Social Sciences,1996,Female,inbreeding1,0.142857143
+Social Sciences,1996,Female,inbreeding2,0.234693878
+Social Sciences,1996,Female,inbreeding3,0.295918367
+Social Sciences,1996,Female,inbreeding4,0.387755102
+Social Sciences,1997,Male,inbreeding1,0.130177515
+Social Sciences,1997,Male,inbreeding2,0.177514793
+Social Sciences,1997,Male,inbreeding3,0.230769231
+Social Sciences,1997,Male,inbreeding4,0.278106509
+Social Sciences,1997,Female,inbreeding1,0.12962963
+Social Sciences,1997,Female,inbreeding2,0.175925926
+Social Sciences,1997,Female,inbreeding3,0.231481481
+Social Sciences,1997,Female,inbreeding4,0.277777778
+Social Sciences,1998,Male,inbreeding1,0.072222222
+Social Sciences,1998,Male,inbreeding2,0.15
+Social Sciences,1998,Male,inbreeding3,0.15
+Social Sciences,1998,Male,inbreeding4,0.227777778
+Social Sciences,1998,Female,inbreeding1,0.126760563
+Social Sciences,1998,Female,inbreeding2,0.204225352
+Social Sciences,1998,Female,inbreeding3,0.190140845
+Social Sciences,1998,Female,inbreeding4,0.267605634
+Social Sciences,1999,Male,inbreeding1,0.082524272
+Social Sciences,1999,Male,inbreeding2,0.17961165
+Social Sciences,1999,Male,inbreeding3,0.160194175
+Social Sciences,1999,Male,inbreeding4,0.257281553
+Social Sciences,1999,Female,inbreeding1,0.136363636
+Social Sciences,1999,Female,inbreeding2,0.21969697
+Social Sciences,1999,Female,inbreeding3,0.204545455
+Social Sciences,1999,Female,inbreeding4,0.287878788
+Social Sciences,2000,Male,inbreeding1,0.070093458
+Social Sciences,2000,Male,inbreeding2,0.140186916
+Social Sciences,2000,Male,inbreeding3,0.158878505
+Social Sciences,2000,Male,inbreeding4,0.228971963
+Social Sciences,2000,Female,inbreeding1,0.073619632
+Social Sciences,2000,Female,inbreeding2,0.190184049
+Social Sciences,2000,Female,inbreeding3,0.165644172
+Social Sciences,2000,Female,inbreeding4,0.282208589
+Social Sciences,2001,Male,inbreeding1,0.058139535
+Social Sciences,2001,Male,inbreeding2,0.124031008
+Social Sciences,2001,Male,inbreeding3,0.15503876
+Social Sciences,2001,Male,inbreeding4,0.220930233
+Social Sciences,2001,Female,inbreeding1,0.06741573
+Social Sciences,2001,Female,inbreeding2,0.185393258
+Social Sciences,2001,Female,inbreeding3,0.207865169
+Social Sciences,2001,Female,inbreeding4,0.325842697
+Social Sciences,2002,Male,inbreeding1,0.067137809
+Social Sciences,2002,Male,inbreeding2,0.204946996
+Social Sciences,2002,Male,inbreeding3,0.120141343
+Social Sciences,2002,Male,inbreeding4,0.25795053
+Social Sciences,2002,Female,inbreeding1,0.075
+Social Sciences,2002,Female,inbreeding2,0.235
+Social Sciences,2002,Female,inbreeding3,0.19
+Social Sciences,2002,Female,inbreeding4,0.35
+Social Sciences,2003,Male,inbreeding1,0.083941606
+Social Sciences,2003,Male,inbreeding2,0.171532847
+Social Sciences,2003,Male,inbreeding3,0.156934307
+Social Sciences,2003,Male,inbreeding4,0.244525547
+Social Sciences,2003,Female,inbreeding1,0.096153846
+Social Sciences,2003,Female,inbreeding2,0.197115385
+Social Sciences,2003,Female,inbreeding3,0.201923077
+Social Sciences,2003,Female,inbreeding4,0.302884615
+Social Sciences,2004,Male,inbreeding1,0.073825503
+Social Sciences,2004,Male,inbreeding2,0.174496644
+Social Sciences,2004,Male,inbreeding3,0.161073826
+Social Sciences,2004,Male,inbreeding4,0.261744966
+Social Sciences,2004,Female,inbreeding1,0.098765432
+Social Sciences,2004,Female,inbreeding2,0.201646091
+Social Sciences,2004,Female,inbreeding3,0.189300412
+Social Sciences,2004,Female,inbreeding4,0.29218107
+Social Sciences,2005,Male,inbreeding1,0.067708333
+Social Sciences,2005,Male,inbreeding2,0.1484375
+Social Sciences,2005,Male,inbreeding3,0.1484375
+Social Sciences,2005,Male,inbreeding4,0.229166667
+Social Sciences,2005,Female,inbreeding1,0.081180812
+Social Sciences,2005,Female,inbreeding2,0.180811808
+Social Sciences,2005,Female,inbreeding3,0.180811808
+Social Sciences,2005,Female,inbreeding4,0.280442804
+Social Sciences,2006,Male,inbreeding1,0.075425791
+Social Sciences,2006,Male,inbreeding2,0.153284672
+Social Sciences,2006,Male,inbreeding3,0.184914842
+Social Sciences,2006,Male,inbreeding4,0.262773723
+Social Sciences,2006,Female,inbreeding1,0.083333333
+Social Sciences,2006,Female,inbreeding2,0.166666667
+Social Sciences,2006,Female,inbreeding3,0.186666667
+Social Sciences,2006,Female,inbreeding4,0.27
+Social Sciences,2007,Male,inbreeding1,0.083333333
+Social Sciences,2007,Male,inbreeding2,0.185714286
+Social Sciences,2007,Male,inbreeding3,0.173809524
+Social Sciences,2007,Male,inbreeding4,0.276190476
+Social Sciences,2007,Female,inbreeding1,0.063829787
+Social Sciences,2007,Female,inbreeding2,0.138297872
+Social Sciences,2007,Female,inbreeding3,0.163120567
+Social Sciences,2007,Female,inbreeding4,0.237588652
+Social Sciences,2008,Male,inbreeding1,0.070450098
+Social Sciences,2008,Male,inbreeding2,0.170254403
+Social Sciences,2008,Male,inbreeding3,0.170254403
+Social Sciences,2008,Male,inbreeding4,0.270058708
+Social Sciences,2008,Female,inbreeding1,0.094086022
+Social Sciences,2008,Female,inbreeding2,0.204301075
+Social Sciences,2008,Female,inbreeding3,0.193548387
+Social Sciences,2008,Female,inbreeding4,0.303763441
+Social Sciences,2009,Male,inbreeding1,0.082329317
+Social Sciences,2009,Male,inbreeding2,0.182730924
+Social Sciences,2009,Male,inbreeding3,0.168674699
+Social Sciences,2009,Male,inbreeding4,0.269076305
+Social Sciences,2009,Female,inbreeding1,0.100529101
+Social Sciences,2009,Female,inbreeding2,0.201058201
+Social Sciences,2009,Female,inbreeding3,0.216931217
+Social Sciences,2009,Female,inbreeding4,0.317460317
+Social Sciences,2010,Male,inbreeding1,0.061788618
+Social Sciences,2010,Male,inbreeding2,0.143089431
+Social Sciences,2010,Male,inbreeding3,0.156097561
+Social Sciences,2010,Male,inbreeding4,0.237398374
+Social Sciences,2010,Female,inbreeding1,0.127906977
+Social Sciences,2010,Female,inbreeding2,0.223255814
+Social Sciences,2010,Female,inbreeding3,0.227906977
+Social Sciences,2010,Female,inbreeding4,0.323255814
+Social Sciences,2011,Male,inbreeding1,0.080991736
+Social Sciences,2011,Male,inbreeding2,0.168595041
+Social Sciences,2011,Male,inbreeding3,0.2
+Social Sciences,2011,Male,inbreeding4,0.287603306
+Social Sciences,2011,Female,inbreeding1,0.1
+Social Sciences,2011,Female,inbreeding2,0.179069767
+Social Sciences,2011,Female,inbreeding3,0.209302326
+Social Sciences,2011,Female,inbreeding4,0.288372093
+Social Sciences,2012,Male,inbreeding1,0.083670715
+Social Sciences,2012,Male,inbreeding2,0.163292848
+Social Sciences,2012,Male,inbreeding3,0.187584345
+Social Sciences,2012,Male,inbreeding4,0.267206478
+Social Sciences,2012,Female,inbreeding1,0.108108108
+Social Sciences,2012,Female,inbreeding2,0.189189189
+Social Sciences,2012,Female,inbreeding3,0.226611227
+Social Sciences,2012,Female,inbreeding4,0.307692308
+Social Sciences,2013,Male,inbreeding1,0.076326003
+Social Sciences,2013,Male,inbreeding2,0.164294955
+Social Sciences,2013,Male,inbreeding3,0.172056921
+Social Sciences,2013,Male,inbreeding4,0.260025873
+Social Sciences,2013,Female,inbreeding1,0.109375
+Social Sciences,2013,Female,inbreeding2,0.177734375
+Social Sciences,2013,Female,inbreeding3,0.228515625
+Social Sciences,2013,Female,inbreeding4,0.296875
+Social Sciences,2014,Male,inbreeding1,0.066924067
+Social Sciences,2014,Male,inbreeding2,0.141570142
+Social Sciences,2014,Male,inbreeding3,0.177606178
+Social Sciences,2014,Male,inbreeding4,0.252252252
+Social Sciences,2014,Female,inbreeding1,0.102106969
+Social Sciences,2014,Female,inbreeding2,0.191247974
+Social Sciences,2014,Female,inbreeding3,0.22528363
+Social Sciences,2014,Female,inbreeding4,0.314424635
+Social Sciences,2015,Male,inbreeding1,0.082954545
+Social Sciences,2015,Male,inbreeding2,0.148863636
+Social Sciences,2015,Male,inbreeding3,0.213636364
+Social Sciences,2015,Male,inbreeding4,0.279545455
+Social Sciences,2015,Female,inbreeding1,0.092651757
+Social Sciences,2015,Female,inbreeding2,0.170926518
+Social Sciences,2015,Female,inbreeding3,0.209265176
+Social Sciences,2015,Female,inbreeding4,0.287539936
+Social Sciences,2016,Male,inbreeding1,0.071095571
+Social Sciences,2016,Male,inbreeding2,0.146853147
+Social Sciences,2016,Male,inbreeding3,0.201631702
+Social Sciences,2016,Male,inbreeding4,0.277389277
+Social Sciences,2016,Female,inbreeding1,0.096671949
+Social Sciences,2016,Female,inbreeding2,0.166402536
+Social Sciences,2016,Female,inbreeding3,0.231378764
+Social Sciences,2016,Female,inbreeding4,0.30110935
+Social Sciences,2017,Male,inbreeding1,0.085747393
+Social Sciences,2017,Male,inbreeding2,0.149478563
+Social Sciences,2017,Male,inbreeding3,0.22363847
+Social Sciences,2017,Male,inbreeding4,0.287369641
+Social Sciences,2017,Female,inbreeding1,0.106317411
+Social Sciences,2017,Female,inbreeding2,0.163328197
+Social Sciences,2017,Female,inbreeding3,0.226502311
+Social Sciences,2017,Female,inbreeding4,0.283513097
+Social Sciences,2018,Male,inbreeding1,0.089048106
+Social Sciences,2018,Male,inbreeding2,0.157625384
+Social Sciences,2018,Male,inbreeding3,0.203684749
+Social Sciences,2018,Male,inbreeding4,0.272262027
+Social Sciences,2018,Female,inbreeding1,0.092436975
+Social Sciences,2018,Female,inbreeding2,0.155462185
+Social Sciences,2018,Female,inbreeding3,0.25210084
+Social Sciences,2018,Female,inbreeding4,0.31512605
+Social Sciences,2019,Male,inbreeding1,0.074235808
+Social Sciences,2019,Male,inbreeding2,0.124454148
+Social Sciences,2019,Male,inbreeding3,0.200873362
+Social Sciences,2019,Male,inbreeding4,0.251091703
+Social Sciences,2019,Female,inbreeding1,0.073637703
+Social Sciences,2019,Female,inbreeding2,0.138438881
+Social Sciences,2019,Female,inbreeding3,0.22533137
+Social Sciences,2019,Female,inbreeding4,0.290132548
+Social Sciences,2020,Male,inbreeding1,0.079872204
+Social Sciences,2020,Male,inbreeding2,0.130990415
+Social Sciences,2020,Male,inbreeding3,0.228434505
+Social Sciences,2020,Male,inbreeding4,0.279552716
+Social Sciences,2020,Female,inbreeding1,0.072761194
+Social Sciences,2020,Female,inbreeding2,0.138059701
+Social Sciences,2020,Female,inbreeding3,0.253731343
+Social Sciences,2020,Female,inbreeding4,0.319029851
+Social Sciences,2021,Male,inbreeding1,0.079796265
+Social Sciences,2021,Male,inbreeding2,0.132427844
+Social Sciences,2021,Male,inbreeding3,0.227504244
+Social Sciences,2021,Male,inbreeding4,0.280135823
+Social Sciences,2021,Female,inbreeding1,0.045553145
+Social Sciences,2021,Female,inbreeding2,0.086767896
+Social Sciences,2021,Female,inbreeding3,0.206073753
+Social Sciences,2021,Female,inbreeding4,0.247288503
+Social Sciences,2022,Male,inbreeding1,0.061776062
+Social Sciences,2022,Male,inbreeding2,0.11969112
+Social Sciences,2022,Male,inbreeding3,0.208494208
+Social Sciences,2022,Male,inbreeding4,0.266409266
+Social Sciences,2022,Female,inbreeding1,0.091743119
+Social Sciences,2022,Female,inbreeding2,0.119266055
+Social Sciences,2022,Female,inbreeding3,0.201834862
+Social Sciences,2022,Female,inbreeding4,0.229357798

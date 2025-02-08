@@ -1,0 +1,321 @@
+Ranking_category,Domain,gender,inbreeding_type,value
+0-500,Humanities,Female,Inbreeding1,0.11683096
+0-500,Humanities,Male,Inbreeding1,0.098492462
+0-500,Social Sciences,Female,Inbreeding1,0.112393162
+0-500,Social Sciences,Male,Inbreeding1,0.083794006
+0-500,Natural Sciences,Female,Inbreeding1,0.105481377
+0-500,Natural Sciences,Male,Inbreeding1,0.081665536
+0-500,Mathematics and Computing,Female,Inbreeding1,0.112745098
+0-500,Mathematics and Computing,Male,Inbreeding1,0.09469075
+0-500,Applied Sciences,Female,Inbreeding1,0.116744835
+0-500,Applied Sciences,Male,Inbreeding1,0.096470588
+0-500,Medicine and Health,Female,Inbreeding1,0.12119854
+0-500,Medicine and Health,Male,Inbreeding1,0.097542405
+0-500,Engineering,Female,Inbreeding1,0.112369815
+0-500,Engineering,Male,Inbreeding1,0.102762662
+0-500,Education,Female,Inbreeding1,0.129411765
+0-500,Education,Male,Inbreeding1,0.121308859
+501-1000,Humanities,Female,Inbreeding1,0.14
+501-1000,Humanities,Male,Inbreeding1,0.112343967
+501-1000,Social Sciences,Female,Inbreeding1,0.15625
+501-1000,Social Sciences,Male,Inbreeding1,0.118209256
+501-1000,Natural Sciences,Female,Inbreeding1,0.167504631
+501-1000,Natural Sciences,Male,Inbreeding1,0.136454003
+501-1000,Mathematics and Computing,Female,Inbreeding1,0.137532134
+501-1000,Mathematics and Computing,Male,Inbreeding1,0.130100077
+501-1000,Applied Sciences,Female,Inbreeding1,0.160977502
+501-1000,Applied Sciences,Male,Inbreeding1,0.120240481
+501-1000,Medicine and Health,Female,Inbreeding1,0.196826209
+501-1000,Medicine and Health,Male,Inbreeding1,0.168651181
+501-1000,Engineering,Female,Inbreeding1,0.116692035
+501-1000,Engineering,Male,Inbreeding1,0.096675049
+501-1000,Education,Female,Inbreeding1,0.148558758
+501-1000,Education,Male,Inbreeding1,0.136283186
+1001-1500,Humanities,Female,Inbreeding1,0.139451728
+1001-1500,Humanities,Male,Inbreeding1,0.112840467
+1001-1500,Social Sciences,Female,Inbreeding1,0.138888889
+1001-1500,Social Sciences,Male,Inbreeding1,0.137285491
+1001-1500,Natural Sciences,Female,Inbreeding1,0.163062284
+1001-1500,Natural Sciences,Male,Inbreeding1,0.117789921
+1001-1500,Mathematics and Computing,Female,Inbreeding1,0.134831461
+1001-1500,Mathematics and Computing,Male,Inbreeding1,0.075256556
+1001-1500,Applied Sciences,Female,Inbreeding1,0.135613208
+1001-1500,Applied Sciences,Male,Inbreeding1,0.115500215
+1001-1500,Medicine and Health,Female,Inbreeding1,0.15937606
+1001-1500,Medicine and Health,Male,Inbreeding1,0.145867542
+1001-1500,Engineering,Female,Inbreeding1,0.108303249
+1001-1500,Engineering,Male,Inbreeding1,0.088918677
+1001-1500,Education,Female,Inbreeding1,0.145454545
+1001-1500,Education,Male,Inbreeding1,0.148148148
+1501-2000,Humanities,Female,Inbreeding1,0.112956811
+1501-2000,Humanities,Male,Inbreeding1,0.07277628
+1501-2000,Social Sciences,Female,Inbreeding1,0.094512195
+1501-2000,Social Sciences,Male,Inbreeding1,0.059548255
+1501-2000,Natural Sciences,Female,Inbreeding1,0.085155351
+1501-2000,Natural Sciences,Male,Inbreeding1,0.082980525
+1501-2000,Mathematics and Computing,Female,Inbreeding1,0.059139785
+1501-2000,Mathematics and Computing,Male,Inbreeding1,0.092465753
+1501-2000,Applied Sciences,Female,Inbreeding1,0.103386809
+1501-2000,Applied Sciences,Male,Inbreeding1,0.093862816
+1501-2000,Medicine and Health,Female,Inbreeding1,0.081384471
+1501-2000,Medicine and Health,Male,Inbreeding1,0.085311573
+1501-2000,Engineering,Female,Inbreeding1,0.062801932
+1501-2000,Engineering,Male,Inbreeding1,0.075924076
+1501-2000,Education,Female,Inbreeding1,0.078014184
+1501-2000,Education,Male,Inbreeding1,0.053658537
+>2000,Humanities,Female,Inbreeding1,0.039274924
+>2000,Humanities,Male,Inbreeding1,0.035510463
+>2000,Social Sciences,Female,Inbreeding1,0.040063258
+>2000,Social Sciences,Male,Inbreeding1,0.037860687
+>2000,Natural Sciences,Female,Inbreeding1,0.037456624
+>2000,Natural Sciences,Male,Inbreeding1,0.034878921
+>2000,Mathematics and Computing,Female,Inbreeding1,0.039584364
+>2000,Mathematics and Computing,Male,Inbreeding1,0.042628292
+>2000,Applied Sciences,Female,Inbreeding1,0.02446117
+>2000,Applied Sciences,Male,Inbreeding1,0.024201232
+>2000,Medicine and Health,Female,Inbreeding1,0.034201123
+>2000,Medicine and Health,Male,Inbreeding1,0.034238614
+>2000,Engineering,Female,Inbreeding1,0.033065936
+>2000,Engineering,Male,Inbreeding1,0.030001083
+>2000,Education,Female,Inbreeding1,0.032376298
+>2000,Education,Male,Inbreeding1,0.038270378
+0-500,Humanities,Female,Inbreeding2,0.193136181
+0-500,Humanities,Male,Inbreeding2,0.158542714
+0-500,Social Sciences,Female,Inbreeding2,0.17457265
+0-500,Social Sciences,Male,Inbreeding2,0.139365726
+0-500,Natural Sciences,Female,Inbreeding2,0.160997892
+0-500,Natural Sciences,Male,Inbreeding2,0.128773745
+0-500,Mathematics and Computing,Female,Inbreeding2,0.180392157
+0-500,Mathematics and Computing,Male,Inbreeding2,0.160372195
+0-500,Applied Sciences,Female,Inbreeding2,0.178856636
+0-500,Applied Sciences,Male,Inbreeding2,0.155904139
+0-500,Medicine and Health,Female,Inbreeding2,0.179460913
+0-500,Medicine and Health,Male,Inbreeding2,0.149612961
+0-500,Engineering,Female,Inbreeding2,0.174492965
+0-500,Engineering,Male,Inbreeding2,0.172247802
+0-500,Education,Female,Inbreeding2,0.211764706
+0-500,Education,Male,Inbreeding2,0.194732642
+501-1000,Humanities,Female,Inbreeding2,0.238095238
+501-1000,Humanities,Male,Inbreeding2,0.220527046
+501-1000,Social Sciences,Female,Inbreeding2,0.254464286
+501-1000,Social Sciences,Male,Inbreeding2,0.214285714
+501-1000,Natural Sciences,Female,Inbreeding2,0.285260651
+501-1000,Natural Sciences,Male,Inbreeding2,0.254111693
+501-1000,Mathematics and Computing,Female,Inbreeding2,0.271208226
+501-1000,Mathematics and Computing,Male,Inbreeding2,0.254811393
+501-1000,Applied Sciences,Female,Inbreeding2,0.268813033
+501-1000,Applied Sciences,Male,Inbreeding2,0.223017463
+501-1000,Medicine and Health,Female,Inbreeding2,0.310980292
+501-1000,Medicine and Health,Male,Inbreeding2,0.290845208
+501-1000,Engineering,Female,Inbreeding2,0.244545916
+501-1000,Engineering,Male,Inbreeding2,0.233864208
+501-1000,Education,Female,Inbreeding2,0.270509978
+501-1000,Education,Male,Inbreeding2,0.244247788
+1001-1500,Humanities,Female,Inbreeding2,0.295589988
+1001-1500,Humanities,Male,Inbreeding2,0.281128405
+1001-1500,Social Sciences,Female,Inbreeding2,0.291666667
+1001-1500,Social Sciences,Male,Inbreeding2,0.284711388
+1001-1500,Natural Sciences,Female,Inbreeding2,0.320934256
+1001-1500,Natural Sciences,Male,Inbreeding2,0.267759563
+1001-1500,Mathematics and Computing,Female,Inbreeding2,0.277153558
+1001-1500,Mathematics and Computing,Male,Inbreeding2,0.251995439
+1001-1500,Applied Sciences,Female,Inbreeding2,0.283018868
+1001-1500,Applied Sciences,Male,Inbreeding2,0.244740232
+1001-1500,Medicine and Health,Female,Inbreeding2,0.310952865
+1001-1500,Medicine and Health,Male,Inbreeding2,0.299671593
+1001-1500,Engineering,Female,Inbreeding2,0.244043321
+1001-1500,Engineering,Male,Inbreeding2,0.242180518
+1001-1500,Education,Female,Inbreeding2,0.293506494
+1001-1500,Education,Male,Inbreeding2,0.275462963
+1501-2000,Humanities,Female,Inbreeding2,0.302325581
+1501-2000,Humanities,Male,Inbreeding2,0.212938005
+1501-2000,Social Sciences,Female,Inbreeding2,0.213414634
+1501-2000,Social Sciences,Male,Inbreeding2,0.160164271
+1501-2000,Natural Sciences,Female,Inbreeding2,0.209436133
+1501-2000,Natural Sciences,Male,Inbreeding2,0.198137172
+1501-2000,Mathematics and Computing,Female,Inbreeding2,0.177419355
+1501-2000,Mathematics and Computing,Male,Inbreeding2,0.239726027
+1501-2000,Applied Sciences,Female,Inbreeding2,0.215686275
+1501-2000,Applied Sciences,Male,Inbreeding2,0.197352587
+1501-2000,Medicine and Health,Female,Inbreeding2,0.219831618
+1501-2000,Medicine and Health,Male,Inbreeding2,0.215133531
+1501-2000,Engineering,Female,Inbreeding2,0.136876006
+1501-2000,Engineering,Male,Inbreeding2,0.154845155
+1501-2000,Education,Female,Inbreeding2,0.241134752
+1501-2000,Education,Male,Inbreeding2,0.175609756
+>2000,Humanities,Female,Inbreeding2,0.115407855
+>2000,Humanities,Male,Inbreeding2,0.107588248
+>2000,Social Sciences,Female,Inbreeding2,0.116499736
+>2000,Social Sciences,Male,Inbreeding2,0.113949642
+>2000,Natural Sciences,Female,Inbreeding2,0.100428659
+>2000,Natural Sciences,Male,Inbreeding2,0.099270776
+>2000,Mathematics and Computing,Female,Inbreeding2,0.135081643
+>2000,Mathematics and Computing,Male,Inbreeding2,0.134944339
+>2000,Applied Sciences,Female,Inbreeding2,0.069107082
+>2000,Applied Sciences,Male,Inbreeding2,0.070761608
+>2000,Medicine and Health,Female,Inbreeding2,0.094581784
+>2000,Medicine and Health,Male,Inbreeding2,0.087393004
+>2000,Engineering,Female,Inbreeding2,0.120915672
+>2000,Engineering,Male,Inbreeding2,0.120979097
+>2000,Education,Female,Inbreeding2,0.121563836
+>2000,Education,Male,Inbreeding2,0.113817097
+0-500,Humanities,Female,Inbreeding3,0.267615918
+0-500,Humanities,Male,Inbreeding3,0.243969849
+0-500,Social Sciences,Female,Inbreeding3,0.269017094
+0-500,Social Sciences,Male,Inbreeding3,0.218359034
+0-500,Natural Sciences,Female,Inbreeding3,0.247013352
+0-500,Natural Sciences,Male,Inbreeding3,0.212220149
+0-500,Mathematics and Computing,Female,Inbreeding3,0.234803922
+0-500,Mathematics and Computing,Male,Inbreeding3,0.225232622
+0-500,Applied Sciences,Female,Inbreeding3,0.272531373
+0-500,Applied Sciences,Male,Inbreeding3,0.242004357
+0-500,Medicine and Health,Female,Inbreeding3,0.290735642
+0-500,Medicine and Health,Male,Inbreeding3,0.256757328
+0-500,Engineering,Female,Inbreeding3,0.278823314
+0-500,Engineering,Male,Inbreeding3,0.2613018
+0-500,Education,Female,Inbreeding3,0.314705882
+0-500,Education,Male,Inbreeding3,0.292897047
+501-1000,Humanities,Female,Inbreeding3,0.294285714
+501-1000,Humanities,Male,Inbreeding3,0.256588072
+501-1000,Social Sciences,Female,Inbreeding3,0.3125
+501-1000,Social Sciences,Male,Inbreeding3,0.250503018
+501-1000,Natural Sciences,Female,Inbreeding3,0.332627679
+501-1000,Natural Sciences,Male,Inbreeding3,0.272908007
+501-1000,Mathematics and Computing,Female,Inbreeding3,0.28277635
+501-1000,Mathematics and Computing,Male,Inbreeding3,0.24095458
+501-1000,Applied Sciences,Female,Inbreeding3,0.312645462
+501-1000,Applied Sciences,Male,Inbreeding3,0.266533066
+501-1000,Medicine and Health,Female,Inbreeding3,0.368057333
+501-1000,Medicine and Health,Male,Inbreeding3,0.329104041
+501-1000,Engineering,Female,Inbreeding3,0.263318113
+501-1000,Engineering,Male,Inbreeding3,0.245599329
+501-1000,Education,Female,Inbreeding3,0.354767184
+501-1000,Education,Male,Inbreeding3,0.302654867
+1001-1500,Humanities,Female,Inbreeding3,0.266984505
+1001-1500,Humanities,Male,Inbreeding3,0.243190661
+1001-1500,Social Sciences,Female,Inbreeding3,0.277777778
+1001-1500,Social Sciences,Male,Inbreeding3,0.266770671
+1001-1500,Natural Sciences,Female,Inbreeding3,0.296712803
+1001-1500,Natural Sciences,Male,Inbreeding3,0.24863388
+1001-1500,Mathematics and Computing,Female,Inbreeding3,0.280898876
+1001-1500,Mathematics and Computing,Male,Inbreeding3,0.180159635
+1001-1500,Applied Sciences,Female,Inbreeding3,0.260023585
+1001-1500,Applied Sciences,Male,Inbreeding3,0.237011593
+1001-1500,Medicine and Health,Female,Inbreeding3,0.318413021
+1001-1500,Medicine and Health,Male,Inbreeding3,0.275862069
+1001-1500,Engineering,Female,Inbreeding3,0.23898917
+1001-1500,Engineering,Male,Inbreeding3,0.217158177
+1001-1500,Education,Female,Inbreeding3,0.254545455
+1001-1500,Education,Male,Inbreeding3,0.287037037
+1501-2000,Humanities,Female,Inbreeding3,0.22923588
+1501-2000,Humanities,Male,Inbreeding3,0.140161725
+1501-2000,Social Sciences,Female,Inbreeding3,0.192073171
+1501-2000,Social Sciences,Male,Inbreeding3,0.180698152
+1501-2000,Natural Sciences,Female,Inbreeding3,0.224395857
+1501-2000,Natural Sciences,Male,Inbreeding3,0.193056732
+1501-2000,Mathematics and Computing,Female,Inbreeding3,0.215053763
+1501-2000,Mathematics and Computing,Male,Inbreeding3,0.195205479
+1501-2000,Applied Sciences,Female,Inbreeding3,0.199643494
+1501-2000,Applied Sciences,Male,Inbreeding3,0.210589651
+1501-2000,Medicine and Health,Female,Inbreeding3,0.187090739
+1501-2000,Medicine and Health,Male,Inbreeding3,0.211424332
+1501-2000,Engineering,Female,Inbreeding3,0.199677939
+1501-2000,Engineering,Male,Inbreeding3,0.216783217
+1501-2000,Education,Female,Inbreeding3,0.141843972
+1501-2000,Education,Male,Inbreeding3,0.214634146
+>2000,Humanities,Female,Inbreeding3,0.106042296
+>2000,Humanities,Male,Inbreeding3,0.088987529
+>2000,Social Sciences,Female,Inbreeding3,0.106220348
+>2000,Social Sciences,Male,Inbreeding3,0.097959934
+>2000,Natural Sciences,Female,Inbreeding3,0.106246173
+>2000,Natural Sciences,Male,Inbreeding3,0.094867914
+>2000,Mathematics and Computing,Female,Inbreeding3,0.111331024
+>2000,Mathematics and Computing,Male,Inbreeding3,0.111050774
+>2000,Applied Sciences,Female,Inbreeding3,0.079199453
+>2000,Applied Sciences,Male,Inbreeding3,0.069999365
+>2000,Medicine and Health,Female,Inbreeding3,0.097863341
+>2000,Medicine and Health,Male,Inbreeding3,0.091302969
+>2000,Engineering,Female,Inbreeding3,0.10076306
+>2000,Engineering,Male,Inbreeding3,0.0922777
+>2000,Education,Female,Inbreeding3,0.101405009
+>2000,Education,Male,Inbreeding3,0.089960239
+0-500,Humanities,Female,Inbreeding4,0.343921139
+0-500,Humanities,Male,Inbreeding4,0.304020101
+0-500,Social Sciences,Female,Inbreeding4,0.331196581
+0-500,Social Sciences,Male,Inbreeding4,0.273930754
+0-500,Natural Sciences,Female,Inbreeding4,0.302529866
+0-500,Natural Sciences,Male,Inbreeding4,0.259328358
+0-500,Mathematics and Computing,Female,Inbreeding4,0.30245098
+0-500,Mathematics and Computing,Male,Inbreeding4,0.290914067
+0-500,Applied Sciences,Female,Inbreeding4,0.334643174
+0-500,Applied Sciences,Male,Inbreeding4,0.301437908
+0-500,Medicine and Health,Female,Inbreeding4,0.348998015
+0-500,Medicine and Health,Male,Inbreeding4,0.308827884
+0-500,Engineering,Female,Inbreeding4,0.340946464
+0-500,Engineering,Male,Inbreeding4,0.33078694
+0-500,Education,Female,Inbreeding4,0.397058824
+0-500,Education,Male,Inbreeding4,0.36632083
+501-1000,Humanities,Female,Inbreeding4,0.392380952
+501-1000,Humanities,Male,Inbreeding4,0.364771151
+501-1000,Social Sciences,Female,Inbreeding4,0.410714286
+501-1000,Social Sciences,Male,Inbreeding4,0.346579477
+501-1000,Natural Sciences,Female,Inbreeding4,0.450383699
+501-1000,Natural Sciences,Male,Inbreeding4,0.390565697
+501-1000,Mathematics and Computing,Female,Inbreeding4,0.416452442
+501-1000,Mathematics and Computing,Male,Inbreeding4,0.365665897
+501-1000,Applied Sciences,Female,Inbreeding4,0.420480993
+501-1000,Applied Sciences,Male,Inbreeding4,0.369310049
+501-1000,Medicine and Health,Female,Inbreeding4,0.482211415
+501-1000,Medicine and Health,Male,Inbreeding4,0.451298068
+501-1000,Engineering,Female,Inbreeding4,0.391171994
+501-1000,Engineering,Male,Inbreeding4,0.382788488
+501-1000,Education,Female,Inbreeding4,0.476718404
+501-1000,Education,Male,Inbreeding4,0.410619469
+1001-1500,Humanities,Female,Inbreeding4,0.423122765
+1001-1500,Humanities,Male,Inbreeding4,0.411478599
+1001-1500,Social Sciences,Female,Inbreeding4,0.430555556
+1001-1500,Social Sciences,Male,Inbreeding4,0.414196568
+1001-1500,Natural Sciences,Female,Inbreeding4,0.454584775
+1001-1500,Natural Sciences,Male,Inbreeding4,0.398603522
+1001-1500,Mathematics and Computing,Female,Inbreeding4,0.423220974
+1001-1500,Mathematics and Computing,Male,Inbreeding4,0.356898518
+1001-1500,Applied Sciences,Female,Inbreeding4,0.407429245
+1001-1500,Applied Sciences,Male,Inbreeding4,0.36625161
+1001-1500,Medicine and Health,Female,Inbreeding4,0.469989827
+1001-1500,Medicine and Health,Male,Inbreeding4,0.429666119
+1001-1500,Engineering,Female,Inbreeding4,0.374729242
+1001-1500,Engineering,Male,Inbreeding4,0.370420018
+1001-1500,Education,Female,Inbreeding4,0.402597403
+1001-1500,Education,Male,Inbreeding4,0.414351852
+1501-2000,Humanities,Female,Inbreeding4,0.418604651
+1501-2000,Humanities,Male,Inbreeding4,0.28032345
+1501-2000,Social Sciences,Female,Inbreeding4,0.31097561
+1501-2000,Social Sciences,Male,Inbreeding4,0.281314168
+1501-2000,Natural Sciences,Female,Inbreeding4,0.34867664
+1501-2000,Natural Sciences,Male,Inbreeding4,0.308213378
+1501-2000,Mathematics and Computing,Female,Inbreeding4,0.333333333
+1501-2000,Mathematics and Computing,Male,Inbreeding4,0.342465753
+1501-2000,Applied Sciences,Female,Inbreeding4,0.311942959
+1501-2000,Applied Sciences,Male,Inbreeding4,0.314079422
+1501-2000,Medicine and Health,Female,Inbreeding4,0.325537886
+1501-2000,Medicine and Health,Male,Inbreeding4,0.341246291
+1501-2000,Engineering,Female,Inbreeding4,0.273752013
+1501-2000,Engineering,Male,Inbreeding4,0.295704296
+1501-2000,Education,Female,Inbreeding4,0.304964539
+1501-2000,Education,Male,Inbreeding4,0.336585366
+>2000,Humanities,Female,Inbreeding4,0.182175227
+>2000,Humanities,Male,Inbreeding4,0.161065314
+>2000,Social Sciences,Female,Inbreeding4,0.182656827
+>2000,Social Sciences,Male,Inbreeding4,0.174048888
+>2000,Natural Sciences,Female,Inbreeding4,0.169218208
+>2000,Natural Sciences,Male,Inbreeding4,0.159259769
+>2000,Mathematics and Computing,Female,Inbreeding4,0.206828303
+>2000,Mathematics and Computing,Male,Inbreeding4,0.203366821
+>2000,Applied Sciences,Female,Inbreeding4,0.123845364
+>2000,Applied Sciences,Male,Inbreeding4,0.116559741
+>2000,Medicine and Health,Female,Inbreeding4,0.158244002
+>2000,Medicine and Health,Male,Inbreeding4,0.14445736
+>2000,Engineering,Female,Inbreeding4,0.188612796
+>2000,Engineering,Male,Inbreeding4,0.183255713
+>2000,Education,Female,Inbreeding4,0.190592547
+>2000,Education,Male,Inbreeding4,0.165506958
