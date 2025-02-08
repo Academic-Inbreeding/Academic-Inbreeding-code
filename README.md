@@ -1,1 +1,2 @@
-# Academic-Inbreeding-code
+# README: Research Article"Gender Disparities in Academic Inbreeding and Career Progression"
+This repository contains data, code, and resources related to the research article “Gender Disparities in Academic Inbreeding and Career Progression”. This study investigates the impact of academic inbreeding on faculty recruitment and its gendered dimensions through analysis of 349,876 faculty career records from ORCID. 
