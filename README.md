@@ -3,10 +3,10 @@ This repository contains data, code, and resources related to the research artic
 
 Contents
 ---
-demo: Contains 1,000 data from our database.
+demo: Contains 1,000 data from our 3 database.
 processing code: R scripts used in data preparation and annotation.
 source data: Resulting datasets used for generating plots.
-fig code: R scripts for visualizing the results.
+
 
 System Requirements
 ---
@@ -15,7 +15,7 @@ R Version: R 4.3.3 (2024-02-29 ucrt) License: R is distributed under the GNU Gen
 
 Demo
 ---
-To run the demo: Load the provided dataset (/demo/demo.csv) into R
+To run the demo: Load the provided dataset  into R
 
 License
 ---
